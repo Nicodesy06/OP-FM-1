@@ -1,0 +1,12 @@
+# Proprietary material (OP-1 firmware, extracted files, memory images, dumps)
+# is NEVER committed. It lives in private/ (or the scratchpad) and is
+# reproduced with tools/fetch_firmware.sh + tools/ldr/*.py.
+private/
+*.op1
+*.ldr
+*.img
+*.bin
+!prototype/**/testvec_*.bin
+build/
+__pycache__/
+*.pyc
