@@ -1,0 +1,18 @@
+start	end	kind	bytes_246	bytes_248	decoded_change	hook_by_counter_evidence
+0x018f7387	0x018f7391	data (version string)	202020522e203030323436	522e203030323438203a29	'   R. 00246' -> 'R. 00248 :)'	-
+0x018c35b5	0x018c35b5	data (build string)	36	38	'Rev. 00246; 2022/11/09 16:17:00; 8.1.11.1' -> 'Rev. 00248; ...'	-
+0x018db111	0x018db111	data (build string)	36	38	'Rev. 00246; 2022/11/09 16:17:00; 8.1.11.1' -> 'Rev. 00248; ...'	-
+0x018fc0b0	0x018fc0b3	data (code pointer)	b88ea501	4a00e001	0x01a58eb8 -> 0x01e0004a	H4_arrows (dir=1)
+0x018fc0b4	0x018fc0b7	data (code pointer)	d68ea501	5000e001	0x01a58ed6 -> 0x01e00050	H4_arrows (dir=2)
+0x0191c750	0x0191c753	code	09e13073	27e25023	P1.l=0x7330 -> jump.l 0x01e00df0	H5_queue_empty
+0x019975f0	0x019975f3	code	00e3a042	23e34246	call 0x0199fb30 -> call 0x01e00274	module init dispatcher (writes /log/mods.txt)
+0x019ad220	0x019ad223	code	07e3f27d	22e34ca7	call 0x01a9ce04 -> call 0x01e020b8	H11_name_format
+0x019ad5a6	0x019ad5a9	code	07e32f7c	22e389a5	call 0x01a9ce04 -> call 0x01e020b8	H11_name_format
+0x019b2690	0x019b2693	code	04e3484a	22e3b66d	call 0x01a3bb20 -> call 0x01e001fc	per-frame dispatcher (calls module frame callbacks; probable H7_frames)
+0x019c2d3e	0x019c2d41	code	ffe39b9f	21e309fa	call 0x019b6c74 -> call 0x01e02150	H8_keys
+0x019c2e94	0x019c2e97	code	ffe3bc9e	21e3e8f9	call 0x019b6c0c -> call 0x01e02264	H9_encoders
+0x019f0a2a	0x019f0a2d	code	f9e39b55	20e3b583	call 0x0191b560 -> call 0x01e01194	H3_mainloop
+0x019f0a3c	0x019f0a3f	code	fde32ae3	20e3468a	call 0x019ad090 -> call 0x01e01ec8	H10_hold_save
+0x01a53ec8	0x01a53ecb	code	00e80000	1de2b867	link 0x0 -> jump.l 0x01e00e38	H1_rec_on / H1_rec_off
+0x01a54808	0x01a5480f	code	00ce0602aaa80000	1de3fc5b03c00018	[r1.l=ASHIFT r6.l BY r0.l || R2=W[P5+0x4](X)] -> call 0x01e00000; mnop	H2b_mark
+0x01a54842	0x01a54845	code	02e3a12b	1de3fb5b	call 0x01a99f84 -> call 0x01e00038	H2_writeback

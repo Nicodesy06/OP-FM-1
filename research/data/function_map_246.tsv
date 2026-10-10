@@ -1,0 +1,3680 @@
+entry	reached_bytes	insns	direct_callers	callees	indirect_calls	hwloops	mmr_hi	l1_hi	module	module_evidence	near_module
+0x0191209c	12	6	4	0	0	0					
+0x019120d0	44	17	2	0	0	0					
+0x019120fc	30	12	3	0	0	0					
+0x0191211a	14	7	4	0	0	0					
+0x0191264c	140	45	20	2	0	0		0xff80	dsp/Adsr.cpp	assert	
+0x0191273c	18	9	4	0	0	0					
+0x01912790	184	62	1	2	0	0		0xff90			
+0x01912848	340	103	1	3	3	0					
+0x019129ac	732	238	1	8	4	0		0xffa0			
+0x01912c90	470	131	3	1	0	0					
+0x01912e68	464	133	3	1	0	0					
+0x01913038	346	99	1	2	0	0					
+0x01913194	464	133	3	1	0	0					
+0x01913364	462	131	3	1	0	0					
+0x01913534	302	102	1	5	0	0					
+0x01913664	1066	349	1	16	0	0		0xff90			
+0x01913e30	98	37	1	2	0	1					
+0x01913e94	94	29	1	2	0	1					
+0x0191406c	72	31	7	1	0	0					
+0x019140b4	62	29	5	0	0	0					
+0x019140f2	58	19	2	0	0	0					
+0x0191412c	216	86	9	4	0	0			gui/lib/AGG/agg.cpp	assert	
+0x01914204	716	203	4	2	0	0					
+0x019144d0	1074	308	1	3	0	0					
+0x01914904	188	68	24	1	0	0					
+0x019149c4	212	65	16	2	0	0					
+0x01914bcc	134	50	2	5	0	0					
+0x01914c54	32	10	32	1	0	0					
+0x01914c74	58	19	19	2	0	0					
+0x01914cae	68	19	14	1	0	0					
+0x01914cf4	36	11	9	2	0	0					
+0x01914d18	36	11	5	1	0	0					
+0x01914d3c	32	7	2	1	0	0					
+0x01914d5c	54	20	1	0	0	1		0xff90			
+0x01914d94	746	286	1	5	0	0					
+0x01915088	404	159	2	6	0	0					
+0x01915224	532	183	1	5	0	1					
+0x01915438	274	106	2	4	0	0					
+0x0191554c	44	20	3	0	0	0		0xff90			
+0x01915578	12	4	1	0	0	0					
+0x01915584	12	4	1	0	0	0		0xff90			
+0x01915590	92	37	5	0	0	0		0xff90			
+0x019155ec	14	5	1	0	0	0		0xff90			
+0x019155fc	12	4	1	0	0	0		0xff90			
+0x01915750	36	12	1	1	0	0		0xff90			
+0x01915778	1006	351	2	7	0	0		0xff90			
+0x01915ba0	50	16	1	2	0	0					
+0x01915da8	248	86	3	1	0	2					
+0x01915ea0	826	267	4	2	0	0					
+0x01917c80	234	63	1	2	0	0					
+0x01917d6c	70	22	1	2	0	0		0xff90			
+0x019181e4	126	46	1	1	0	0					
+0x01918264	422	140	3	7	0	0			alter.c	assert	
+0x01918410	1080	343	1	26	0	0			alter.c	assert	
+0x0191885c	850	281	1	18	0	1			alter.c	assert	
+0x01918bb8	512	176	1	12	0	0			alter.c	assert	
+0x01918dc0	2	1	2	0	0	0					
+0x01918dc4	270	92	4	9	0	0		0xff90	analyze.c	assert	
+0x01918ed4	1086	389	4	15	0	0			analyze.c	assert	
+0x01919320	790	255	2	13	0	0			analyze.c	assert	
+0x01919708	254	92	2	8	0	0			analyze.c	assert	
+0x01919806	18	9	112	0	0	0					
+0x01919818	16	8	60	0	0	0					
+0x01919828	16	8	69	0	0	0					
+0x01919838	50	19	135	1	0	0			gui/screens/Animation.cpp	assert	
+0x0191986c	142	57	71	0	0	0					
+0x01919954	8	3	1	0	0	0					
+0x0191995c	332	118	1	6	0	0		0xff90			
+0x01919aa8	110	40	4524	6	0	0		0xff90			
+0x01919f68	628	198	2	14	0	0			attach.c	assert	
+0x0191a1e8	36	13	1	1	0	0		0xff90		near	attach.c
+0x0191a20c	36	13	1	1	0	0		0xff90		near	attach.c
+0x0191a230	130	47	4	1	0	0			attach.c	assert	
+0x0191a2b4	262	84	2	6	0	0			attach.c	assert	
+0x0191a3c0	344	121	8	7	0	0			attach.c	assert	
+0x0191a520	156	56	8	3	0	0					
+0x0191a5c0	154	61	5	3	0	0					
+0x0191a65c	328	127	1	3	0	0					
+0x0191a7c0	12	4	3	0	0	0		0xff90			
+0x0191a7cc	12	4	5	0	0	0		0xff80			
+0x0191a820	96	32	2	1	0	0	0xffc0				
+0x0191a954	490	158	1	2	0	0					
+0x0191ab40	722	231	1	5	0	0	0xffc0,0xfff0	0xff80,0xff90,0xffa0			
+0x0191ae14	78	27	1	1	0	0					
+0x0191ae68	180	66	2	2	0	0		0xff90			
+0x0191af28	112	35	1	1	0	1		0xff90			
+0x0191af98	148	53	4	2	0	0		0xff90	bf/audio.cpp	assert	
+0x0191b10c	242	90	2	7	0	0		0xff90	bf/audio.cpp	assert	
+0x0191b200	198	77	2	3	0	0		0xff90	bf/audio.cpp	assert	
+0x0191b320	10	3	2	0	0	0					
+0x0191b32c	16	6	5	0	0	0					
+0x0191b33c	16	6	1	0	0	0					
+0x0191b34c	12	4	2	0	0	0					
+0x0191b358	258	83	1	7	0	0			dsp/audio_clipboard.cpp	assert	
+0x0191b45c	258	83	1	7	0	0			dsp/audio_clipboard.cpp	assert	
+0x0191b560	228	76	1	1	0	0				near	dsp/audio_clipboard.cpp
+0x0191bbd0	394	137	3	1	1	0		0xff90,0xffa0	dsp/audio_clipboard.cpp	assert	
+0x0191bd64	320	109	1	1	1	0		0xffa0	dsp/audio_clipboard.cpp	assert	
+0x0191bea8	292	97	3	1	1	0		0xffa0		near	dsp/audio_clipboard.cpp
+0x0191bfd0	290	94	1	1	1	0		0xffa0		near	dsp/audio_clipboard.cpp
+0x0191c0f4	388	131	1	5	1	0		0xffa0	dsp/audio_clipboard.cpp	assert	
+0x0191c27c	408	136	1	6	1	0		0xffa0	dsp/audio_clipboard.cpp	assert	
+0x0191c418	408	136	1	6	1	0		0xffa0	dsp/audio_clipboard.cpp	assert	
+0x0191c5b4	408	136	1	6	1	0		0xffa0	dsp/audio_clipboard.cpp	assert	
+0x0191c750	20	8	3	0	0	0				near	dsp/audio_clipboard.cpp
+0x0191c764	248	85	1	1	2	0		0xffa0		near	dsp/audio_clipboard.cpp
+0x0191c860	124	43	4	1	1	0		0xffa0	dsp/audio_clipboard.cpp	assert	
+0x0191c9fc	28	10	8	0	0	0					
+0x0191ca64	216	82	1	1	0	3					
+0x0191cba4	654	233	38	2	1	6		0xffa0			
+0x0191ce34	1340	364	1	1	0	0					
+0x0191d370	416	128	3	9	1	1		0xffa0	main/ctls/AudioCodecController.cpp	assert	
+0x0191d4a0	116	33	1	4	0	0					
+0x0191d66a	474	118	8	0	0	0					
+0x0191d844	174	52	8	1	0	0					
+0x0191d8f4	248	86	2	1	0	2					
+0x0191d9ec	76	28	1	2	0	0					
+0x0191da38	76	28	1	2	0	0					
+0x0191da84	108	31	3	2	0	0		0xff90			
+0x0191db34	132	47	2	2	0	0					
+0x0191dbb8	7120	1835	1	10	0	0					
+0x0191f9be	14	7	1	0	0	0					
+0x0191f9cc	36	9	8	0	0	0					
+0x0191f9f0	78	23	7	1	0	0					
+0x0191fa40	22	10	2	0	0	0					
+0x0191fa98	232	75	1	1	1	0					
+0x0191fb80	512	192	1	3	1	0			auth.c	assert	
+0x0191fd90	172	66	30	1	1	0				near	auth.c
+0x0191fe3c	80	30	2	1	0	0			auth.c	assert	
+0x0191fe8c	174	59	1	3	0	0		0xff90			
+0x0191ff3c	388	139	13	6	0	1		0xff90			
+0x019200c8	224	78	12	2	0	0		0xff90			
+0x01920230	160	43	2	0	0	0					
+0x019202d0	70	20	3	1	0	0					
+0x01920318	114	34	3	5	0	0					
+0x0192038c	166	55	10	3	1	0					
+0x01920434	710	222	4	5	2	0					
+0x01920700	344	116	4	6	0	0					
+0x0192085c	514	160	2	4	0	0					
+0x01920a5e	58	20	1	1	0	0					
+0x01920a98	228	80	2	4	0	0					
+0x01920bfe	72	29	2	0	0	0					
+0x01920c46	32	13	2	0	0	0					
+0x01920c68	330	96	1	5	0	1					
+0x01920db4	16	5	3	1	0	0					
+0x01920dc4	306	96	3	2	0	0					
+0x01920efa	298	106	1	1	0	0					
+0x01921024	1720	693	1	5	0	0					
+0x019216e8	566	225	4	1	0	2					
+0x01921924	708	248	2	5	0	3					
+0x01921bf4	386	118	1	3	0	1					
+0x01921d7c	756	277	2	6	0	3					
+0x01922174	172	49	1	3	0	0					
+0x01922280	190	45	4	0	0	0					
+0x01922340	142	40	6	1	0	0					
+0x0192271c	160	43	5	0	0	0					
+0x019227bc	474	166	4	5	0	1					
+0x01923094	88	33	1	2	0	0			vdbe.c	assert	
+0x0192320e	180	45	7	0	0	0				near	vdbe.c
+0x019232c2	160	43	3	0	0	0				near	vdbe.c
+0x01923362	70	20	3	1	0	0				near	vdbe.c
+0x019233a8	474	166	3	5	0	1				near	vdbe.c
+0x01923588	108	40	2	2	0	0				near	vdbe.c
+0x019235f8	900	247	1	3	0	1				near	vdbe.c
+0x0192397c	1166	318	1	5	0	1				near	vdbe.c
+0x01923e94	160	43	4	0	0	0				near	vdbe.c
+0x01923f34	62	19	2	1	0	0				near	vdbe.c
+0x01923f72	160	43	4	0	0	0				near	vdbe.c
+0x01924012	70	20	8	1	0	0				near	vdbe.c
+0x01924058	406	108	4	4	0	1				near	vdbe.c
+0x019241f0	534	182	2	3	0	1				near	vdbe.c
+0x01924406	474	166	3	5	0	1				near	vdbe.c
+0x019245ec	508	137	2	1	0	0				near	vdbe.c
+0x019247e8	1882	487	1	11	0	2				near	vdbe.c
+0x01925048	96	28	1	0	0	0				near	vdbe.c
+0x019250a8	256	95	1	2	3	0		0xff90		near	vdbe.c
+0x019251ae	300	114	3	0	0	1				near	vdbe.c
+0x01925308	186	67	1	1	1	0		0xff90		near	vdbe.c
+0x019253c8	128	58	2	0	1	0				near	vdbe.c
+0x0192568c	84	36	1	1	0	0				near	vdbe.c
+0x01925728	190	45	2	0	0	0				near	vdbe.c
+0x019257e8	142	40	2	1	0	0				near	vdbe.c
+0x01925876	496	204	1	3	2	0				near	vdbe.c
+0x01925b0c	170	45	5	0	0	0				near	vdbe.c
+0x01925bb8	2800	735	2	5	1	0				near	vdbe.c
+0x019266ba	26	10	2	1	0	0				near	vdbe.c
+0x019266d4	1014	269	1	1	0	3				near	vdbe.c
+0x01926acc	2782	663	2	1	0	2				near	vdbe.c
+0x019275aa	114	46	1	0	0	2				near	vdbe.c
+0x0192761c	168	48	2	6	0	0				near	vdbe.c
+0x019276c4	1456	392	2	3	0	0				near	vdbe.c
+0x01927d02	190	45	6	0	0	0				near	vdbe.c
+0x01927dc0	270	74	2	1	0	1				near	vdbe.c
+0x01927ed2	474	166	3	5	0	1				near	vdbe.c
+0x019280ac	108	40	4	2	0	0				near	vdbe.c
+0x01928120	442	114	2	2	0	0				near	vdbe.c
+0x019282dc	3158	819	2	4	0	0				near	vdbe.c
+0x01928f40	1592	527	1	7	0	4		0xff90		near	vdbe.c
+0x0192957c	1588	529	1	7	0	4		0xff90		near	vdbe.c
+0x01929bbc	304	84	2	3	0	0				near	vdbe.c
+0x01929cec	782	229	1	4	0	0				near	vdbe.c
+0x0192a07e	160	43	8	0	0	0				near	vdbe.c
+0x0192a11e	474	166	5	5	0	1				near	vdbe.c
+0x0192a3b0	146	44	1	1	0	0				near	vdbe.c
+0x0192af5c	72	21	2	1	0	0				near	vdbe.c
+0x0192afd8	176	45	2	0	0	0				near	vdbe.c
+0x0192b088	144	40	1	2	0	0				near	vdbe.c
+0x0192b118	168	48	2	6	0	0				near	vdbe.c
+0x0192b612	160	43	7	0	0	0				near	vdbe.c
+0x0192b848	510	161	1	5	0	0			vdbe.c	assert	
+0x0192c2e4	72	21	2	1	0	0					
+0x0192c360	168	48	2	6	0	0					
+0x0192c6e6	160	43	2	0	0	0					
+0x0192c786	474	166	3	5	0	1					
+0x0192c960	110	29	2	1	0	0					
+0x0192c9d0	46	18	2	1	0	0					
+0x0192ca00	168	48	2	6	0	0					
+0x0192caa8	304	123	2	1	2	0					
+0x0192cbd8	1946	598	1	10	4	2					
+0x0192d374	336	106	1	6	0	0					
+0x0192d54c	70	19	1	1	0	0					
+0x0192d678	92	30	1	1	1	0					
+0x0192d75c	54	21	6	0	0	0					
+0x0192d844	114	34	2	5	0	0					
+0x0192d8b8	554	144	2	2	0	0					
+0x0192dae4	352	82	3	1	0	0					
+0x0192dd12	160	43	4	0	0	0					
+0x0192ddb2	474	166	3	5	0	1					
+0x0192e01c	658	163	1	4	0	0					
+0x0192ed6c	8	4	1	0	0	0					
+0x0192ed74	108	37	1	0	0	3					
+0x0192ede0	222	80	2	1	0	1					
+0x0192eec4	310	109	1	1	0	1					
+0x0192f000	258	96	1	1	0	1					
+0x0192f108	418	159	3	4	2	0					
+0x0192f2b4	226	87	3	2	0	0					
+0x0192f3a0	210	80	3	2	0	0					
+0x0192f57c	172	49	1	3	0	0			vdbeapi.c	assert	
+0x0192f688	190	45	4	0	0	0					
+0x0192f748	142	40	6	1	0	0					
+0x0192fcfc	190	45	4	0	0	0					
+0x0192fdbc	142	40	6	1	0	0					
+0x01930206	160	43	4	0	0	0					
+0x019302a6	160	43	7	0	0	0					
+0x01930346	70	20	2	1	0	0					
+0x0193038c	474	166	4	5	0	1					
+0x0193056c	108	40	2	2	0	0					
+0x019305de	46	16	2	0	0	0					
+0x0193060c	224	81	3	7	0	1					
+0x0193100c	282	75	3	2	0	1					
+0x01931128	3004	867	1	13	0	4					
+0x01931e3e	824	220	1	2	0	0					
+0x01932178	160	43	2	0	0	0					
+0x01932218	160	43	15	0	0	0					
+0x019322b8	262	63	3	0	0	0					
+0x01932504	244	85	1	2	0	0					
+0x01933a9c	72	21	4	1	0	0					
+0x01933b18	186	52	4	2	0	0					
+0x01933bd2	74	19	2	1	0	0					
+0x01933c1c	132	40	2	2	0	0					
+0x01933ca0	168	48	4	6	0	0					
+0x019347d2	160	43	10	0	0	0					
+0x01934872	474	166	8	5	0	1					
+0x01934ae8	44	13	1	0	0	0					
+0x01934b14	44	13	1	0	0	0					
+0x01934b40	434	113	1	4	0	0					
+0x0193615c	72	21	2	1	0	0					
+0x019361d8	168	48	4	6	0	0					
+0x01936ee8	10	4	1	0	0	0					
+0x01936ef4	160	43	9	0	0	0					
+0x01936f94	474	166	3	5	0	1					
+0x0193716e	80	19	4	0	0	0					
+0x0193723e	28	13	5	0	0	0					
+0x0193725a	12	5	3	0	0	0					
+0x01937266	12	5	1	0	0	0					
+0x01937274	156	58	1	1	0	0					
+0x019383bc	72	21	2	1	0	0					
+0x01938438	176	45	2	0	0	0					
+0x019384e8	102	32	11	1	0	0					
+0x01938550	168	48	4	6	0	0					
+0x01939250	92	34	5	2	0	0		0xff90			
+0x019392b0	88	32	2	2	0	0		0xff90			
+0x0193938c	136	44	1	4	0	0					
+0x01939418	122	49	1	2	2	0					
+0x01939492	74	31	2	0	0	0					
+0x019394dc	86	33	2	2	0	0			vdbeaux.c	assert	
+0x01939534	50	20	3	1	0	0					
+0x01939566	114	35	3	0	0	0					
+0x019395d8	144	57	1	3	1	0					
+0x0193966c	118	43	2	2	1	0					
+0x019396e4	128	53	3	3	1	0					
+0x019397e6	22	7	1	0	0	0					
+0x019397fc	160	56	7	2	0	0					
+0x019398a0	140	47	7	2	0	0					
+0x019399b0	474	166	3	5	0	1					
+0x01939b8c	1242	333	1	6	0	0					
+0x0193a0f6	8	3	1	0	0	0					
+0x0193a0fe	8	3	2	0	0	0					
+0x0193a116	160	43	3	0	0	0					
+0x0193a1b6	64	17	4	1	0	0					
+0x0193a284	152	53	6	3	0	0					
+0x0193a31c	260	98	19	3	0	0					
+0x0193a424	88	32	1	3	0	1					
+0x0193a47c	410	153	1	2	9	0					
+0x0193a618	442	147	2	8	0	0		0xff90	vacuum.c	assert	
+0x0193a7d4	338	131	1	3	0	0					
+0x0193a92c	354	126	2	6	2	0					
+0x0193aa8e	196	61	3	7	0	0					
+0x0193ab58	1188	465	1	14	1	4	0xfffe				
+0x0193b00c	840	328	1	8	1	4	0xfffe				
+0x0193b360	448	153	3	3	4	2					
+0x0193b524	2402	706	1	7	5	1	0xfffe				
+0x0193be88	228	76	2	5	0	0					
+0x0193bff0	6	3	1	0	0	0					
+0x0193bff6	8	4	1	0	0	0					
+0x0193bffe	18	7	1	0	0	0					
+0x0193c12c	574	175	2	12	0	0		0xff90	backup.c	assert	
+0x0193c374	1188	414	1	28	0	0		0xff90	backup.c	assert	
+0x0193c820	216	78	1	7	0	1				near	backup.c
+0x0193c8f8	176	69	2	3	0	0			backup.c	assert	
+0x0193c9ac	68	28	7	2	0	0			backup.c	assert	
+0x0193c9f0	106	38	1	4	0	0			backup.c	assert	
+0x0193ca5c	38	11	1	1	0	0					
+0x0193ca84	56	20	1	1	0	0			shared/base_dir.cpp	assert	
+0x0193cecc	46	15	1	1	0	0					
+0x0193d198	108	31	2	2	0	0		0xff90			
+0x0193d38c	106	31	1	2	0	0		0xff90			
+0x0193d514	248	86	2	1	0	2					
+0x0193d60c	826	267	2	2	0	0					
+0x0193db4c	150	44	1	2	0	0		0xff90			
+0x0193dc28	470	131	2	1	0	0					
+0x0193e510	46	20	1	0	0	1					
+0x0193e5c0	152	47	86	3	1	0		0xffa0			
+0x0193e658	118	38	251	3	0	0					
+0x0193e6ce	40	18	1	0	0	0		0xff90			
+0x0193e6f8	358	98	1	0	0	2	0xffc0	0xff80			
+0x0193e85e	358	98	2	0	0	2	0xffc0	0xff80			
+0x0193e9c8	210	72	1	9	0	0		0xff90	bf/bf_utils.cpp	assert	
+0x0193ea9c	418	145	2	10	1	0		0xff90			
+0x0193ec40	572	204	1	7	3	0		0xff90,0xffa0			
+0x0193ef30	12	4	1	0	0	0					
+0x0193ef3c	40	14	66	0	1	0		0xffa0			
+0x0193ef64	96	37	1	0	1	0					
+0x0193f010	378	133	17	3	1	2		0xffa0			
+0x0193f18c	176	65	15	3	0	1			shared/bg_saver.cpp	assert	
+0x0193f3b8	262	102	1	4	0	0					
+0x0193f4c0	138	51	13	2	0	0					
+0x01940770	108	48	2	1	0	0					
+0x01940ac4	536	206	1	3	8	0		0xffa0			
+0x01940ce8	246	93	2	2	4	0		0xffa0			
+0x01940de0	246	93	1	2	4	0		0xffa0			
+0x01940ed8	246	93	2	2	4	0		0xffa0			
+0x01940fd0	246	93	1	2	4	0		0xffa0			
+0x019410c8	236	82	19	3	2	0		0xffa0	db2/BgFile.cpp	assert	
+0x019411b8	206	74	2	2	2	0		0xffa0			
+0x01941286	38	14	2	1	0	0					
+0x019412ac	38	14	2	1	0	0					
+0x019412d4	80	28	1	0	2	0		0xffa0			
+0x01941534	20	5	1	0	0	0					
+0x01941548	16	6	1	0	0	0					
+0x01941558	402	142	4	1	0	4					
+0x019416ea	88	31	5	0	0	1					
+0x01941744	6	3	2	0	0	0					
+0x0194174a	248	95	13	1	0	2					
+0x01941844	38	12	4	1	0	0					
+0x0194186c	528	191	11	8	0	1			bitvec.c	assert	
+0x01941a84	330	121	3	4	0	3			bitvec.c	assert	
+0x01941bd0	72	30	11	2	0	0					
+0x01941c18	834	329	1	10	0	4					
+0x01941f78	248	86	4	1	0	2					
+0x01942070	720	239	2	2	0	0					
+0x01942340	826	267	3	2	0	0					
+0x0194267c	200	63	1	3	0	0		0xff90			
+0x01943744	394	132	1	1	0	1			dsp/BodeAudioEngine.cpp	assert	
+0x019438d0	604	183	1	1	0	1			dsp/BodeAudioEngine.cpp	assert	
+0x01943b2e	64	19	1	0	0	0				near	dsp/BodeAudioEngine.cpp
+0x01943b6e	124	28	1	0	0	0				near	dsp/BodeAudioEngine.cpp
+0x01943bea	188	44	1	0	0	0				near	dsp/BodeAudioEngine.cpp
+0x01943ca6	356	75	1	0	0	0				near	dsp/BodeAudioEngine.cpp
+0x01943e0a	176	52	1	0	0	1				near	dsp/BodeAudioEngine.cpp
+0x01943ebc	250	78	1	1	0	1				near	dsp/BodeAudioEngine.cpp
+0x01943fb6	314	81	1	0	0	1				near	dsp/BodeAudioEngine.cpp
+0x019440f0	320	102	1	1	0	1				near	dsp/BodeAudioEngine.cpp
+0x0194425c	194	67	1	1	0	0				near	dsp/BodeAudioEngine.cpp
+0x0194435c	242	62	8	0	0	0				near	dsp/BodeAudioEngine.cpp
+0x0194444e	48	16	3	0	0	0				near	dsp/BodeAudioEngine.cpp
+0x01944480	166	61	2	1	0	0			dsp/BodeAudioEngine.cpp	assert	
+0x01944528	122	42	2	1	0	0			dsp/BodeAudioEngine.cpp	assert	
+0x019445a8	180	59	2	1	0	0			dsp/BodeAudioEngine.cpp	assert	
+0x01944660	122	42	2	1	0	0			dsp/BodeAudioEngine.cpp	assert	
+0x019446e0	296	97	3	2	0	1			dsp/BodeAudioEngine.cpp	assert	
+0x01945da8	1148	331	1	15	0	0			dsp/BodeAudioEngine.cpp	assert	
+0x019463dc	108	34	84	1	0	0					
+0x019464a4	8	4	18	0	0	0					
+0x019464ac	14	6	1	0	0	0					
+0x019464ba	22	10	7	0	0	0					
+0x019464d0	8	4	1	0	0	0					
+0x019464d8	6	2	1	0	0	0					
+0x019464de	30	13	3	0	0	0					
+0x019464fc	58	25	3	0	0	0					
+0x01946536	12	6	1	0	0	0					
+0x01946542	8	4	7	0	0	0					
+0x0194654c	62	21	1	3	0	0			btree.c	assert	
+0x0194658c	452	160	16	11	0	0		0xff90	btree.c	assert	
+0x01946760	276	95	11	9	0	0		0xff90	btree.c	assert	
+0x01946880	328	121	18	5	0	0			btree.c	assert	
+0x019469d0	232	99	13	4	0	1			btree.c	assert	
+0x01946ab8	566	183	2	8	0	0			btree.c	assert	
+0x01946d08	730	243	6	6	0	1			btree.c	assert	
+0x01946ff8	458	142	7	8	0	0			btree.c	assert	
+0x019471d0	476	157	4	9	0	0			btree.c	assert	
+0x01947490	510	169	2	12	0	0			btree.c	assert	
+0x01947692	72	22	5	3	0	0			btree.c	assert	
+0x019476da	80	23	1	3	0	0			btree.c	assert	
+0x0194772a	84	31	1	3	0	0			btree.c	assert	
+0x0194777e	236	88	5	3	0	0			btree.c	assert	
+0x01947872	22	8	1	1	0	0				near	btree.c
+0x01947888	364	127	4	7	0	0			btree.c	assert	
+0x01947a04	362	123	2	8	0	0			btree.c	assert	
+0x01947b78	1458	489	6	19	0	0			btree.c	assert	
+0x01948148	394	134	2	6	0	0			btree.c	assert	
+0x019482dc	1134	402	3	17	0	0			btree.c	assert	
+0x01948768	292	102	5	4	0	0			btree.c	assert	
+0x01948898	304	102	2	7	0	0			btree.c	assert	
+0x019489d4	198	68	1	2	0	0			btree.c	assert	
+0x01948aa4	126	48	3	3	0	0			btree.c	assert	
+0x01948b28	316	119	3	2	0	0			btree.c	assert	
+0x01948c6e	84	35	3	1	0	1			btree.c	assert	
+0x01948cc4	380	126	4	8	0	0			btree.c	assert	
+0x01948e4c	364	123	7	5	0	0			btree.c	assert	
+0x01948fc0	320	106	2	5	0	0			btree.c	assert	
+0x01949104	756	259	2	12	0	0		0xff90	btree.c	assert	
+0x01949408	1056	365	5	16	0	0			btree.c	assert	
+0x01949844	186	65	2	3	0	0			btree.c	assert	
+0x01949908	732	250	5	10	0	0			btree.c	assert	
+0x01949bfc	632	214	3	11	0	1			btree.c	assert	
+0x01949e88	204	72	9	7	1	0			btree.c	assert	
+0x01949f58	346	123	2	3	0	0			btree.c	assert	
+0x0194a0bc	134	50	2	3	0	0			btree.c	assert	
+0x0194a148	134	50	2	3	0	0			btree.c	assert	
+0x0194a1d4	228	83	8	4	0	0			btree.c	assert	
+0x0194a2c0	474	157	3	7	0	0			btree.c	assert	
+0x0194a4b0	666	230	5	11	0	0			btree.c	assert	
+0x0194a760	216	80	3	4	0	0			btree.c	assert	
+0x0194a83c	216	83	2	4	0	0			btree.c	assert	
+0x0194a91c	570	206	3	5	0	0			btree.c	assert	
+0x0194ab64	1362	511	10	12	0	0			btree.c	assert	
+0x0194b0e8	290	95	5	6	0	0			btree.c	assert	
+0x0194b210	108	46	1	1	0	0				near	btree.c
+0x0194b27c	242	88	3	4	0	0			btree.c	assert	
+0x0194b378	440	174	4	8	0	0			btree.c	assert	
+0x0194b538	556	209	4	7	0	0			btree.c	assert	
+0x0194b76c	3768	1314	8	19	0	0		0xff90	btree.c	assert	
+0x0194c664	1808	621	2	16	0	0		0xff90	btree.c	assert	
+0x0194cda6	236	83	1	5	0	0			btree.c	assert	
+0x0194ce9a	870	291	4	15	0	0		0xff90	btree.c	assert	
+0x0194d214	48	16	4	2	0	0				near	btree.c
+0x0194d244	1226	412	7	19	0	0			btree.c	assert	
+0x0194d72a	368	131	3	10	0	0			btree.c	assert	
+0x0194d8a4	1042	375	4	5	0	2			btree.c	assert	
+0x0194dcd4	1442	510	4	12	0	2			btree.c	assert	
+0x0194e2a8	400	135	2	4	0	1			btree.c	assert	
+0x0194e444	288	101	2	4	0	0			btree.c	assert	
+0x0194e56a	6828	2283	3	29	0	7			btree.c	assert	
+0x019500d0	3136	1055	2	28	0	1		0xff90	btree.c	assert	
+0x01950d7c	1004	354	2	16	0	1			btree.c	assert	
+0x01951180	634	223	4	15	0	0			btree.c	assert	
+0x0195140c	136	50	1	3	0	1			btree.c	assert	
+0x0195149a	116	41	6	2	0	0			btree.c	assert	
+0x01951514	230	78	3	3	0	0			btree.c	assert	
+0x01951608	2170	762	2	20	0	0		0xff90	btree.c	assert	
+0x01951ed8	2300	799	1	17	0	1		0xff90	btree.c	assert	
+0x0195282c	248	94	1	4	0	0				near	btree.c
+0x01952924	138	54	32	2	0	0				near	btree.c
+0x019529b0	814	312	2	6	0	0				near	btree.c
+0x01952ce0	2340	800	3	20	0	3			btree.c	assert	
+0x0195363a	1084	364	1	16	0	1		0xff90	btree.c	assert	
+0x01953a8c	48	18	3	2	0	0			btree.c	assert	
+0x01953ac0	48	18	1	2	0	0			btree.c	assert	
+0x01953af4	80	28	8	2	0	0			btree.c	assert	
+0x01953b48	88	31	6	2	0	0			btree.c	assert	
+0x01953ba4	84	31	2	2	0	0			btree.c	assert	
+0x01953bfa	58	25	3	1	0	0				near	btree.c
+0x01953c34	60	16	1	2	0	0			btree.c	assert	
+0x01953c74	290	102	1	4	0	0			btree.c	assert	
+0x01953da4	122	41	1	2	0	0			btree.c	assert	
+0x01953e24	20	8	6	0	0	0					
+0x01953e38	20	8	2	0	0	0					
+0x01953e4c	80	36	2	0	0	1					
+0x01953e9c	80	38	1	0	0	2					
+0x01953eec	326	113	6	0	0	1					
+0x01954032	10	5	2	0	0	0					
+0x0195403c	14	5	3	0	0	0					
+0x01954050	552	197	1	12	0	0			build.c	assert	
+0x01954280	218	71	19	6	0	0			build.c	assert	
+0x0195435c	162	54	12	4	0	0			build.c	assert	
+0x01954408	286	98	12	6	0	0			build.c	assert	
+0x01954528	172	55	4	4	0	0			build.c	assert	
+0x019545d4	210	85	1	5	0	0			build.c	assert	
+0x019546a8	324	119	18	6	0	0			build.c	assert	
+0x019547ee	416	147	15	9	0	0			build.c	assert	
+0x01954990	142	51	1	4	0	0			build.c	assert	
+0x01954a22	48	17	8	2	0	0				near	build.c
+0x01954a54	76	28	1	3	0	0				near	build.c
+0x01954aa2	142	45	1	5	0	0				near	build.c
+0x01954b38	356	125	7	7	0	0			build.c	assert	
+0x01954ca0	110	38	2	2	0	0				near	build.c
+0x01954d0e	326	120	1	7	0	0				near	build.c
+0x01954e54	84	31	1	1	0	0			build.c	assert	
+0x01954ea8	434	156	1	3	0	1			build.c	assert	
+0x0195505c	154	46	4	6	0	0				near	build.c
+0x019550fc	68	23	2	2	0	0				near	build.c
+0x01955142	136	43	2	3	0	0				near	build.c
+0x019551d0	272	100	1	7	0	0			build.c	assert	
+0x019552e0	102	33	5	4	0	0				near	build.c
+0x01955348	220	90	2	1	0	2				near	build.c
+0x01955424	2046	692	3	26	0	4			build.c	assert	
+0x01955c30	346	117	8	8	0	0			build.c	assert	
+0x01955d90	770	269	2	10	0	0			build.c	assert	
+0x01956092	96	37	2	1	0	0			build.c	assert	
+0x019560f4	122	48	1	1	0	2			build.c	assert	
+0x01956170	144	46	2	4	0	0				near	build.c
+0x01956200	102	36	18	1	0	0				near	build.c
+0x01956268	292	106	2	7	0	0				near	build.c
+0x0195638c	96	40	4	1	0	0				near	build.c
+0x019563ec	412	148	2	4	0	3			build.c	assert	
+0x01956590	128	52	3	2	0	0			build.c	assert	
+0x01956610	234	69	16	4	0	0				near	build.c
+0x019566fc	522	157	12	9	0	0			build.c	assert	
+0x01956906	360	116	3	8	0	0			build.c	assert	
+0x01956a78	186	76	3	3	0	0			build.c	assert	
+0x01956b34	188	72	1	5	0	0			build.c	assert	
+0x01956bf4	120	46	1	4	0	0			build.c	assert	
+0x01956c70	122	47	1	4	0	0			build.c	assert	
+0x01956cf0	152	56	3	6	0	0		0xff90		near	build.c
+0x01956d8c	192	69	1	5	0	0			build.c	assert	
+0x01956e50	352	135	14	7	0	0			build.c	assert	
+0x01956fb4	68	26	13	1	0	0				near	build.c
+0x01956ff8	1292	428	3	24	0	0			build.c	assert	
+0x01957514	516	166	1	11	0	0			build.c	assert	
+0x0195771c	1812	642	2	28	0	0			build.c	assert	
+0x01957e4c	1116	382	1	20	0	0			build.c	assert	
+0x019582c0	76	29	7	2	0	0				near	build.c
+0x0195830c	338	120	10	6	0	0			build.c	assert	
+0x01958464	506	157	3	14	0	0				near	build.c
+0x01958660	3586	1241	4	41	0	4			build.c	assert	
+0x019594b4	418	169	2	5	0	0			build.c	assert	
+0x01959658	208	82	3	5	0	0			build.c	assert	
+0x01959728	784	291	2	14	0	0			build.c	assert	
+0x01959af4	274	91	18	7	0	0			callback.c	assert	
+0x01959c08	390	139	5	9	2	0			callback.c	assert	
+0x01959d90	124	43	5	3	0	0			callback.c	assert	
+0x01959e0c	248	93	2	3	0	0			callback.c	assert	
+0x01959f04	836	325	10	5	0	2			callback.c	assert	
+0x0195a24c	192	77	1	5	0	0			callback.c	assert	
+0x0195a30c	158	53	3	3	0	0					
+0x0195a3ac	60	25	4	0	0	1					
+0x0195a3e8	128	47	3	0	0	1					
+0x0195a46c	148	57	2	2	0	0					
+0x0195a500	262	102	2	4	0	0					
+0x0195a608	202	78	4	4	0	0					
+0x0195a6d4	72	24	8	1	0	0					
+0x0195a71c	80	33	4	1	0	0					
+0x0195a76c	44	10	1	2	0	0					
+0x0195a798	80	23	1	4	0	0			disk/change_tracker.cpp	assert	
+0x0195a7ec	96	28	4	4	0	0			disk/change_tracker.cpp	assert	
+0x0195a850	80	33	2	1	0	0					
+0x0195a8a0	102	47	3	1	0	0					
+0x0195a908	724	239	5	5	1	0		0xffa0			
+0x0195abe0	146	57	1	4	0	0					
+0x0195ac74	244	71	2	2	0	0					
+0x0195ad68	244	71	3	2	0	0					
+0x0195ae5c	246	75	3	2	0	0					
+0x0195af52	334	107	2	6	0	0					
+0x0195b0c4	52	18	1	1	0	0					
+0x0195b0f8	92	32	3	1	0	1		0xff90,0xffa0			
+0x0195b158	162	53	1	2	0	1		0xff90,0xffa0			
+0x0195b1fc	96	34	3	1	0	0		0xff90			
+0x0195b25c	96	34	9	1	0	0		0xff90			
+0x0195b30c	194	83	1	2	0	3					
+0x0195b438	654	233	11	2	1	6		0xffa0			
+0x0195b6c8	388	108	1	1	0	0					
+0x0195b84c	380	115	3	8	1	1		0xffa0	main/ctls/classd_controller.cpp	assert	
+0x0195b98c	60	17	1	3	0	0					
+0x0195bb32	4	2	1	0	0	0					
+0x0195bb38	16	6	1	0	0	0		0xff90			
+0x0195bb48	16	6	5	0	0	0		0xff90			
+0x0195bb58	16	6	1	0	0	0		0xff90			
+0x0195bb68	22	9	1	0	0	0					
+0x0195bb80	12	4	1	0	0	0					
+0x0195bb8c	12	4	2	0	0	0					
+0x0195bb98	16	6	2	0	0	0					
+0x0195bbb4	122	36	43	2	0	0					
+0x0195bc30	118	42	11	1	0	0			db2/Clips.cpp	assert	
+0x0195bcaa	152	73	5	0	0	0				near	db2/Clips.cpp
+0x0195bd44	228	80	1	3	0	0			db2/Clips.cpp	assert	
+0x0195be2c	276	102	5	3	0	0			db2/Clips.cpp	assert	
+0x0195bf40	310	117	2	3	0	0			db2/Clips.cpp	assert	
+0x0195c078	348	109	20	1	0	0			db2/Clips.cpp	assert	
+0x0195c1e4	22	11	1	0	0	0				near	db2/Clips.cpp
+0x0195c1fa	40	20	1	0	0	0				near	db2/Clips.cpp
+0x0195c224	216	76	1	3	0	0		0xff90	db2/Clips.cpp	assert	
+0x0195c304	92	31	1	1	0	0		0xff90	db2/Clips.cpp	assert	
+0x0195c364	60	22	1	1	0	0		0xff90	db2/Clips.cpp	assert	
+0x0195c3a4	402	155	6	3	0	0			db2/Clips.cpp	assert	
+0x0195c538	418	157	2	3	0	0			db2/Clips.cpp	assert	
+0x0195c6e0	420	165	3	3	0	0			db2/Clips.cpp	assert	
+0x0195c884	426	171	1	3	0	0			db2/Clips.cpp	assert	
+0x0195ca30	608	236	1	3	0	0			db2/Clips.cpp	assert	
+0x0195cc90	28	11	1	1	0	0				near	db2/Clips.cpp
+0x0195ccac	62	20	1	3	0	0				near	db2/Clips.cpp
+0x0195ccec	400	138	16	6	0	1			db2/Clips.cpp	assert	
+0x0195ce88	266	97	1	7	0	0			db2/Clips.cpp	assert	
+0x0195cf9c	1578	529	3	9	0	0		0xff90	db2/Clips.cpp	assert	
+0x0195d5f8	144	45	1	4	0	0		0xff90	db2/Clips.cpp	assert	
+0x0195d688	342	117	5	6	0	0		0xff90	db2/Clips.cpp	assert	
+0x0195d7e8	2932	1130	1	11	1	17		0xff90,0xffa0	db2/Clips.cpp	assert	
+0x0195e384	286	79	1	7	0	0		0xff90	db2/Clips.cpp	assert	
+0x0195e4a4	3180	1058	1	9	0	0		0xff90	db2/Clips.cpp	assert	
+0x0195f270	46	15	1	1	0	0					
+0x0195f884	20	6	2	0	0	0					
+0x0195f8a0	248	86	2	1	0	2					
+0x0195f998	826	267	3	2	0	0					
+0x0195ffc8	114	33	2	2	0	0		0xff90			
+0x019607e4	182	53	1	2	0	0		0xffb0	dsp/Cls.cpp	assert	
+0x0196089c	66	17	1	0	0	0					
+0x01960978	248	86	2	1	0	2					
+0x0196143c	184	54	1	3	0	0		0xff90			
+0x019615f0	56	18	1	0	0	1		0xff90			
+0x01961628	108	42	1	0	0	1		0xff90			
+0x01961694	334	133	1	4	0	0					
+0x019617e4	346	122	1	12	1	0		0xff90,0xffa0			
+0x01961940	146	52	4	5	0	0		0xff90			
+0x019619d4	132	46	4	6	1	0		0xff90,0xffa0			
+0x01961a58	12	4	2	0	0	0		0xff90			
+0x01961a64	12	4	2	0	0	0		0xff90			
+0x01961a70	12	4	2	0	0	0		0xff90			
+0x01961ada	186	74	1	1	0	0		0xff90			
+0x01961b94	110	35	2	1	0	0		0xff90			
+0x01961c04	80	23	2	1	0	0		0xff90			
+0x01961c54	110	35	1	1	0	0		0xff90			
+0x01961cc4	178	62	1	4	0	1		0xff90			
+0x01961d78	372	113	1	2	0	0		0xff90			
+0x01961eec	114	37	1	1	0	0		0xff90			
+0x01961f60	266	81	1	1	0	0		0xff90			
+0x0196206c	122	43	1	1	0	0		0xff90			
+0x01962258	262	94	1	3	3	0		0xffa0	gui/screens/Colors.cpp	assert	
+0x0196257c	72	24	1	4	0	0					
+0x01962678	1268	372	1	27	0	1		0xff90			
+0x01962b6c	70	22	2	2	0	0		0xff90			
+0x01962bb4	372	141	4	8	0	0		0xff90	main/ctls/com_controller.cpp	assert	
+0x01963b18	666	218	1	15	3	0		0xff80,0xffa0	main/ctls/com_controller.cpp	assert	
+0x01964df8	18	7	29	0	0	0					
+0x01964e0c	18	7	6	0	0	0					
+0x01964e20	12	4	4	0	0	0		0xff90			
+0x01964e2c	12	4	4	0	0	0		0xff90			
+0x01964e38	12	4	9	0	0	0					
+0x01964e44	12	4	2	0	0	0					
+0x01964e50	12	4	4	0	0	0					
+0x01964e5c	12	4	3	0	0	0					
+0x01964e68	12	4	2	0	0	0					
+0x01964e74	12	4	2	0	0	0					
+0x01964e80	12	4	3	0	0	0		0xff90			
+0x01964e8c	12	4	5	0	0	0		0xff90			
+0x01964e98	12	4	2	0	0	0					
+0x01964ea4	12	4	2	0	0	0					
+0x0196551c	12	4	7	0	0	0					
+0x01965528	114	33	1	2	0	0		0xff90			
+0x0196691c	808	342	1	1	0	5					
+0x01966cde	16	6	20	0	0	0					
+0x01966cee	44	16	45	1	0	0					
+0x01966da4	280	114	21	3	1	1		0xffa0			
+0x01966ec0	786	242	1	26	1	1		0xff90,0xffa0			
+0x019671d4	84	32	1	0	0	0		0xff80			
+0x01967228	12	4	1	0	0	0					
+0x01967234	12	4	5	0	0	0					
+0x01967240	12	4	5	0	0	0					
+0x0196724c	16	6	5	0	0	0					
+0x0196725c	16	6	5	0	0	0					
+0x0196726c	16	6	5	0	0	0					
+0x0196727c	16	6	5	0	0	0					
+0x0196728c	12	4	3	0	0	0					
+0x01967298	16	6	3	0	0	0					
+0x019672a8	16	6	3	0	0	0					
+0x019672b8	16	6	3	0	0	0					
+0x019672c8	16	6	3	0	0	0					
+0x019672d8	12	4	4	0	0	0		0xff80			
+0x019672e4	12	4	3	0	0	0		0xff80			
+0x019672f0	12	4	9	0	0	0		0xff80			
+0x019672fc	12	4	8	0	0	0		0xff80			
+0x01967308	40	15	1	0	1	0					
+0x01967330	46	19	1	0	0	0					
+0x0196735e	126	51	3	0	2	0		0xff80			
+0x019673dc	126	51	7	0	2	0		0xff80			
+0x0196745a	34	13	1	0	0	0					
+0x0196747c	14	5	1	0	0	0					
+0x0196748a	18	7	3	0	0	0					
+0x0196749c	74	25	6	0	0	0		0xff80			
+0x019676a0	436	140	1	6	0	1		0xff80			
+0x01967854	148	48	3	1	1	0		0xff80	dsp/Core.cpp	assert	
+0x019678f0	110	40	2	1	1	0		0xff80	dsp/Core.cpp	assert	
+0x01967960	34	10	1	1	0	0				near	dsp/Core.cpp
+0x01967984	34	10	1	1	0	0				near	dsp/Core.cpp
+0x019679a8	36	11	1	1	0	0				near	dsp/Core.cpp
+0x019679cc	86	32	2	2	1	0			dsp/Core.cpp	assert	
+0x01967a24	52	21	1	1	1	0				near	dsp/Core.cpp
+0x01967a58	100	34	1	4	0	0				near	dsp/Core.cpp
+0x01967ac0	100	34	1	4	0	0				near	dsp/Core.cpp
+0x01967b28	406	140	1	9	2	0		0xff80	dsp/Core.cpp	assert	
+0x01967ccc	150	48	3	1	1	0		0xff80	dsp/Core.cpp	assert	
+0x01967d64	154	48	1	1	1	0		0xff80	dsp/Core.cpp	assert	
+0x01967e00	74	26	2	2	0	0		0xff80	dsp/Core.cpp	assert	
+0x01967e4c	66	22	2	2	0	0		0xff80	dsp/Core.cpp	assert	
+0x01967e90	64	24	1	0	1	0		0xff80,0xffa0		near	dsp/Core.cpp
+0x01967ed0	82	24	10	0	0	1		0xff80		near	dsp/Core.cpp
+0x01967f24	68	21	1	1	0	0		0xff80	dsp/Core.cpp	assert	
+0x01967f68	100	35	1	0	2	0		0xff80,0xffa0			
+0x019687dc	248	86	2	1	0	2					
+0x019688d4	826	267	2	2	0	0					
+0x01968fc4	150	43	1	2	0	0		0xff90			
+0x01969390	68	27	47	2	0	0					
+0x0196947c	158	52	26	7	1	0			main/ctls/CtlKnob.cpp	assert	
+0x0196951c	158	59	51	2	0	0			main/ctls/CtlKnob.cpp	assert	
+0x019695be	224	87	41	2	0	2				near	main/ctls/CtlKnob.cpp
+0x019696a0	70	25	9	2	0	0			main/ctls/CtlKnob.cpp	assert	
+0x019696e8	84	33	60	2	0	0			main/ctls/CtlKnob.cpp	assert	
+0x01969844	182	69	4	4	0	0			main/ctls/CtlKnob.cpp	assert	
+0x019698fc	208	83	4	4	0	0				near	main/ctls/CtlKnob.cpp
+0x019699cc	146	50	6	3	0	0			main/ctls/CtlKnob.cpp	assert	
+0x01969b4c	190	74	4	0	0	1					
+0x01969c10	706	256	3	6	0	3					
+0x01969ed4	902	270	7	8	0	0					
+0x0196a25e	1034	302	3	12	0	1					
+0x0196a66c	1444	488	6	16	0	2					
+0x0196cd60	672	199	1	11	0	0					
+0x0196d004	438	135	1	9	0	0					
+0x0196dd0c	44	17	1	1	0	0		0xff90			
+0x0196dd38	12	4	23	0	0	0					
+0x0196dd44	12	4	67	0	0	0					
+0x0196dd50	12	4	30	0	0	0					
+0x0196dd5c	10	3	22	0	0	0					
+0x0196dd68	148	57	2	2	0	0					
+0x0196ddfc	262	102	2	4	0	0					
+0x0196df04	202	78	6	4	0	0					
+0x0196dfd0	218	93	10	3	0	0					
+0x0196e0ac	72	24	8	1	0	0					
+0x0196e0f4	80	33	3	1	0	0					
+0x0196e144	94	28	8	2	0	0					
+0x0196e1a4	86	37	3	2	0	0					
+0x0196e1fa	112	36	4	1	2	0		0xffa0	db2/db2.cpp	assert	
+0x0196e26a	46	16	4	2	0	0			db2/db2.cpp	assert	
+0x0196e298	84	31	4	2	1	0		0xffa0	db2/db2.cpp	assert	
+0x0196e2f0	156	56	11	5	0	0			db2/db2.cpp	assert	
+0x0196e390	146	47	3	5	0	0			db2/db2.cpp	assert	
+0x0196e4fc	380	153	2	1	0	1				near	db2/db2.cpp
+0x0196e67c	280	114	2	3	1	1		0xffa0		near	db2/db2.cpp
+0x0196e798	256	80	4	5	3	0		0xffa0	db2/db2.cpp	assert	
+0x0196e8a0	412	138	6	8	3	0		0xffa0	db2/db2.cpp	assert	
+0x0196ea42	316	105	3	9	0	0			db2/db2.cpp	assert	
+0x0196eb7e	230	81	4	6	0	1				near	db2/db2.cpp
+0x0196ec60	174	53	2	3	0	0				near	db2/db2.cpp
+0x0196ed10	128	43	1	5	0	0			db2/db2.cpp	assert	
+0x0196ed94	128	43	1	5	0	0			db2/db2.cpp	assert	
+0x0196ee18	128	43	1	5	0	0			db2/db2.cpp	assert	
+0x0196ee9c	128	43	1	5	0	0			db2/db2.cpp	assert	
+0x0196ef20	24	7	3	1	0	0				near	db2/db2.cpp
+0x0196ef38	128	43	1	5	0	0			db2/db2.cpp	assert	
+0x0196efbc	38	12	1	1	0	0				near	db2/db2.cpp
+0x0196efe4	872	343	1	10	4	6		0xffa0	db2/db2.cpp	assert	
+0x0196f352	304	100	1	6	3	0		0xffa0	db2/db2.cpp	assert	
+0x0196f484	70	17	1	2	0	0				near	db2/db2.cpp
+0x0196f4cc	70	17	1	2	0	0				near	db2/db2.cpp
+0x0196f514	70	17	1	2	0	0				near	db2/db2.cpp
+0x0196f55c	168	55	2	3	3	0		0xffa0	db2/db2.cpp	assert	
+0x0196f608	168	55	2	3	3	0		0xffa0	db2/db2.cpp	assert	
+0x0196f6b4	604	196	1	8	0	0			db2/db2.cpp	assert	
+0x0196f912	60	18	2	3	0	0				near	db2/db2.cpp
+0x0196f950	166	53	38	3	3	0		0xffa0	db2/db2.cpp	assert	
+0x0196f9f8	464	153	37	11	3	0		0xffa0	db2/db2.cpp	assert	
+0x0196fbd0	344	117	12	7	3	0		0xffa0	db2/db2.cpp	assert	
+0x0196fd2e	288	94	3	6	3	0		0xffa0	db2/db2.cpp	assert	
+0x0196fe50	60	20	2	2	0	0				near	db2/db2.cpp
+0x0196fe8c	1254	435	8	17	4	0		0xffa0	db2/db2.cpp	assert	
+0x01970380	1090	364	1	12	4	0		0xffa0	db2/db2.cpp	assert	
+0x019707d8	514	163	6	9	3	0		0xffa0	db2/db2.cpp	assert	
+0x019709e4	158	51	2	2	0	0		0xff90			
+0x01970a84	158	51	3	2	0	0		0xff90			
+0x01970b24	124	35	1	1	0	0					
+0x01970ba0	220	64	1	5	0	0					
+0x01970cdc	28	10	1	0	0	0					
+0x01970cf8	28	7	1	0	0	0					
+0x01970d54	84	30	1	1	0	0					
+0x01970da8	62	25	1	1	0	0			dsp/dbox.cpp	assert	
+0x01970e92	42	14	2	0	0	0				near	dsp/dbox.cpp
+0x0197189c	76	25	1	2	0	0		0xffb0	dsp/dbox.cpp	assert	
+0x0197194c	248	86	2	1	0	2					
+0x01971a44	826	267	6	2	0	0					
+0x019722f0	240	66	1	2	0	0					
+0x019723e0	70	22	1	2	0	0		0xff90			
+0x01973e30	46	15	1	1	0	0					
+0x01973f68	86	34	2	2	0	0					
+0x01973fc0	108	31	3	2	0	0		0xff90			
+0x019741e0	262	100	1	0	0	0					
+0x019742e6	32	12	4	0	0	0					
+0x01974306	56	24	2	0	0	0					
+0x0197433e	38	16	2	0	0	0					
+0x01974364	38	16	4	0	0	0					
+0x0197438a	52	15	1	0	0	0					
+0x019743be	118	48	5	2	0	0					
+0x01974434	258	98	4	2	0	0					
+0x01974536	128	54	1	5	0	0			disk/Defragmenter.cpp	assert	
+0x019745b6	92	43	1	1	0	0				near	disk/Defragmenter.cpp
+0x01974612	74	32	1	1	0	0				near	disk/Defragmenter.cpp
+0x0197465c	74	29	1	1	0	0				near	disk/Defragmenter.cpp
+0x0197472e	66	25	1	1	0	0				near	disk/Defragmenter.cpp
+0x01974770	130	48	2	1	0	0				near	disk/Defragmenter.cpp
+0x019747f2	38	15	1	2	0	0				near	disk/Defragmenter.cpp
+0x01974818	256	101	7	7	0	0				near	disk/Defragmenter.cpp
+0x01974918	104	39	1	4	0	0			disk/Defragmenter.cpp	assert	
+0x01974980	728	264	1	10	0	0			disk/Defragmenter.cpp	assert	
+0x01974c58	112	49	8	2	0	0				near	disk/Defragmenter.cpp
+0x01974cc8	46	17	1	1	0	0				near	disk/Defragmenter.cpp
+0x01974cf6	112	44	1	4	0	0				near	disk/Defragmenter.cpp
+0x01974d66	138	51	1	6	0	0				near	disk/Defragmenter.cpp
+0x01974df0	520	216	1	5	0	0				near	disk/Defragmenter.cpp
+0x01975092	868	369	4	15	3	0			disk/Defragmenter.cpp	assert	
+0x019753f6	14	7	1	0	0	0					
+0x01975404	18	9	1	0	0	0					
+0x01975416	32	10	1	0	0	0					
+0x01975436	32	10	3	0	0	0					
+0x01975456	28	11	1	0	0	0					
+0x01975472	12	6	1	0	0	0					
+0x0197547e	12	6	9	0	0	0					
+0x0197548a	12	5	2	0	0	0					
+0x01975496	6	3	2	0	0	0					
+0x0197549c	42	11	1	2	0	0					
+0x019754c8	42	11	1	2	0	0					
+0x019754f4	124	40	5	4	0	0			delete.c	assert	
+0x01975574	164	59	2	2	0	0				near	delete.c
+0x01975618	254	80	1	9	0	0			delete.c	assert	
+0x01975718	254	82	2	8	0	0				near	delete.c
+0x0197581a	256	100	3	5	0	0				near	delete.c
+0x01975920	486	157	3	14	0	0			delete.c	assert	
+0x01975b08	1664	601	3	44	0	1			delete.c	assert	
+0x019761b0	20	10	7	0	0	0					
+0x019761c4	20	10	1	0	0	0					
+0x019761d8	30	11	4	0	0	0					
+0x019761f8	142	49	25	2	0	0					
+0x01976288	142	49	52	2	0	0					
+0x0197631c	68	24	2	0	0	0					
+0x019763b8	186	54	2	0	0	0		0xff80,0xff90			
+0x01976474	226	74	2	1	0	2		0xff90			
+0x0197657c	22	7	1	1	0	0					
+0x01976594	262	102	1	4	0	0					
+0x0197669c	408	137	1	5	0	0					
+0x019768f8	566	210	1	2	1	4		0xffa0			
+0x01976b30	828	308	1	2	1	4		0xffa0			
+0x01976ed4	114	33	1	2	0	0		0xff90	vdbeaux.c	assert	
+0x0197730c	12	4	1	0	0	0					
+0x019776dc	108	35	1	5	0	0			main/ctls/DrumController.cpp	assert	
+0x01977764	14	5	2	0	0	0				near	main/ctls/DrumController.cpp
+0x01977774	104	30	5	2	0	0		0xff90		near	main/ctls/DrumController.cpp
+0x019779a0	280	99	1	4	0	1		0xff80,0xff90		near	main/ctls/DrumController.cpp
+0x01977ab8	1218	428	1	24	2	1		0xff80,0xff90	main/ctls/DrumController.cpp	assert	
+0x01978890	8	3	4	0	0	0					
+0x019788ec	56	22	1	1	0	0			dsp/DrumSampler.cpp	assert	
+0x019789d8	20	7	1	1	0	0				near	dsp/DrumSampler.cpp
+0x01978d3c	104	40	1	3	0	0			dsp/DrumSampler.cpp	assert	
+0x01978da8	74	27	10	1	0	0			dsp/DrumSampler.cpp	assert	
+0x01978df4	80	31	1	1	0	0		0xffb0	dsp/DrumSampler.cpp	assert	
+0x019790b8	164	54	1	3	0	0		0xff90	vdbeaux.c	assert	
+0x0197a800	12	4	1	0	0	0		0xff90			
+0x0197a80c	26	8	6	2	0	0					
+0x0197a8a0	722	244	1	2	0	3		0xff90			
+0x0197ab74	274	86	1	1	0	2		0xff90			
+0x0197ac88	288	94	1	2	0	3		0xff90			
+0x0197ada8	124	47	1	2	0	0		0xffb0	dsp/DrWave.cpp	assert	
+0x0197ae28	916	245	2	1	0	5		0xff90			
+0x0197b1bc	928	243	2	1	0	5		0xff90			
+0x0197b55c	1000	264	2	1	0	5		0xff90			
+0x0197b944	988	268	2	1	0	5		0xff90			
+0x0197bd20	1168	304	2	1	0	5		0xff90			
+0x0197c1b0	1206	312	2	1	0	5		0xff90			
+0x0197c668	512	185	1	9	0	2		0xff90			
+0x0197cdec	2438	721	1	3	0	18		0xff90			
+0x0197d838	26	11	1	0	0	0					
+0x0197d880	22	9	1	0	0	0					
+0x0197dfcc	28	10	1	0	0	0					
+0x0197dfe8	28	7	1	0	0	0					
+0x0197e058	86	31	1	1	0	0					
+0x0197e0b0	62	25	1	1	0	0			dsp/dsynth.cpp	assert	
+0x0197e17c	42	14	2	0	0	0				near	dsp/dsynth.cpp
+0x0197ee60	76	25	1	2	0	0		0xffb0	dsp/dsynth.cpp	assert	
+0x0197ef08	20	8	1	0	0	0					
+0x0197ef1c	16	6	1	0	0	0					
+0x0197ef2c	20	8	1	0	0	0					
+0x0197ef40	16	6	1	0	0	0					
+0x0197ef58	18	6	8	0	0	0					
+0x0197ef6c	248	86	2	1	0	2					
+0x0197f064	826	267	5	2	0	0					
+0x0197f8c4	234	63	1	1	0	0					
+0x0197f9b0	70	22	1	2	0	0		0xff90			
+0x01981472	10	5	1	0	0	0					
+0x0198147c	8	4	2	0	0	0					
+0x01981484	38	12	1	0	0	0					
+0x019814aa	4	2	3	0	0	0					
+0x019814b0	6	2	1	0	0	0					
+0x019814b6	8	4	1	0	0	0					
+0x019814be	8	4	4	0	0	0					
+0x019814c6	36	9	4	0	0	0					
+0x019814f4	248	86	2	1	0	2					
+0x01981890	166	48	1	2	0	0		0xff90			
+0x0198197c	470	131	1	1	0	0					
+0x01981b54	464	133	2	1	0	0					
+0x01983424	136	42	1	1	0	0					
+0x019834ac	70	22	1	2	0	0		0xff90			
+0x01983538	464	133	3	1	0	0					
+0x01983708	510	146	3	2	0	0					
+0x01983908	514	147	5	2	0	0					
+0x01983b0c	512	148	3	2	0	0					
+0x01984c7c	174	48	1	3	0	0		0xff90			
+0x01984d70	222	67	1	1	0	0					
+0x01984e50	236	71	1	1	0	0					
+0x01985dc8	636	245	2	2	1	10		0xffa0			
+0x0198665c	194	72	2	5	0	0					
+0x0198673c	292	77	1	6	0	0					
+0x01986d02	86	19	1	0	0	0					
+0x01986d58	44	17	2	0	0	1					
+0x01986d84	88	31	1	3	0	0			seq/EndlessData.cpp	assert	
+0x01986de0	134	58	2	2	0	2					
+0x01986ec8	74	30	4	1	0	1					
+0x01986fc0	272	106	2	3	0	2					
+0x019870d4	254	96	1	3	0	1					
+0x01987450	546	174	2	10	0	0					
+0x01987678	320	113	62	4	0	0		0xff90			
+0x019877b8	264	107	1	4	0	1					
+0x019878c2	24	12	3	0	0	0					
+0x01987c70	12	4	4	0	0	0					
+0x01987c7c	8	3	2	0	0	0					
+0x01987c84	26	10	1	0	0	0					
+0x01987cd8	252	85	14	2	0	0		0xff90			
+0x01987e5c	64	20	1	1	0	0					
+0x01987f04	94	38	1	1	0	0					
+0x01987f64	156	54	1	1	0	0					
+0x0198805c	272	110	2	3	0	0					
+0x019881f4	366	131	1	9	0	0		0xff80			
+0x01988368	248	99	1	4	0	0		0xff90	seq/EndlessPlayer.cpp	assert	
+0x01988464	572	215	1	9	0	0					
+0x01988c5c	12	4	2	0	0	0					
+0x01988c68	12	4	4	0	0	0					
+0x01988c74	114	33	1	2	0	0		0xff90			
+0x01989fd8	122	37	1	1	0	0					
+0x0198a054	70	22	1	2	0	0		0xff90			
+0x0198ab94	126	36	1	2	0	0					
+0x0198af90	22	7	1	1	0	0					
+0x0198afa6	74	27	2	1	0	0					
+0x0198aff0	22	7	1	1	0	0					
+0x0198b008	350	139	2	5	0	1			seq/EtchASketchData.cpp	assert	
+0x0198b400	130	39	1	3	0	0				near	seq/EtchASketchData.cpp
+0x0198b484	836	293	4	2	0	1			seq/EtchASketchData.cpp	assert	
+0x0198b7d0	162	62	1	2	0	0				near	seq/EtchASketchData.cpp
+0x0198b872	118	42	1	1	0	0				near	seq/EtchASketchData.cpp
+0x0198b8ec	852	311	7	3	0	0			seq/EtchASketchData.cpp	assert	
+0x0198bc46	128	51	1	1	0	0					
+0x0198bcc6	128	51	1	1	0	0					
+0x0198bd46	118	47	1	1	0	0					
+0x0198bdbc	118	47	1	1	0	0					
+0x0198be32	110	46	2	1	0	0					
+0x0198bea0	140	55	2	2	0	0					
+0x0198bf2c	146	61	2	1	0	0					
+0x0198bfc0	552	166	2	11	0	1		0xff90			
+0x0198c1e8	548	168	29	6	0	0		0xff90			
+0x0198c4cc	30	12	2	0	0	0					
+0x0198c4ea	100	42	1	0	0	1					
+0x0198c54e	56	23	5	0	0	0					
+0x0198c588	82	26	2	1	0	0			seq/EtchASketchHelper.cpp	assert	
+0x0198c604	12	4	1	0	0	0		0xff90			
+0x0198c610	12	4	2	0	0	0		0xff90			
+0x0198c61c	12	4	3	0	0	0					
+0x0198c628	12	4	1	0	0	0					
+0x0198c634	14	5	1	0	0	0					
+0x0198c6e4	44	15	1	2	0	0					
+0x0198c710	68	26	2	1	0	0					
+0x0198c754	184	54	17	4	0	1		0xff90			
+0x0198c8dc	80	33	4	1	0	0					
+0x0198c92c	68	34	5	0	0	0					
+0x0198c970	1206	516	3	2	0	13					
+0x0198cfdc	26	9	1	1	0	0					
+0x0198cff8	586	219	1	8	0	0					
+0x0198d858	134	39	1	2	0	0		0xff90			
+0x0198e0ac	14	7	11	0	0	0					
+0x0198e0ba	68	28	38	0	0	1					
+0x0198e0fe	44	17	39	0	0	0					
+0x0198e12a	46	20	13	0	0	1					
+0x0198e1b0	256	101	9	3	0	0			expr.c	assert	
+0x0198e2b2	86	32	3	3	0	0				near	expr.c
+0x0198e308	194	79	14	3	0	0			expr.c	assert	
+0x0198e3cc	304	116	8	3	0	0			expr.c	assert	
+0x0198e500	386	148	3	4	0	0			expr.c	assert	
+0x0198e68c	80	29	1	1	0	0				near	expr.c
+0x0198e6dc	494	200	4	3	0	0			expr.c	assert	
+0x0198e8d0	340	126	8	7	0	2			expr.c	assert	
+0x0198ea26	48	17	8	1	0	0				near	expr.c
+0x0198ea56	256	118	4	1	0	3				near	expr.c
+0x0198eb58	180	76	7	2	0	1				near	expr.c
+0x0198ec0c	32	10	2	1	0	0				near	expr.c
+0x0198ec2c	244	98	6	4	0	0				near	expr.c
+0x0198ed20	64	22	15	2	0	0				near	expr.c
+0x0198ed60	274	114	3	3	0	1			expr.c	assert	
+0x0198ee74	70	19	70	2	0	0				near	expr.c
+0x0198eebc	80	29	10	2	0	0				near	expr.c
+0x0198ef0c	146	50	4	4	0	0			expr.c	assert	
+0x0198efa4	540	188	1	6	0	0			expr.c	assert	
+0x0198f1d0	160	56	1	5	0	0			expr.c	assert	
+0x0198f278	162	59	94	4	0	0				near	expr.c
+0x0198f320	276	101	3	3	0	0			expr.c	assert	
+0x0198f444	864	320	9	10	0	0			expr.c	assert	
+0x0198f7c4	20	7	32	1	0	0				near	expr.c
+0x0198f7d8	258	92	13	4	0	0				near	expr.c
+0x0198f8dc	192	62	2	3	0	0				near	expr.c
+0x0198f99c	656	253	2	5	0	0				near	expr.c
+0x0198fc30	270	67	13	5	0	0				near	expr.c
+0x0198fd40	374	131	31	9	0	0			expr.c	assert	
+0x0198fec0	142	54	8	3	0	0			expr.c	assert	
+0x0198ff50	162	59	1	3	0	0			expr.c	assert	
+0x0198fff6	52	19	3	1	0	0				near	expr.c
+0x0199002c	310	100	51	5	0	0			expr.c	assert	
+0x01990164	58	16	3	1	0	0				near	expr.c
+0x019901a0	58	16	1	1	0	0				near	expr.c
+0x019901dc	58	16	1	1	0	0				near	expr.c
+0x01990218	220	83	7	3	0	0			expr.c	assert	
+0x019902f8	96	39	4	1	0	0				near	expr.c
+0x01990358	910	331	2	15	0	0			expr.c	assert	
+0x019906ea	346	122	2	10	0	0			expr.c	assert	
+0x01990848	422	148	4	1	0	3			expr.c	assert	
+0x019909f2	90	36	1	0	0	1				near	expr.c
+0x01990a4c	2136	781	2	29	0	4			expr.c	assert	
+0x019912d4	304	99	4	5	0	2			expr.c	assert	
+0x01991408	90	36	11	0	0	1				near	expr.c
+0x01991464	120	39	6	2	0	1			expr.c	assert	
+0x019914dc	96	33	1	2	0	0			expr.c	assert	
+0x0199153c	172	70	15	1	0	1				near	expr.c
+0x019915e8	130	44	19	3	0	0			expr.c	assert	
+0x0199166c	246	80	1	3	0	0			expr.c	assert	
+0x01991998	46	12	1	1	0	0				near	expr.c
+0x019919c8	340	126	5	5	0	0			expr.c	assert	
+0x01991b2c	658	245	7	6	0	5			expr.c	assert	
+0x01992118	836	308	13	6	0	5			expr.c	assert	
+0x019927c0	536	208	6	3	0	0			expr.c	assert	
+0x01992d2c	76	25	1	2	0	0			expr.c	assert	
+0x01992d7c	112	43	3	2	0	0			expr.c	assert	
+0x01992dee	88	36	12	0	0	1				near	expr.c
+0x01992e48	2064	718	28	9	0	8			expr.c	assert	
+0x01994c94	318	107	1	7	0	0					
+0x01994dd2	290	91	1	3	0	0					
+0x01994ef8	148	57	2	2	0	0					
+0x01994f8c	262	102	2	4	0	0					
+0x01995094	202	78	6	4	0	0					
+0x01995160	218	93	4	3	0	0					
+0x0199523a	36	13	3	0	0	0					
+0x0199525e	100	46	2	1	0	0					
+0x019952c4	362	148	2	1	0	1					
+0x01995430	442	121	2	13	0	0			db2/fat_interface.cpp	assert	
+0x019955ec	316	105	2	11	0	0				near	db2/fat_interface.cpp
+0x01995728	58	16	3	3	0	0				near	db2/fat_interface.cpp
+0x01995764	32	10	1	2	0	0				near	db2/fat_interface.cpp
+0x01995784	42	12	1	2	0	0				near	db2/fat_interface.cpp
+0x019957b0	50	16	2	2	0	0				near	db2/fat_interface.cpp
+0x019957e4	130	45	3	4	0	0			db2/fat_interface.cpp	assert	
+0x01995868	130	45	1	4	0	0			db2/fat_interface.cpp	assert	
+0x019958ec	76	25	1	3	0	0				near	db2/fat_interface.cpp
+0x01995938	44	13	2	2	0	0				near	db2/fat_interface.cpp
+0x01995964	214	73	3	8	0	0			db2/fat_interface.cpp	assert	
+0x01995a40	146	46	2	6	0	0			db2/fat_interface.cpp	assert	
+0x01995ad4	42	12	1	2	0	0				near	db2/fat_interface.cpp
+0x01995b00	50	16	2	2	0	0				near	db2/fat_interface.cpp
+0x01995b34	76	25	1	3	0	0				near	db2/fat_interface.cpp
+0x01995b80	44	13	2	2	0	0				near	db2/fat_interface.cpp
+0x01995bac	214	73	3	8	0	0			db2/fat_interface.cpp	assert	
+0x01995c88	146	46	2	6	0	0			db2/fat_interface.cpp	assert	
+0x01995d90	12	4	20	0	0	0		0xff90			
+0x01995d9c	148	57	2	2	0	0					
+0x01995e30	390	142	3	5	0	0					
+0x01995fb8	80	33	11	1	0	0					
+0x01996008	388	136	2	5	0	0					
+0x0199618c	96	36	2	1	0	0					
+0x019961ec	712	236	3	5	1	0		0xffa0			
+0x019964b4	52	20	1	1	0	0					
+0x019964ec	62	20	1	1	0	0					
+0x01996530	1754	546	1	27	0	0		0xff90	disk/fat_manager.cpp	assert	
+0x01996e04	302	96	2	14	0	0			disk/fat_manager.cpp	assert	
+0x01996f38	628	234	2	17	0	0		0xff90	disk/fat_manager.cpp	assert	
+0x019971b0	624	201	1	22	0	0		0xff90	disk/fat_manager.cpp	assert	
+0x0199742c	540	183	4	29	0	0		0xff90	disk/fat_manager.cpp	assert	
+0x019976ac	144	61	4	1	0	0					
+0x0199773c	148	57	2	2	0	0					
+0x019977d0	262	102	1	4	0	0					
+0x019978d8	202	78	2	4	0	0					
+0x019979a4	56	18	4	1	0	0					
+0x019979dc	178	52	2	4	0	0					
+0x01997a90	156	48	2	3	0	0					
+0x01997b2c	46	14	2	1	0	0					
+0x01997b60	242	85	2	5	0	0			disk/fat_utils.cpp	assert	
+0x01997c58	148	57	3	7	0	0				near	disk/fat_utils.cpp
+0x01997cec	246	81	3	4	0	0				near	disk/fat_utils.cpp
+0x01997de4	444	168	5	8	0	0				near	disk/fat_utils.cpp
+0x01997fa0	392	137	4	8	0	0			disk/fat_utils.cpp	assert	
+0x0199812c	250	92	4	8	0	0			disk/fat_utils.cpp	assert	
+0x01998228	926	295	3	22	0	0			disk/fat_utils.cpp	assert	
+0x019985d4	390	135	3	8	0	0				near	disk/fat_utils.cpp
+0x0199875c	156	54	3	2	0	0				near	disk/fat_utils.cpp
+0x019987f8	208	75	1	6	0	0				near	disk/fat_utils.cpp
+0x019988c8	402	123	2	6	0	0			disk/fat_utils.cpp	assert	
+0x01998a5a	442	161	2	7	0	0				near	disk/fat_utils.cpp
+0x01998c14	460	160	1	12	0	0			disk/fat_utils.cpp	assert	
+0x01998e24	30	11	22	0	1	0		0xff90			
+0x01998e44	30	11	22	0	1	0		0xff90			
+0x01998e64	14	5	1	0	0	0		0xff90			
+0x01998e74	40	15	9	0	0	0					
+0x01998e9c	376	125	4	2	0	3					
+0x01999014	922	370	13	3	0	0					
+0x019993b4	1070	399	8	3	0	0					
+0x019997e8	276	111	6	2	0	0					
+0x01999900	296	115	8	3	0	0					
+0x01999a30	764	321	6	5	0	3					
+0x01999d30	756	279	2	5	0	2					
+0x0199a028	556	227	2	3	0	2					
+0x0199a254	1446	548	3	6	0	11					
+0x0199a800	292	124	2	4	0	0					
+0x0199a924	342	138	2	1	0	2					
+0x0199aa7a	888	371	7	3	0	5					
+0x0199adf6	1194	436	7	5	0	0					
+0x0199b2a8	792	299	13	8	0	0					
+0x0199b5c4	732	265	28	6	0	2					
+0x0199b8a8	778	286	26	6	0	2					
+0x0199bbb8	446	166	1	5	0	0					
+0x0199bd7c	34	11	13	1	0	0					
+0x0199bda0	720	269	31	7	0	0					
+0x0199c07c	198	72	2	3	0	0					
+0x0199c148	174	72	2	5	0	0					
+0x0199c1f8	130	44	12	3	0	0					
+0x0199c27c	514	187	1	4	0	0					
+0x0199c488	406	173	2	3	0	0					
+0x0199c620	408	165	10	8	0	0					
+0x0199c7b8	1076	415	3	9	0	8					
+0x0199cbec	582	228	1	7	0	2					
+0x0199ce32	60	20	1	1	0	0					
+0x0199ce70	92	23	3	1	0	0					
+0x0199cecc	148	57	3	2	0	0					
+0x0199cf60	262	102	5	4	0	0					
+0x0199d06c	220	74	2	4	0	0					
+0x0199d148	202	78	10	4	0	0					
+0x0199d214	232	97	3	4	0	0					
+0x0199d2fc	218	93	14	3	0	0					
+0x0199d3d6	36	13	2	0	0	0					
+0x0199d3fa	158	65	10	1	0	0					
+0x0199d498	100	46	4	1	0	0					
+0x0199d4fc	362	148	6	1	0	1					
+0x0199d668	1016	328	9	29	0	1		0xff90	disk/filesync_common.cpp	assert	
+0x0199da6c	852	265	1	20	0	0		0xff90		near	disk/filesync_common.cpp
+0x0199ddc4	230	76	1	5	0	0		0xff90		near	disk/filesync_common.cpp
+0x0199deac	852	265	1	20	0	0		0xff90		near	disk/filesync_common.cpp
+0x0199e204	490	154	1	14	0	0		0xff90		near	disk/filesync_common.cpp
+0x0199e3f4	292	90	2	11	0	0			disk/filesync_common.cpp	assert	
+0x0199e51c	802	276	5	21	0	1		0xff90	disk/filesync_common.cpp	assert	
+0x0199e840	288	99	9	6	0	0		0xff90		near	disk/filesync_common.cpp
+0x0199e960	212	64	1	7	0	0		0xff90		near	disk/filesync_common.cpp
+0x0199ea38	212	64	1	7	0	0		0xff90		near	disk/filesync_common.cpp
+0x0199eb10	364	121	1	14	0	0		0xff90	disk/filesync_common.cpp	assert	
+0x0199ec7c	160	55	1	6	0	0		0xff90			
+0x0199ed1c	1306	410	2	26	0	2		0xff90			
+0x0199f248	2086	648	2	37	0	2		0xff90			
+0x0199fa88	166	52	1	5	0	0		0xff90			
+0x0199fb30	130	38	1	2	0	0		0xff90			
+0x0199fc26	188	77	2	5	0	0			disk/filesync_yaffs.cpp	assert	
+0x0199fce4	32	9	3	2	0	0					
+0x0199fd04	32	9	3	2	0	0					
+0x0199fd24	252	91	6	5	0	0			db2/FileWorker.cpp	assert	
+0x0199fe78	106	37	6	0	0	1					
+0x0199fee2	98	35	6	0	0	1					
+0x0199ff44	776	265	1	0	0	1					
+0x019a0280	578	239	4	5	0	1			fkey.c	assert	
+0x019a04c8	830	274	2	18	0	0			fkey.c	assert	
+0x019a080c	620	223	2	13	0	0			fkey.c	assert	
+0x019a0a7c	48	16	2	2	0	0				near	fkey.c
+0x019a0aac	268	98	1	11	0	1			fkey.c	assert	
+0x019a0bbc	992	356	4	14	0	0			fkey.c	assert	
+0x019a0fae	242	89	2	3	0	3				near	fkey.c
+0x019a10a0	412	168	4	3	0	1				near	fkey.c
+0x019a1240	1436	537	2	21	0	0			fkey.c	assert	
+0x019a17e0	286	93	1	7	0	0			fkey.c	assert	
+0x019a1900	564	178	1	17	0	0			bf/flasher.cpp	assert	
+0x019a1b48	236	77	1	12	0	0			bf/flasher.cpp	assert	
+0x019a21d8	112	38	1	2	0	0					
+0x019a22a4	260	63	1	0	0	1		0xff90			
+0x019a3d38	74	25	1	2	0	0		0xffb0	dsp/Fm.cpp	assert	
+0x019a3d84	96	35	1	0	0	1		0xff90			
+0x019a3e64	12	4	4	0	0	0		0xff90			
+0x019a40a0	116	34	5	2	0	0		0xff90			
+0x019a41e8	416	149	21	3	0	4		0xff90,0xffa0	bf/fm_radio.cpp	assert	
+0x019a438c	108	35	2	2	0	0		0xff90	bf/fm_radio.cpp	assert	
+0x019a43fc	166	56	4	1	0	0					
+0x019a44a4	108	42	1	1	0	0					
+0x019a4510	120	39	2	1	0	0					
+0x019a4588	112	35	1	4	0	0		0xff90			
+0x019a45f8	1064	359	1	5	0	1		0xff90,0xffa0			
+0x019a4c50	160	44	1	3	0	0		0xff90			
+0x019a55d0	498	165	1	1	6	0		0xffa0	gui/screens/Font.cpp	assert	
+0x019a57c6	186	49	1	2	0	0				near	gui/screens/Font.cpp
+0x019a5880	282	102	2	4	1	0		0xffa0	gui/screens/Font.cpp	assert	
+0x019a599c	402	145	4	5	2	1		0xffa0	gui/screens/Font.cpp	assert	
+0x019a5a34	252	90	1	5	0	1			gui/screens/Font.cpp	assert	
+0x019a5b34	84	27	6	2	0	0					
+0x019a5bf8	434	132	1	1	0	1					
+0x019a5e68	182	53	2	4	0	0			bf/fs_front.c	assert	
+0x019a5f20	114	39	5	6	0	0				near	bf/fs_front.c
+0x019a5f98	224	70	2	9	0	0			bf/fs_front.c	assert	
+0x019a607c	48	17	1	2	0	0					
+0x019a60b0	98	38	1	3	0	0					
+0x019a6154	106	36	3	1	0	0					
+0x019a6200	58	19	1	1	0	0					
+0x019a62a4	1444	371	2	1	0	6		0xff80,0xff90	dsp/Ftwo.cpp	assert	
+0x019a68e8	248	86	6	1	0	2					
+0x019a69e0	720	239	2	2	0	0					
+0x019a6cb0	826	267	3	2	0	0					
+0x019a7344	212	57	1	3	0	0					
+0x019a7418	70	22	1	2	0	0		0xff90			
+0x019a9362	980	366	3	3	0	1			func.c	assert	
+0x019aa870	100	38	1	3	0	0			func.c	assert	
+0x019aa8d8	278	98	1	4	0	0			func.c	assert	
+0x019aa9f0	202	77	1	3	0	0			func.c	assert	
+0x019aaabc	48	18	1	2	0	0		0xff90			
+0x019aab88	106	31	1	2	0	0		0xff90			
+0x019aad38	86	27	2	1	0	1			shared/fx_types.cpp	assert	
+0x019aad8e	104	48	2	1	0	0				near	shared/fx_types.cpp
+0x019aadf8	76	26	1	1	0	0				near	shared/fx_types.cpp
+0x019aae44	122	45	7	2	0	0			shared/fx_types.cpp	assert	
+0x019ab3f0	46	15	1	1	0	0					
+0x019ab690	108	31	2	2	0	0		0xff90			
+0x019aba68	16	6	2	0	0	0					
+0x019aba78	148	57	2	2	0	0					
+0x019abb0c	262	102	2	4	0	0					
+0x019abc14	202	78	3	4	0	0					
+0x019abce0	218	93	8	3	0	0					
+0x019abe44	158	65	2	1	0	0					
+0x019ac0b0	578	212	2	11	2	2		0xff80,0xffa0	main/ctls/global_controller.cpp	assert	
+0x019ac2f8	206	80	2	5	1	1				near	main/ctls/global_controller.cpp
+0x019ac3c8	192	68	6	7	2	0		0xff80,0xffa0		near	main/ctls/global_controller.cpp
+0x019ac488	44	16	4	1	0	0				near	main/ctls/global_controller.cpp
+0x019ac4b4	152	54	8	5	0	0		0xff90		near	main/ctls/global_controller.cpp
+0x019ac9b8	102	37	2	3	0	0		0xff80		near	main/ctls/global_controller.cpp
+0x019acd60	100	36	7	3	0	0				near	main/ctls/global_controller.cpp
+0x019ad090	2204	686	1	43	0	1		0xff80,0xff90	main/ctls/global_controller.cpp	assert	
+0x019adb68	268	85	1	8	0	0		0xff90			
+0x019add94	8	4	3	0	0	0					
+0x019adea8	114	33	4	2	0	0		0xff90			
+0x019adff0	12	4	3	0	0	0					
+0x019adffc	12	4	2	0	0	0		0xff90			
+0x019ae008	12	4	2	0	0	0		0xff80			
+0x019ae014	14	5	1	0	0	0		0xff80			
+0x019ae024	12	4	4	0	0	0		0xff80			
+0x019ae0c8	74	26	2	0	2	0		0xff90			
+0x019ae114	70	22	2	1	0	0		0xff90			
+0x019ae15c	742	292	1	2	0	1		0xff90			
+0x019ae444	244	92	1	2	0	1		0xff90			
+0x019ae538	110	40	1	2	0	0		0xff90,0xffa0			
+0x019ae5a8	546	196	1	3	1	1	0xffc0	0xff90,0xffa0	bf/gpio.cpp	assert	
+0x019ae7cc	298	112	1	2	0	0		0xff80,0xff90,0xffa0		near	bf/gpio.cpp
+0x019ae8f8	28	9	1	1	0	0		0xff80		near	bf/gpio.cpp
+0x019ae914	188	76	15	2	0	0		0xff90,0xffa0	bf/gpio.cpp	assert	
+0x019ae9d0	190	77	20	2	0	0		0xff90,0xffa0	bf/gpio.cpp	assert	
+0x019aea90	1340	508	1	3	0	1		0xff90,0xffa0	bf/gpio.cpp	assert	
+0x019aefd0	42	16	1	3	0	0				near	bf/gpio.cpp
+0x019aeffc	78	26	1	1	0	0		0xff90		near	bf/gpio.cpp
+0x019af04c	22	9	1	0	0	0		0xff90		near	bf/gpio.cpp
+0x019af064	242	96	4	2	0	0		0xff90,0xffa0	bf/gpio.cpp	assert	
+0x019af190	38	17	1	0	0	0					
+0x019af25c	34	15	1	0	0	0					
+0x019afd4c	18	6	36	0	0	0					
+0x019b0040	134	38	1	1	0	0					
+0x019b00c8	70	22	1	2	0	0		0xff90			
+0x019b0154	222	67	1	1	0	0					
+0x019b0234	236	71	1	1	0	0					
+0x019b0320	222	67	1	1	0	0					
+0x019b0400	236	71	1	1	0	0					
+0x019b04ec	222	67	1	1	0	0					
+0x019b24d4	46	12	20	2	0	0					
+0x019b2504	38	12	88	0	0	0					
+0x019b252a	4	2	88	0	0	0					
+0x019b252e	4	2	22	0	0	0					
+0x019b2532	166	47	1	0	0	0					
+0x019b25d8	60	21	2	0	1	0		0xffa0			
+0x019b2604	16	6	9	0	0	0					
+0x019b2614	12	4	4	0	0	0					
+0x019b2620	82	24	1	5	0	0		0xff80			
+0x019b2674	40	10	1	3	0	0					
+0x019b272c	64	26	8	1	0	0			hash.c	assert	
+0x019b276c	84	32	6	2	0	0			hash.c	assert	
+0x019b27c8	358	127	30	3	0	1			hash.c	assert	
+0x019b293c	1510	567	13	9	0	3			hash.c	assert	
+0x019b2f38	8	3	5	0	0	0					
+0x019b2f40	8	3	3	0	0	0					
+0x019b2f48	8	3	3	0	0	0					
+0x019b2f50	8	3	3	0	0	0					
+0x019b2f58	8	3	1	0	0	0					
+0x019b2f60	8	3	3	0	0	0					
+0x019b2f68	14	5	1	0	0	0					
+0x019b2f8c	118	33	1	1	0	0					
+0x019b3004	86	26	1	1	0	0					
+0x019b305c	192	52	1	1	0	0					
+0x019b311c	70	22	10	2	0	0		0xff90			
+0x019b31a8	2142	654	3	9	5	0		0xff90			
+0x019b489a	16	6	2	0	0	0					
+0x019b4c64	92	32	1	1	0	0		0xffb0	dsp/Id.cpp	assert	
+0x019b4cc4	138	50	1	1	0	4					
+0x019b4d98	248	86	5	1	0	2					
+0x019b4f2c	182	50	1	3	0	0		0xff90			
+0x019b5df8	354	121	6	3	0	0					
+0x019b5f68	130	49	1	4	0	0					
+0x019b5fec	126	47	1	4	0	0					
+0x019b606c	244	89	1	1	0	0					
+0x019b6160	12	4	5	0	0	0					
+0x019b616c	16	6	6	0	0	0					
+0x019b6284	114	33	12	2	0	0		0xff90			
+0x019b63d0	46	15	1	1	0	0					
+0x019b65fc	426	175	9	4	0	3					
+0x019b6bfc	14	5	1	0	0	0					
+0x019b6c0c	100	38	1	3	1	0					
+0x019b6c74	234	89	1	7	4	0		0xff80			
+0x019b6d60	150	44	5	5	0	0			insert.c	assert	
+0x019b6df8	176	69	3	2	0	1				near	insert.c
+0x019b6ea8	140	58	1	3	0	1				near	insert.c
+0x019b6f34	494	136	1	10	0	0			insert.c	assert	
+0x019b7124	452	126	3	12	0	0			insert.c	assert	
+0x019b72ec	1314	490	2	23	0	1			insert.c	assert	
+0x019b79e0	428	160	2	10	0	2			insert.c	assert	
+0x019b7b90	362	110	3	8	0	0			insert.c	assert	
+0x019b7cfc	300	116	2	2	0	0			insert.c	assert	
+0x019b7e2c	6370	2286	4	61	0	9			insert.c	assert	
+0x019b975c	104	48	2	1	0	0					
+0x019b97c4	76	26	1	1	0	0					
+0x019b9810	122	45	3	2	0	0			shared/instr_types.cpp	assert	
+0x019b9bf0	112	41	1	2	0	0		0xffb0	dsp/Iter.cpp	assert	
+0x019b9c64	38	11	1	0	0	1					
+0x019b9cec	248	86	2	1	0	2					
+0x019ba2f8	140	40	1	3	0	0		0xff90			
+0x019ba468	148	57	2	2	0	0					
+0x019ba4fc	354	139	6	4	0	0					
+0x019ba664	226	74	4	4	0	0					
+0x019ba748	204	79	10	4	0	0					
+0x019ba818	180	67	13	3	0	0					
+0x019ba8cc	238	97	2	4	0	0					
+0x019ba9c0	206	87	5	3	0	0					
+0x019baa8e	56	18	5	1	0	0					
+0x019baac6	66	20	12	1	0	0					
+0x019bab08	294	103	1	6	0	0			lib_json/json_reader.cpp	assert	
+0x019bac32	362	150	1	1	0	4					
+0x019bad9c	422	173	16	0	0	4					
+0x019bb00c	90	30	9	1	0	0					
+0x019bb066	88	37	9	1	0	0					
+0x019bb0be	56	21	14	0	0	0					
+0x019bb0f8	142	44	2	4	0	0					
+0x019bb188	154	49	2	3	0	0					
+0x019bb224	134	59	1	2	0	0					
+0x019bb2ac	870	327	3	7	2	6		0xffa0			
+0x019bb430	484	173	7	7	1	3		0xffa0			
+0x019bb558	190	70	13	5	0	0					
+0x019bb618	330	117	2	3	0	1					
+0x019bb764	394	136	1	4	0	0					
+0x019bb8f0	474	169	2	10	0	0					
+0x019bbacc	828	309	1	10	0	2					
+0x019bbe14	386	140	1	11	0	1					
+0x019bbf98	100	29	21	2	0	0					
+0x019bbffc	148	57	4	1	0	0					
+0x019bc090	202	90	2	1	0	0					
+0x019bc15a	198	88	2	1	0	0					
+0x019bc220	2008	731	6	8	0	0					
+0x019bc9f8	414	157	1	8	0	1					
+0x019bcb98	522	188	2	5	0	0					
+0x019bcfa8	260	90	1	5	0	0					
+0x019bd0ac	328	114	3	6	0	0					
+0x019bd3a0	994	375	1	13	0	0					
+0x019bd7ee	24	12	1	0	0	0					
+0x019bd806	24	12	1	0	0	0					
+0x019bd81e	12	6	2	0	0	0					
+0x019bd82a	8	4	1	0	0	0					
+0x019bd832	34	10	7	0	0	0					
+0x019bd854	36	11	5	0	0	0					
+0x019bd878	24	9	3	0	0	0					
+0x019bd890	24	9	137	0	0	0					
+0x019bd8a8	148	57	2	2	0	0					
+0x019bd93c	262	102	2	4	0	0					
+0x019bda44	202	78	4	4	0	0					
+0x019bdb10	204	86	1	3	0	0					
+0x019bdbdc	66	20	5	1	0	0					
+0x019bdc4c	90	27	32	0	1	0		0xff90			
+0x019bdca8	112	35	9	0	1	0		0xff90			
+0x019bdd18	118	47	317	3	0	0			lib_json/json_value.cpp	assert	
+0x019bddc0	186	67	231	3	0	0			lib_json/json_value.cpp	assert	
+0x019bdea4	92	32	12	1	0	0			lib_json/json_value.cpp	assert	
+0x019bdfc0	20	7	2	1	0	0				near	lib_json/json_value.cpp
+0x019bdfd4	54	21	2	1	0	0			lib_json/json_value.cpp	assert	
+0x019be00c	88	31	54	2	0	0			lib_json/json_value.cpp	assert	
+0x019be0c0	78	27	100	1	0	0			lib_json/json_value.cpp	assert	
+0x019be1b0	78	27	1	1	0	0			lib_json/json_value.cpp	assert	
+0x019be2c8	66	24	4	1	0	0			lib_json/json_value.cpp	assert	
+0x019be35c	54	20	7	1	0	0			lib_json/json_value.cpp	assert	
+0x019be3f0	104	41	1	1	1	0		0xff90		near	lib_json/json_value.cpp
+0x019be458	146	60	3	2	1	0		0xff90	lib_json/json_value.cpp	assert	
+0x019be568	262	93	14	2	2	0		0xff90	lib_json/json_value.cpp	assert	
+0x019be6b4	166	68	3	2	2	0		0xff90	lib_json/json_value.cpp	assert	
+0x019be760	138	39	4	2	0	0				near	lib_json/json_value.cpp
+0x019be7ec	72	23	2	3	0	0				near	lib_json/json_value.cpp
+0x019be834	96	32	1	3	0	0				near	lib_json/json_value.cpp
+0x019be894	32	7	1	1	0	0				near	lib_json/json_value.cpp
+0x019be8b4	36	11	6	2	0	0				near	lib_json/json_value.cpp
+0x019be8d8	56	21	31	1	0	0			lib_json/json_value.cpp	assert	
+0x019be9c8	44	18	1	2	0	0				near	lib_json/json_value.cpp
+0x019be9f4	84	37	3	1	0	0				near	lib_json/json_value.cpp
+0x019bea48	70	31	3	2	0	0				near	lib_json/json_value.cpp
+0x019bea94	214	77	26	2	2	0		0xff90	lib_json/json_value.cpp	assert	
+0x019beb70	214	77	94	2	2	0		0xff90	lib_json/json_value.cpp	assert	
+0x019bec48	32	13	1	1	0	0				near	lib_json/json_value.cpp
+0x019bec68	858	358	9	6	3	1		0xff90,0xffa0	lib_json/json_value.cpp	assert	
+0x019bee88	314	122	7	5	2	0		0xff90	lib_json/json_value.cpp	assert	
+0x019befe4	1188	508	2	4	1	7		0xffa0		near	lib_json/json_value.cpp
+0x019bf3dc	178	71	1	2	0	2				near	lib_json/json_value.cpp
+0x019bf490	966	386	2	2	0	6				near	lib_json/json_value.cpp
+0x019bf858	92	34	21	4	0	0				near	lib_json/json_value.cpp
+0x019bf940	72	33	3	1	0	0				near	lib_json/json_value.cpp
+0x019bf988	76	26	3	2	0	0				near	lib_json/json_value.cpp
+0x019bf9d4	86	38	2	1	0	0				near	lib_json/json_value.cpp
+0x019bfa30	62	17	49	0	0	0				near	lib_json/json_value.cpp
+0x019bfaf8	418	164	125	9	3	0		0xff90	lib_json/json_value.cpp	assert	
+0x019bfcbc	42	16	6	3	0	0				near	lib_json/json_value.cpp
+0x019bfce8	424	167	2	9	3	0		0xff90	lib_json/json_value.cpp	assert	
+0x019bfeb4	18	6	286	1	0	0				near	lib_json/json_value.cpp
+0x019bfec6	34	14	1	1	0	0				near	lib_json/json_value.cpp
+0x019bfee8	270	91	1	3	0	2				near	lib_json/json_value.cpp
+0x019bfff6	22	8	3	1	0	0				near	lib_json/json_value.cpp
+0x019c000c	58	22	1	1	0	0				near	lib_json/json_value.cpp
+0x019c0048	244	98	1	1	0	4				near	lib_json/json_value.cpp
+0x019c0140	88	36	1	2	0	0				near	lib_json/json_value.cpp
+0x019c0198	50	19	4	1	0	0				near	lib_json/json_value.cpp
+0x019c01cc	82	25	3	1	0	0				near	lib_json/json_value.cpp
+0x019c0220	70	23	3	1	0	0				near	lib_json/json_value.cpp
+0x019c0268	1354	417	1	9	3	2		0xffa0	lib_json/json_value.cpp	assert	
+0x019c0828	148	57	2	2	0	0					
+0x019c08bc	354	139	6	4	0	0					
+0x019c0a20	226	74	8	4	0	0					
+0x019c0b08	204	79	8	4	0	0					
+0x019c0bd8	212	71	1	3	0	0					
+0x019c0cb2	276	104	19	4	0	0					
+0x019c0dcc	206	87	4	3	0	0					
+0x019c0e9a	66	20	6	1	0	0					
+0x019c1104	118	53	2	0	1	0					
+0x019c117c	128	52	3	0	1	0					
+0x019c1284	180	63	2	2	1	0					
+0x019c133c	128	49	2	2	1	0					
+0x019c1810	152	59	2	2	0	0					
+0x019c1908	44	16	2	1	0	0					
+0x019c1934	30	11	2	0	0	0					
+0x019c19c4	134	41	2	4	0	0					
+0x019c1a4a	16	7	1	0	0	0					
+0x019c1a5a	10	5	1	0	0	0					
+0x019c1a68	358	147	1	3	3	0					
+0x019c1bdc	154	49	2	3	0	0					
+0x019c1c78	72	33	1	1	0	0					
+0x019c1cc0	2306	746	2	28	2	2					
+0x019c2618	96	29	3	1	0	0					
+0x019c2ba0	24	8	3	0	0	0		0xff90			
+0x019c2bb8	24	8	3	0	0	0		0xff90			
+0x019c2f04	32	10	8	0	1	0		0xffa0			
+0x019c2f24	208	78	2	2	0	0		0xff90			
+0x019c2ff8	76	28	1	1	0	0		0xff90			
+0x019c314c	28	12	1	0	0	0					
+0x019c316c	28	12	26	0	0	0					
+0x019c318c	8	4	2	0	0	0					
+0x019c3196	50	18	2	1	0	0			shared/Keys.cpp	assert	
+0x019c31e6	108	41	5	1	0	0			shared/Keys.cpp	assert	
+0x019c3286	108	41	3	1	0	0			shared/Keys.cpp	assert	
+0x019c3322	58	19	31	1	0	0			shared/Keys.cpp	assert	
+0x019c3450	80	29	1	1	0	0			shared/Keys.cpp	assert	
+0x019c3564	46	15	1	1	0	0					
+0x019c38a8	108	34	3	1	0	0					
+0x019c3940	44	18	3	0	0	0					
+0x019c3980	100	46	2	1	0	0					
+0x019c39e4	86	35	1	1	0	0					
+0x019c3ad4	428	128	1	7	0	0					
+0x019c3c80	60	19	1	3	0	0					
+0x019c3cbc	46	17	23	0	0	1					
+0x019c3cec	114	42	1	1	0	1					
+0x019c3d60	58	18	1	0	0	1					
+0x019c3d9c	2716	809	13	19	7	3		0xff90,0xffa0			
+0x019c49c4	248	86	2	1	0	2					
+0x019c4ae8	190	45	2	0	0	0					
+0x019c4ba6	158	43	2	0	0	0					
+0x019c4c44	56	24	2	0	0	0					
+0x019c4c7c	46	20	6	0	0	0					
+0x019c4cac	148	57	2	2	0	0					
+0x019c4d40	394	147	2	5	0	0					
+0x019c4ecc	142	45	3	2	0	0		0xff90			
+0x019c4ff0	100	46	14	1	0	0					
+0x019c50a0	174	62	4	1	1	1		0xffa0			
+0x019c514e	158	44	4	1	0	0					
+0x019c5386	270	70	1	3	0	0					
+0x019c5494	234	83	17	5	0	0			gui/screens/LanderScreen.cpp	assert	
+0x019c5580	472	152	1	2	0	1		0xff90			
+0x019c5758	420	116	1	2	0	1					
+0x019c58fc	726	236	1	4	0	2		0xff90			
+0x019c5bd4	336	131	3	1	0	2		0xff80,0xff90			
+0x019c5d24	264	89	3	0	0	0	0xffff				
+0x019c5e2c	78	25	5	0	0	0					
+0x019c7ad8	3720	1130	1	30	2	0	0xfffe,0xffff	0xff90			
+0x019c8968	974	304	1	3	0	3		0xff80,0xff90			
+0x019c9460	786	269	5	19	1	1			legacy.c	assert	
+0x019c9808	106	31	1	2	0	0		0xff90			
+0x019c99ac	46	16	4	1	0	0			dsp/lfo_factory.cpp	assert	
+0x019c9a24	56	15	2	1	0	0			dsp/lfo_factory.cpp	assert	
+0x019c9ac0	56	15	2	1	0	0			dsp/lfo_factory.cpp	assert	
+0x019c9b5c	104	48	2	1	0	0					
+0x019c9bc4	76	26	1	1	0	0					
+0x019c9c10	118	46	3	2	0	0			shared/lfo_types.cpp	assert	
+0x019c9cf4	14	5	4	0	0	0		0xff90			
+0x019ca6e8	72	23	1	1	0	0		0xffb0	dsp/LfoBend.cpp	assert	
+0x019ca734	72	23	1	1	0	0		0xffb0	dsp/LfoBend.cpp	assert	
+0x019ca780	22	7	1	0	0	0		0xffb0			
+0x019cae08	14	5	4	0	0	0		0xff90			
+0x019cae26	630	230	3	0	0	0		0xff90			
+0x019cb62c	72	23	1	1	0	0		0xffb0	dsp/LfoCrank.cpp	assert	
+0x019cb678	72	23	1	1	0	0		0xffb0	dsp/LfoCrank.cpp	assert	
+0x019cb6c4	22	7	1	0	0	0		0xffb0			
+0x019cbd88	66	21	2	1	0	0					
+0x019cc664	70	23	1	2	0	0		0xffb0	dsp/LfoDual.cpp	assert	
+0x019cc6ac	70	23	1	2	0	0		0xffb0	dsp/LfoDual.cpp	assert	
+0x019cc6f2	26	9	1	0	0	0					
+0x019cc70c	26	9	1	0	0	0					
+0x019cc726	26	9	1	0	0	0					
+0x019cc740	26	9	1	0	0	0					
+0x019cd2ec	72	23	1	1	0	0		0xffb0	dsp/LfoMidi.cpp	assert	
+0x019cd338	72	23	1	1	0	0		0xffb0	dsp/LfoMidi.cpp	assert	
+0x019cd384	22	7	1	0	0	0		0xffb0		near	dsp/LfoMidi.cpp
+0x019cd39c	90	32	1	1	0	0			dsp/LfoMidi.cpp	assert	
+0x019ce3a4	72	23	1	1	0	0		0xffb0	dsp/LfoReRoute.cpp	assert	
+0x019ce3f0	72	23	1	1	0	0		0xffb0	dsp/LfoReRoute.cpp	assert	
+0x019ce43c	22	7	1	0	0	0		0xffb0			
+0x019cf340	142	54	1	2	0	0		0xffb0	dsp/LfoRnd.cpp	assert	
+0x019cf3d0	142	54	1	2	0	0		0xffb0	dsp/LfoRnd.cpp	assert	
+0x019cf460	118	39	1	1	0	0		0xffb0			
+0x019cf4d6	16	6	1	0	0	0					
+0x019d0290	92	29	1	2	0	0		0xffb0	dsp/LfoSingle.cpp	assert	
+0x019d02f0	90	31	1	2	0	0		0xffb0	dsp/LfoSingle.cpp	assert	
+0x019d034c	68	21	1	1	0	0		0xffb0			
+0x019d0390	26	9	1	0	0	0					
+0x019d03aa	26	9	1	0	0	0					
+0x019d03c4	26	9	1	0	0	0					
+0x019d03de	26	9	1	0	0	0					
+0x019d0a60	108	45	1	1	1	0					
+0x019d0acc	112	47	1	1	1	0					
+0x019d0b3c	112	47	1	1	1	0					
+0x019d0bac	204	84	1	1	2	1		0xff90			
+0x019d0c7c	240	102	1	1	3	1		0xff90			
+0x019d0d70	308	115	3	5	0	0					
+0x019d0f20	774	267	11	8	0	0					
+0x019d1228	106	43	1	2	0	0					
+0x019d1298	466	175	3	5	0	0					
+0x019d1470	218	83	3	1	0	0					
+0x019d154c	342	112	2	6	0	0					
+0x019d16a8	20	7	1	1	0	0					
+0x019d16bc	242	91	3	3	0	0					
+0x019d1818	770	249	3	6	0	0					
+0x019d1b24	330	112	12	5	1	0					
+0x019d1c70	40	20	21	0	0	0					
+0x019d1cf4	478	150	1	14	1	0					
+0x019d1ed4	104	36	1	4	0	0			loadext.c	assert	
+0x019d1f44	176	57	1	5	1	0		0xff90			
+0x019d1ff4	14	5	1	0	0	0					
+0x019d2004	148	57	2	2	0	0					
+0x019d2098	262	102	4	4	0	0					
+0x019d21a0	202	78	4	4	0	0					
+0x019d226c	218	93	2	3	0	0					
+0x019d2348	340	112	4	2	1	0		0xffa0			
+0x019d249c	464	188	1	5	0	0					
+0x019d266c	180	64	1	2	1	0		0xffa0			
+0x019d2720	72	33	3	1	0	0					
+0x019d2768	60	21	1	2	0	0					
+0x019d27a4	50	19	2	1	0	0					
+0x019d27d8	88	26	3	1	0	0					
+0x019d2830	78	25	3	1	0	0					
+0x019d2880	774	230	2	8	1	0		0xffa0			
+0x019d2bf0	18	6	31	1	0	0					
+0x019d2c04	102	31	19	3	0	0					
+0x019d2c6c	18	6	14	1	0	0					
+0x019d2c80	96	31	7	3	0	0					
+0x019d2ce0	16	5	4	1	0	0					
+0x019d2d1c	2	1	1	0	0	0					
+0x019d2d1e	2	1	1	0	0	0					
+0x019d2d20	344	132	1	1	0	3					
+0x019d3358	12	4	2	0	0	0					
+0x019d3364	12	4	2	0	0	0					
+0x019d39bc	34	9	1	0	0	0					
+0x019d39e0	64	19	1	1	0	0					
+0x019d3a20	28	7	1	0	0	0					
+0x019d3a3c	34	10	1	0	0	0					
+0x019d3a5e	16	6	1	0	0	0					
+0x019d3a6e	110	38	2	0	0	0		0xff90			
+0x019d3adc	264	80	1	3	1	0		0xffb0			
+0x019d3c84	1340	550	2	0	0	6					
+0x019d41cc	3376	1210	2	0	0	9					
+0x019d4f08	30	11	1	0	0	0					
+0x019d4f28	1174	440	1	3	0	5					
+0x019d53d0	304	83	1	2	0	0					
+0x019d5500	52	21	1	0	2	0					
+0x019d5534	292	105	1	1	5	0					
+0x019d5658	14	5	1	0	0	0					
+0x019d5668	14	5	1	0	0	0					
+0x019d5678	24	7	1	0	0	0					
+0x019d56a4	106	31	1	2	0	0		0xff90			
+0x019d5a2e	4	2	47	0	0	0					
+0x019d5a6e	12	5	1	0	0	0					
+0x019d5a84	8	3	1	0	0	0					
+0x019d5a8c	6	3	1	0	0	0					
+0x019d5a92	8	4	1	0	0	0					
+0x019d5ab8	364	142	12	13	0	0		0xff90	main.c	assert	
+0x019d5c2c	66	27	3	0	0	0		0xff90		near	main.c
+0x019d5f24	246	93	1	5	0	1			main.c	assert	
+0x019d60ec	72	26	3	1	0	0				near	main.c
+0x019d6134	688	256	2	15	2	0			main.c	assert	
+0x019d63ec	206	75	5	9	1	0			main.c	assert	
+0x019d64be	38	15	7	0	0	0				near	main.c
+0x019d6528	126	47	2	1	1	0			main.c	assert	
+0x019d6688	516	187	11	7	0	0			main.c	assert	
+0x019d6998	126	45	1	6	0	0				near	main.c
+0x019d6b44	220	75	4	5	0	0			main.c	assert	
+0x019d6c24	200	70	10	5	0	0			main.c	assert	
+0x019d6db8	82	35	11	1	0	0				near	main.c
+0x019d6e0c	338	125	8	7	1	0			main.c	assert	
+0x019d6f64	1080	364	3	24	0	0	0xfffe	0xff90	main.c	assert	
+0x019d73c8	20	7	4	1	0	0				near	main.c
+0x019d7778	198	71	1	7	0	0			main.c	assert	
+0x019d79bc	512	168	1	16	0	0		0xff80			
+0x019d7bbc	38	11	1	4	0	0					
+0x019d7c48	12	4	2	0	0	0					
+0x019d7c54	12	4	2	0	0	0					
+0x019d7c60	12	4	3	0	0	0					
+0x019d7c6c	12	4	26	0	0	0					
+0x019d7c78	12	4	2	0	0	0					
+0x019d7c84	16	6	1	0	0	0					
+0x019d7c94	216	88	2	1	0	0					
+0x019d7d70	260	104	1	1	0	0					
+0x019d7e78	86	30	1	1	0	0			gui/MainInterface.cpp	assert	
+0x019d7ed0	28	9	1	1	0	0				near	gui/MainInterface.cpp
+0x019d7eec	72	23	2	1	0	0			gui/MainInterface.cpp	assert	
+0x019d7f84	24	8	8	0	1	0		0xff90			
+0x019d7fa4	306	113	1	4	1	2		0xff90			
+0x019d81a0	334	94	6	7	6	0		0xff90	malloc.c	assert	
+0x019d82f0	120	44	30	3	1	0		0xff90		near	malloc.c
+0x019d836c	134	47	8	4	1	0		0xff90		near	malloc.c
+0x019d83f4	254	94	1	6	1	0		0xff90	malloc.c	assert	
+0x019d84fc	248	86	1	5	3	0		0xff90	malloc.c	assert	
+0x019d8600	118	43	16	2	1	0		0xff90	malloc.c	assert	
+0x019d867c	104	36	83	3	3	0		0xff90		near	malloc.c
+0x019d86e4	208	73	350	5	3	0		0xff90	malloc.c	assert	
+0x019d87b8	596	181	3	6	12	0		0xff90		near	malloc.c
+0x019d8a0c	58	21	4	2	0	0				near	malloc.c
+0x019d8a48	128	46	11	4	1	0		0xff90		near	malloc.c
+0x019d8acc	242	89	62	5	1	0		0xff90	malloc.c	assert	
+0x019d8bc8	46	16	51	2	0	0				near	malloc.c
+0x019d8bf8	422	149	16	9	3	0		0xff90	malloc.c	assert	
+0x019d8da8	254	82	5	6	3	0		0xff90	malloc.c	assert	
+0x019d8eac	84	34	38	4	0	0			malloc.c	assert	
+0x019d8f04	90	35	26	3	0	0			malloc.c	assert	
+0x019d8f60	238	84	29	6	3	0		0xff90	malloc.c	assert	
+0x019d9054	122	48	36	3	0	0			malloc.c	assert	
+0x019d90d0	14	5	3	0	0	0		0xff90			
+0x019d90e8	10	3	3	0	0	0		0xff80			
+0x019d941e	16	6	2	0	0	0		0xff80			
+0x019d942e	16	6	2	0	0	0		0xff80			
+0x019d943e	16	6	2	0	0	0		0xff80			
+0x019d944e	16	6	2	0	0	0		0xff80			
+0x019d963c	12	4	1	0	0	0					
+0x019d9764	124	37	2	3	0	0		0xff90			
+0x019d97e0	158	63	1	10	0	0					
+0x019d9a5c	312	101	2	9	0	0					
+0x019d9ff4	406	154	3	1	0	0		0xff80	main/ctls/MasterController.cpp	assert	
+0x019daa70	510	179	7	2	0	0		0xff80	main/ctls/MasterController.cpp	assert	
+0x019daf18	388	129	4	3	0	0		0xff80	main/ctls/MasterController.cpp	assert	
+0x019db248	492	173	12	3	0	0		0xff80	main/ctls/MasterController.cpp	assert	
+0x019dba1c	272	80	1	6	0	0					
+0x019dd0c8	114	33	1	2	0	0		0xff90			
+0x019dd300	26	8	2	1	0	0					
+0x019dd31c	10	3	1	0	0	0					
+0x019dd3d4	794	299	2	2	0	3		0xff90	mem5.c	assert	
+0x019dd700	862	318	2	4	0	0		0xff90	mem5.c	assert	
+0x019dddc4	4	2	2	0	0	0					
+0x019dddc8	18	7	3	0	0	0		0xff90			
+0x019de04c	66	24	3	2	0	0		0xff90	memjournal.c	assert	
+0x019de164	114	46	2	1	0	0					
+0x019de1e0	92	29	6	1	0	0					
+0x019de250	106	31	9	2	0	0		0xff90			
+0x019de300	272	92	5	7	0	0					
+0x019de4ec	12	4	5	0	0	0					
+0x019de4f8	12	4	6	0	0	0					
+0x019de504	12	4	2	0	0	0					
+0x019de510	14	5	4	0	0	0		0xff90			
+0x019de520	16	6	1	0	0	0		0xff90			
+0x019de530	12	4	1	0	0	0					
+0x019de670	124	32	2	1	0	0			dsp/metronome.cpp	assert	
+0x019de6f0	26	8	1	1	0	0					
+0x019de70c	146	39	4	1	0	0		0xff90			
+0x019de7a4	262	83	1	3	0	1		0xff90			
+0x019de8b0	62	18	1	3	0	0					
+0x019de8f0	202	63	7	4	0	0					
+0x019deaac	42	12	3	2	0	0					
+0x019dead6	22	8	1	1	0	0					
+0x019deaec	190	70	2	10	0	0					
+0x019debac	200	66	1	10	0	0					
+0x019dee1c	226	67	2	13	0	0		0xff80			
+0x019df128	76	30	3	3	0	0					
+0x019df5c0	904	284	1	30	1	0		0xff90,0xffa0			
+0x019df948	70	22	8	2	0	0		0xff90			
+0x019dfa3c	12	4	1	0	0	0					
+0x019dfa50	248	86	2	1	0	2					
+0x019dfcf0	70	22	4	1	0	0			gui/screens/mic_line_screen.cpp	assert	
+0x019dfd38	36	11	2	2	0	0				near	gui/screens/mic_line_screen.cpp
+0x019dfd5c	46	14	4	2	0	0				near	gui/screens/mic_line_screen.cpp
+0x019dfd8c	114	33	13	2	0	0		0xff90		near	gui/screens/mic_line_screen.cpp
+0x019dfe44	82	28	1	0	0	0				near	gui/screens/mic_line_screen.cpp
+0x019dfecc	456	137	1	1	0	0			gui/screens/mic_line_screen.cpp	assert	
+0x019e0234	162	50	1	2	0	0			gui/screens/mic_line_screen.cpp	assert	
+0x019e0ca8	20	8	1	0	0	0					
+0x019e0cbc	64	18	1	0	0	0					
+0x019e0cfc	4	2	7	0	0	0					
+0x019e0d00	12	4	6	0	0	0					
+0x019e0d0c	12	4	6	0	0	0					
+0x019e0d18	322	121	11	1	0	1					
+0x019e0ea8	512	184	2	4	1	4		0xffa0			
+0x019e104c	96	30	6	1	0	0					
+0x019e10ac	78	28	2	1	0	0					
+0x019e1bf8	534	188	4	3	0	0					
+0x019e2604	1108	428	1	2	0	1					
+0x019e2a78	694	261	1	2	0	1					
+0x019e2d40	68	19	1	3	0	0					
+0x019e2d84	58	22	2	1	0	0					
+0x019e2dc0	160	56	6	3	0	0			midi/midi_interface.cpp	assert	
+0x019e2e64	286	101	17	3	0	0			midi/midi_interface.cpp	assert	
+0x019e2f84	128	45	10	2	0	0				near	midi/midi_interface.cpp
+0x019e3004	148	51	59	3	0	0			midi/midi_interface.cpp	assert	
+0x019e30a0	126	44	6	3	0	0			midi/midi_interface.cpp	assert	
+0x019e3120	116	39	3	2	0	0				near	midi/midi_interface.cpp
+0x019e3194	16	5	2	1	0	0				near	midi/midi_interface.cpp
+0x019e31a4	156	51	1	0	0	0				near	midi/midi_interface.cpp
+0x019e3acc	146	53	6	4	0	0				near	midi/midi_interface.cpp
+0x019e3b60	168	55	2	8	0	0				near	midi/midi_interface.cpp
+0x019e3c08	180	65	1	3	0	0			midi/midi_interface.cpp	assert	
+0x019e3cc4	16	5	1	1	0	0				near	midi/midi_interface.cpp
+0x019e3cd4	74	24	21	1	0	0			midi/midi_interface.cpp	assert	
+0x019e3e80	248	86	2	1	0	2					
+0x019e41d0	170	47	1	3	0	0		0xff90			
+0x019e42c0	1832	509	1	1	0	0					
+0x019e5460	248	86	2	1	0	2					
+0x019e5558	826	267	2	2	0	0					
+0x019e5894	192	53	1	3	0	0		0xff90			
+0x019e5998	94	25	2	0	0	0					
+0x019e60d8	136	40	3	2	0	0					
+0x019e6160	48	17	2	0	0	1					
+0x019e61bc	58	19	1	1	0	0					
+0x019e6260	970	242	2	1	0	5		0xff80	dsp/Mllp.cpp	assert	
+0x019e6698	248	86	2	1	0	2					
+0x019e6944	138	39	1	2	0	0		0xff90			
+0x019e77b4	86	27	1	1	0	0					
+0x019e784c	132	46	1	1	0	0					
+0x019e7934	1454	348	2	1	0	4		0xff80	dsp/Mmmf.cpp	assert	
+0x019e8024	248	86	2	1	0	2					
+0x019e89dc	134	38	1	2	0	0		0xff90			
+0x019e8b38	24	10	10	0	0	0					
+0x019e8b50	1072	432	2	6	0	11					
+0x019e8f82	830	354	1	1	0	17					
+0x019e92c4	608	232	8	3	0	12			dsp/modem.cpp	assert	
+0x019e9528	12	4	1	0	0	0					
+0x019e9534	12	4	10	0	0	0		0xff90			
+0x019e958c	118	44	1	1	0	1			main/ctls/ModeSwitcher.cpp	assert	
+0x019e9604	306	105	1	3	1	0		0xffa0		near	main/ctls/ModeSwitcher.cpp
+0x019e9738	192	72	34	1	2	1		0xff90	main/ctls/ModeSwitcher.cpp	assert	
+0x019e97fc	144	57	6	1	0	1			main/ctls/ModeSwitcher.cpp	assert	
+0x019e98b8	34	13	288	0	1	0		0xff90			
+0x019e98da	28	10	130	0	1	0		0xff90			
+0x019e9912	28	10	129	0	1	0		0xff90			
+0x019e992e	28	10	2	0	1	0		0xff90			
+0x019e994c	122	43	1	2	1	0		0xff90			
+0x019e99c8	64	17	1	1	1	0		0xff90			
+0x019e9a08	90	29	14	1	1	0		0xff90	mutex.c	assert	
+0x019e9a64	10	3	1	0	0	0		0xff90			
+0x019e9ca6	312	114	2	0	0	2	0xffc0	0xff90			
+0x019e9de4	12	4	13	0	0	0		0xff90			
+0x019e9df0	2	1	1	0	0	0					
+0x019e9df4	110	37	1	0	0	2	0xffc0				
+0x019e9e64	352	131	3	1	0	8	0xffc0	0xff90	bf/nand.cpp	assert	
+0x019e9fcc	1042	379	1	2	0	13	0xffc0	0xff90	bf/nand.cpp	assert	
+0x019ea3ec	1100	406	1	1	0	10	0xffc0	0xff90		near	bf/nand.cpp
+0x019ea83c	612	230	3	1	0	17	0xffc0	0xff90	bf/nand.cpp	assert	
+0x019eaaac	260	87	4	5	0	2		0xff90	bf/nand.cpp	assert	
+0x019eabb4	82	31	1	3	0	0		0xff90	bf/nand.cpp	assert	
+0x019eac08	76	29	1	3	0	0		0xff90	bf/nand.cpp	assert	
+0x019eac60	248	86	3	1	0	2					
+0x019ead58	114	47	202	0	1	1					
+0x019eaedc	146	59	2	1	1	0					
+0x019eaf70	940	311	3	3	2	1					
+0x019eb4e0	148	57	2	2	0	0					
+0x019eb574	262	102	2	4	0	0					
+0x019eb67c	202	78	1	4	0	0					
+0x019eb818	148	56	1	1	1	0					
+0x019eb8ac	166	67	39	3	0	0			gui/lib/Node.cpp	assert	
+0x019eb954	148	46	3	1	0	0					
+0x019eb9e8	274	105	1	3	0	0					
+0x019ebafc	184	72	6	1	1	0					
+0x019ebbb4	356	135	1	3	1	2		0xffa0			
+0x019ebd20	152	58	1	1	2	0					
+0x019ebdbc	190	72	3	2	1	1					
+0x019ec07c	16	6	18	0	0	0					
+0x019ec0c4	114	33	19	2	0	0		0xff90			
+0x019ec330	118	36	1	2	0	0					
+0x019ec4c8	180	66	2	5	0	0					
+0x019ec57c	124	50	2	4	0	0					
+0x019ec5fc	128	49	4	4	0	0					
+0x019ecc5c	140	47	4	2	0	0			seq/ok_data.cpp	assert	
+0x019eccf0	128	45	6	1	0	0			seq/ok_data.cpp	assert	
+0x019ecd78	106	42	16	1	0	0			seq/ok_data.cpp	assert	
+0x019ecde4	80	32	14	1	0	0			seq/ok_data.cpp	assert	
+0x019ece34	96	37	2	2	0	0			seq/ok_data.cpp	assert	
+0x019ece98	58	22	1	2	0	0			seq/ok_data.cpp	assert	
+0x019eced2	22	7	1	1	0	0					
+0x019ed0a4	402	125	2	10	0	0					
+0x019ed238	262	86	60	3	0	0		0xff90			
+0x019ed3a8	12	4	1	0	0	0					
+0x019ed3b4	12	4	8	0	0	0					
+0x019ed3c0	14	5	1	0	0	0					
+0x019ed460	186	58	39	3	0	1		0xff90			
+0x019ed564	360	138	3	2	0	0					
+0x019ed74a	450	176	1	4	0	0					
+0x019edbb8	940	335	1	8	0	0					
+0x019ee29c	12	4	1	0	0	0					
+0x019ee870	74	24	2	1	0	0			gui/screens/ok_screen.cpp	assert	
+0x019ee8bc	74	24	6	1	0	0			gui/screens/ok_screen.cpp	assert	
+0x019ee908	156	44	1	2	0	0		0xff90			
+0x019efeec	4072	1426	1	112	9	4	0xffc0	0xff90,0xffa0			
+0x019f1060	76	33	4	1	0	0					
+0x019f10ac	16	6	2	0	0	0					
+0x019f10bc	20	7	4	0	1	0					
+0x019f10d0	18	7	2	0	1	0					
+0x019f10e2	22	8	1	0	1	0					
+0x019f10f8	18	7	3	0	1	0					
+0x019f110a	18	7	1	0	1	0					
+0x019f111c	22	8	2	0	1	0					
+0x019f1132	18	7	1	0	1	0					
+0x019f1144	22	9	1	0	1	0					
+0x019f115a	22	9	7	0	1	0					
+0x019f1170	18	7	6	0	1	0					
+0x019f1182	20	8	4	0	1	0					
+0x019f1196	38	15	3	0	1	0					
+0x019f11bc	20	8	2	0	1	0					
+0x019f11d0	20	8	1	0	1	0					
+0x019f11e4	20	8	3	0	1	0					
+0x019f11f8	20	8	6	0	1	0					
+0x019f120c	20	8	9	0	1	0					
+0x019f1220	20	8	6	0	1	0					
+0x019f1234	20	8	8	0	1	0					
+0x019f1248	32	14	20	0	1	0					
+0x019f1268	32	14	19	0	1	0					
+0x019f1288	46	18	12	0	1	0					
+0x019f12b6	78	27	9	1	1	0			os.c	assert	
+0x019f1304	138	53	1	3	1	0			os.c	assert	
+0x019f1390	92	25	3	2	1	0			os.c	assert	
+0x019f13f0	46	14	1	3	0	0				near	os.c
+0x019f1420	102	38	3	5	0	0		0xff90		near	os.c
+0x019f1488	220	83	1	6	0	1		0xff90	os.c	assert	
+0x019f15f8	12	6	30	0	0	0					
+0x019f1604	44	15	13	0	0	0					
+0x019f1630	60	22	1	0	1	0					
+0x019f166c	54	21	1	0	1	0					
+0x019f16a2	226	87	2	1	2	0					
+0x019f1784	8	3	2	0	0	0					
+0x019f178c	34	12	1	0	0	0					
+0x019f17ae	6	3	81	0	0	0					
+0x019f17b4	8	3	1	0	0	0					
+0x019f17bc	8	3	1	0	0	0					
+0x019f17c4	6	3	2	0	0	0					
+0x019f17ca	8	3	1	0	0	0					
+0x019f17d2	8	3	2	0	0	0					
+0x019f17da	8	3	1	0	0	0					
+0x019f17e2	24	11	1	0	0	0					
+0x019f17fa	10	5	25	0	0	0					
+0x019f1804	6	3	2	0	0	0					
+0x019f180a	8	3	1	0	0	0					
+0x019f1812	12	4	1	0	0	0					
+0x019f181e	66	26	1	0	0	0					
+0x019f1860	412	134	3	4	0	1					
+0x019f19fc	602	207	2	9	0	1			pager.c	assert	
+0x019f1c64	254	86	11	7	0	0				near	pager.c
+0x019f1d68	754	264	6	13	0	0			pager.c	assert	
+0x019f2068	1036	360	4	14	1	1		0xff90	pager.c	assert	
+0x019f2482	22	7	1	1	0	0				near	pager.c
+0x019f2498	276	96	5	7	0	0			pager.c	assert	
+0x019f25b4	882	306	2	7	0	0			pager.c	assert	
+0x019f2930	1408	482	4	23	0	0			pager.c	assert	
+0x019f2ec4	112	39	1	3	0	0			pager.c	assert	
+0x019f2f34	292	110	21	3	0	0			pager.c	assert	
+0x019f305c	36	13	1	1	0	0				near	pager.c
+0x019f3110	106	36	3	2	0	0			pager.c	assert	
+0x019f3180	208	69	2	11	0	0			pager.c	assert	
+0x019f3250	16	5	1	1	0	0				near	pager.c
+0x019f3260	510	183	2	10	0	0			pager.c	assert	
+0x019f3468	432	151	2	6	1	0			pager.c	assert	
+0x019f3620	292	104	3	5	0	0			pager.c	assert	
+0x019f3914	1206	411	1	15	0	0			pager.c	assert	
+0x019f3de4	1536	556	1	21	1	0			pager.c	assert	
+0x019f4428	938	337	33	15	0	0		0xff90	pager.c	assert	
+0x019f47ec	136	44	1	2	0	0			pager.c	assert	
+0x019f487c	114	42	65	6	0	0				near	pager.c
+0x019f48f0	474	166	3	7	0	0			pager.c	assert	
+0x019f4ad0	400	143	2	4	1	0			pager.c	assert	
+0x019f4c6c	1168	419	2	10	0	1		0xff90	pager.c	assert	
+0x019f5114	1008	345	35	14	0	0		0xff90	pager.c	assert	
+0x019f551c	74	24	1	2	0	0			pager.c	assert	
+0x019f5568	1898	644	3	24	0	1		0xff90	pager.c	assert	
+0x019f5cf4	320	118	1	2	0	0			pager.c	assert	
+0x019f5e3c	276	103	12	3	0	0			pager.c	assert	
+0x019f5f58	22	7	6	1	0	0				near	pager.c
+0x019f5f70	16	5	58	1	0	0				near	pager.c
+0x019f5f80	448	167	2	7	0	0			pager.c	assert	
+0x019f6144	1024	370	1	7	0	0			pager.c	assert	
+0x019f6558	812	283	1	15	0	0			pager.c	assert	
+0x019f6894	60	23	86	1	0	0			pager.c	assert	
+0x019f68d0	70	27	3	1	0	0			pager.c	assert	
+0x019f6918	150	61	5	2	0	0			pager.c	assert	
+0x019f69b0	200	71	7	5	0	0					
+0x019f6a7a	220	80	5	2	0	0		0xff80			
+0x019f724c	30	11	1	1	0	0					
+0x019f726c	30	13	2	0	0	0		0xff90			
+0x019f728c	192	66	3	2	0	0		0xff90			
+0x019f78cc	86	35	1	3	0	0					
+0x019f7924	410	157	1	2	0	0		0xff90			
+0x019f7ac0	304	107	2	3	0	0		0xff90			
+0x019f7bf4	816	279	3	6	0	0		0xff90			
+0x019f9c68	200	77	4	2	0	0					
+0x019f9d34	148	57	3	2	0	0					
+0x019f9dc8	262	102	3	4	0	0					
+0x019f9ed0	202	78	1	4	0	0					
+0x019f9f9c	50	19	1	1	0	0					
+0x019f9fd0	6	3	6	0	0	0					
+0x019f9fd6	48	17	6	0	0	0					
+0x019fa008	202	69	2	2	1	0			gui/lib/Parser.cpp	assert	
+0x019fa0d4	52	17	3	1	0	0				near	gui/lib/Parser.cpp
+0x019fa108	264	93	3	1	0	0			gui/lib/Parser.cpp	assert	
+0x019fa210	1730	711	1	3	0	10			gui/lib/Parser.cpp	assert	
+0x019fa8e0	1146	478	1	5	0	6			gui/lib/Parser.cpp	assert	
+0x019fad60	1290	494	2	4	0	2			gui/lib/Parser.cpp	assert	
+0x019fb274	322	130	46	1	0	2			gui/lib/Parser.cpp	assert	
+0x019fb458	856	317	3	14	1	3			gui/lib/Parser.cpp	assert	
+0x019fb7c8	672	245	1	9	0	1			gui/lib/Parser.cpp	assert	
+0x019fba70	490	186	2	2	0	3				near	gui/lib/Parser.cpp
+0x019fbc60	1424	583	7	7	0	21				near	gui/lib/Parser.cpp
+0x019fc1fc	2078	731	1	6	0	11			gui/lib/Parser.cpp	assert	
+0x019fca1c	210	88	1	0	0	1				near	gui/lib/Parser.cpp
+0x019fcfd8	6912	2619	2	38	0	67			gui/lib/Parser.cpp	assert	
+0x019febf2	4	2	10	0	0	0					
+0x019febf6	4	2	7	0	0	0					
+0x019febfa	8	4	4	0	0	0					
+0x019fec04	126	42	3	1	0	0					
+0x019fec82	22	8	3	1	0	0					
+0x019fec98	80	33	4	1	0	0					
+0x019fece8	18	7	2	0	0	0					
+0x019fecfa	18	7	5	0	0	0					
+0x019fed0c	120	55	5	0	0	3					
+0x019fed84	34	15	1	0	0	0					
+0x019feda8	54	21	2	1	0	0					
+0x019fede0	162	58	1	4	0	0					
+0x019fee84	94	37	1	2	0	0					
+0x019feee4	18	7	2	0	0	0					
+0x019feef8	20	7	2	0	0	0					
+0x019fef0c	18	7	2	0	0	0					
+0x019fef20	148	57	2	2	0	0					
+0x019fefb4	262	102	2	4	0	0					
+0x019ff0bc	202	78	12	4	0	0					
+0x019ff188	138	51	2	2	0	0					
+0x019ff214	68	22	2	1	0	0					
+0x019ff258	108	45	2	2	0	0					
+0x019ff314	42	12	7	2	0	0					
+0x019ff340	42	12	8	2	0	0					
+0x019ff36c	66	25	12	4	0	0					
+0x019ff3b0	288	101	2	9	2	0					
+0x019ff4d0	288	101	2	9	2	0					
+0x019ff5f0	18	6	4	1	0	0					
+0x019ff604	94	35	10	4	0	0					
+0x019ff664	122	39	2	5	1	0					
+0x019ff6e0	84	33	2	4	1	0					
+0x019ff734	122	39	2	5	1	0					
+0x019ff7b0	84	33	2	4	1	0					
+0x019ff878	978	283	1	8	2	0			db2/patch.cpp	assert	
+0x019ffc50	1034	349	1	8	1	0			db2/patch.cpp	assert	
+0x01a0005c	122	39	1	5	1	0				near	db2/patch.cpp
+0x01a0036c	850	290	1	7	0	0			db2/patch.cpp	assert	
+0x01a006c0	286	99	3	10	2	0		0xff80	db2/patch.cpp	assert	
+0x01a00850	1086	327	1	9	2	0			db2/patch.cpp	assert	
+0x01a00c98	122	39	1	5	1	0				near	db2/patch.cpp
+0x01a00d14	122	39	1	5	1	0				near	db2/patch.cpp
+0x01a0102e	102	47	8	1	0	0				near	db2/patch.cpp
+0x01a01094	100	46	8	1	0	0				near	db2/patch.cpp
+0x01a010f8	568	193	3	15	2	0		0xff80	db2/patch.cpp	assert	
+0x01a01330	80	33	4	1	0	0					
+0x01a01380	98	34	2	1	0	0					
+0x01a013e4	128	56	2	2	0	0					
+0x01a014bc	644	243	4	6	1	0		0xffa0			
+0x01a01744	152	65	8	2	0	0					
+0x01a017dc	368	110	1	11	0	0					
+0x01a01954	162	55	2	8	0	0					
+0x01a019f8	162	55	2	8	0	0					
+0x01a01a9c	666	191	3	8	0	0					
+0x01a01d38	36	12	1	1	0	0					
+0x01a01d5c	36	12	1	1	0	0					
+0x01a01d80	36	12	1	1	0	0					
+0x01a01da4	36	12	1	1	0	0					
+0x01a01dc8	298	96	3	4	0	0					
+0x01a01ef4	266	86	1	9	0	0					
+0x01a01ffe	50	18	1	1	0	0					
+0x01a02030	716	250	3	4	0	0			tokenize.c	assert	
+0x01a02304	266	86	1	9	0	0					
+0x01a0240e	50	18	1	1	0	0					
+0x01a02440	414	132	1	11	0	0			db2/patch.cpp	assert	
+0x01a025e8	414	132	1	11	0	0			db2/patch.cpp	assert	
+0x01a02790	344	114	1	8	0	0			db2/patch.cpp	assert	
+0x01a028ec	344	114	1	8	0	0			db2/patch.cpp	assert	
+0x01a02a46	60	19	1	1	0	0				near	db2/patch.cpp
+0x01a02a82	56	19	1	1	0	0				near	db2/patch.cpp
+0x01a02aba	40	13	1	1	0	0				near	db2/patch.cpp
+0x01a02ae2	40	13	1	1	0	0				near	db2/patch.cpp
+0x01a02b0a	40	13	1	1	0	0				near	db2/patch.cpp
+0x01a02b32	40	13	1	1	0	0				near	db2/patch.cpp
+0x01a02b5c	98	30	1	1	0	0			db2/patch.cpp	assert	
+0x01a02bc0	98	30	1	1	0	0			db2/patch.cpp	assert	
+0x01a02c24	1394	418	2	10	0	0			db2/patch.cpp	assert	
+0x01a0319c	140	52	1	4	2	0			db2/patch.cpp	assert	
+0x01a0322c	1264	381	2	9	0	0			db2/patch.cpp	assert	
+0x01a03720	132	51	1	4	2	0			db2/patch.cpp	assert	
+0x01a037a8	5050	1634	5	30	0	0			db2/patch.cpp	assert	
+0x01a04bb0	152	58	1	5	0	0			db2/patch.cpp	assert	
+0x01a04c48	370	125	6	8	0	0			db2/patch.cpp	assert	
+0x01a04dc0	550	193	1	12	0	0				near	db2/patch.cpp
+0x01a04fe8	508	143	2	7	0	0			db2/patch.cpp	assert	
+0x01a051e8	242	78	1	5	0	0			db2/patch.cpp	assert	
+0x01a052dc	370	125	6	8	0	0			db2/patch.cpp	assert	
+0x01a05454	550	193	1	12	0	0				near	db2/patch.cpp
+0x01a0567c	846	238	2	11	0	0			db2/patch.cpp	assert	
+0x01a059d0	32	9	1	5	0	0					
+0x01a060ec	454	142	5	1	0	0					
+0x01a062d8	134	53	36	0	0	1					
+0x01a065fc	332	111	1	2	1	0		0xffa0			
+0x01a066f4	86	28	2	2	0	0					
+0x01a0674c	86	28	2	2	0	0					
+0x01a067a4	68	27	1	2	0	0					
+0x01a067e8	146	60	18	2	0	1					
+0x01a0687c	86	35	4	1	0	0					
+0x01a068d4	456	220	1	0	0	0					
+0x01a06a9c	74	27	1	1	0	1					
+0x01a06ae8	108	43	3	1	0	0					
+0x01a06b54	714	255	1	6	1	3		0xffa0			
+0x01a06dd0	80	32	5	2	0	0					
+0x01a06e20	140	42	5	2	0	0					
+0x01a06eac	234	87	8	2	0	0					
+0x01a06f98	266	94	10	2	0	0					
+0x01a070a4	134	49	36	2	0	0					
+0x01a0712c	258	82	37	2	0	0					
+0x01a0722e	36	14	4	1	0	0					
+0x01a07254	146	57	1	3	0	1					
+0x01a072e8	18	6	29	1	0	0					
+0x01a072fc	364	98	2	5	0	0					
+0x01a07514	190	53	1	2	0	0					
+0x01a07730	216	81	2	6	0	0					
+0x01a0780c	186	68	3	5	0	0					
+0x01a078c8	180	68	5	5	0	0					
+0x01a07ee0	122	49	1	2	0	0			seq/pattern_data.cpp	assert	
+0x01a07f60	94	38	5	1	0	0			seq/pattern_data.cpp	assert	
+0x01a07fc4	104	43	1	2	0	0			seq/pattern_data.cpp	assert	
+0x01a08030	78	30	1	2	0	0			seq/pattern_data.cpp	assert	
+0x01a08080	84	33	1	2	0	0			seq/pattern_data.cpp	assert	
+0x01a080d8	58	22	1	2	0	0			seq/pattern_data.cpp	assert	
+0x01a08112	84	33	1	1	0	2					
+0x01a08166	104	44	1	1	0	2					
+0x01a081d0	28	10	1	1	0	0					
+0x01a081ec	22	7	1	1	0	0					
+0x01a083c4	656	222	45	10	0	2					
+0x01a086bc	12	4	2	0	0	0					
+0x01a086c8	12	4	1	0	0	0					
+0x01a086d4	12	4	14	0	0	0					
+0x01a086e0	14	5	1	0	0	0					
+0x01a08814	44	15	1	2	0	0					
+0x01a08840	156	44	29	3	0	1					
+0x01a08928	268	107	2	2	0	0					
+0x01a08a34	392	150	1	4	0	0					
+0x01a08d24	718	262	1	7	0	0					
+0x01a091fc	12	4	1	0	0	0					
+0x01a09208	12	4	4	0	0	0					
+0x01a09214	12	4	5	0	0	0					
+0x01a09228	16	5	2	0	0	0					
+0x01a09238	114	33	3	2	0	0					
+0x01a09438	436	154	1	3	2	1			gui/screens/pattern_screen.cpp	assert	
+0x01a095f4	66	25	2	2	0	0			gui/screens/pattern_screen.cpp	assert	
+0x01a0a1e4	12	4	1	0	0	0					
+0x01a0a1f0	124	41	1	3	0	0			bf/pc_bf_sync.cpp	assert	
+0x01a0a26c	114	36	1	7	1	0		0xffa0	bf/pc_bf_sync.cpp	assert	
+0x01a0a2e0	44	20	2	0	1	0					
+0x01a0a30c	34	13	1	0	1	0		0xff90			
+0x01a0a32e	32	12	1	0	1	0		0xff90			
+0x01a0a34e	6	3	1	0	0	0					
+0x01a0a354	6	3	13	0	0	0					
+0x01a0a35a	32	12	1	0	1	0		0xff90			
+0x01a0a37a	38	18	1	0	0	1					
+0x01a0a3a0	4	2	1	0	0	0					
+0x01a0a3a4	214	85	6	1	0	1			pcache.c	assert	
+0x01a0a47c	42	16	1	1	1	0		0xff90		near	pcache.c
+0x01a0a4a8	66	23	1	1	0	0				near	pcache.c
+0x01a0a4ec	76	28	1	1	1	0		0xff90	pcache.c	assert	
+0x01a0a538	490	200	6	2	5	2		0xff90	pcache.c	assert	
+0x01a0a728	228	95	9	2	1	0		0xff90	pcache.c	assert	
+0x01a0a80c	56	22	1	1	0	0			pcache.c	assert	
+0x01a0a844	98	38	2	2	1	0		0xff90	pcache.c	assert	
+0x01a0a8a8	164	70	4	1	0	0			pcache.c	assert	
+0x01a0a950	96	39	2	1	1	0		0xff90		near	pcache.c
+0x01a0a9b4	112	45	2	1	1	0		0xff90		near	pcache.c
+0x01a0aa24	212	85	2	2	1	0		0xff90	pcache.c	assert	
+0x01a0aafc	220	88	2	3	2	0		0xff90	pcache.c	assert	
+0x01a0abd8	18	6	6	1	0	0				near	pcache.c
+0x01a0abea	422	187	1	2	0	5			pcache.c	assert	
+0x01a0ad94	72	29	1	0	0	1					
+0x01a0ade0	188	59	5	8	0	0			pcache1.c	assert	
+0x01a0aea4	124	45	8	7	0	0			pcache1.c	assert	
+0x01a0af24	346	144	2	6	0	1			pcache1.c	assert	
+0x01a0b080	396	162	2	5	0	0			pcache1.c	assert	
+0x01a0bba4	26	8	2	1	0	0					
+0x01a0bc14	68	21	1	1	0	0					
+0x01a0bed8	74	25	1	2	0	0		0xffb0	dsp/Pd.cpp	assert	
+0x01a0bf24	66	17	2	0	0	0					
+0x01a0bfa4	248	86	7	1	0	2					
+0x01a0cd50	118	35	1	2	0	0					
+0x01a0ce9c	12	4	4	0	0	0					
+0x01a0cea8	14	5	1	0	0	0					
+0x01a0ceb8	14	5	1	0	0	0					
+0x01a0cec8	20	6	1	0	0	0					
+0x01a0cedc	20	6	1	0	0	0					
+0x01a0cef0	12	4	10	0	0	0					
+0x01a0cefc	16	6	2	0	0	0					
+0x01a0cf0c	32	12	3	0	0	0					
+0x01a0cf2c	104	38	7	0	2	0					
+0x01a0cf94	32	12	21	0	0	0					
+0x01a0cfb4	26	8	5	2	0	0					
+0x01a0cfd0	96	36	1	1	2	0			seq/PlayerManager.cpp	assert	
+0x01a0d030	32	12	5	0	0	0				near	seq/PlayerManager.cpp
+0x01a0d050	112	41	3	1	1	0			seq/PlayerManager.cpp	assert	
+0x01a0d1e0	220	80	1	2	2	0				near	seq/PlayerManager.cpp
+0x01a0d2c0	1392	532	1	22	10	0		0xff80	seq/PlayerManager.cpp	assert	
+0x01a0d9d0	114	33	1	2	0	0					
+0x01a0da44	338	112	1	9	2	0		0xffa0			
+0x01a0dc7c	104	36	21	1	0	0					
+0x01a0dce4	128	39	8	2	0	0					
+0x01a0dd64	104	38	1	0	1	0	0xffc0				
+0x01a0ddcc	114	39	2	0	0	0					
+0x01a0df54	190	63	1	3	0	0		0xffb0	dsp/Pls.cpp	assert	
+0x01a0e014	88	17	1	0	0	0					
+0x01a0e0e4	248	86	3	1	0	2					
+0x01a0e1dc	720	239	5	2	0	0					
+0x01a0e4e4	226	76	1	1	0	0					
+0x01a0e5c8	70	22	1	2	0	0					
+0x01a0e610	176	69	1	1	2	0					
+0x01a0e6c0	432	144	1	4	0	0					
+0x01a0e870	300	103	1	4	2	0					
+0x01a0e99c	536	181	1	3	6	0			gui/screens/PlsScreen.cpp	assert	
+0x01a0ebbc	366	125	1	5	0	0					
+0x01a0ed2c	266	69	1	2	0	0					
+0x01a0efe0	486	161	1	9	0	0					
+0x01a0f1c6	48	17	2	0	0	0					
+0x01a0f1f8	936	307	1	13	0	0					
+0x01a0f5a4	650	163	4	3	0	0					
+0x01a0f830	1866	524	1	21	0	0					
+0x01a0ff84	1948	590	1	12	0	0					
+0x01a10720	240	75	1	6	0	0					
+0x01a10814	806	225	1	5	0	0					
+0x01a10b3c	250	79	1	6	0	0					
+0x01a10e9c	48	19	4	0	0	0					
+0x01a10ecc	24	9	1	0	0	0					
+0x01a10ee4	30	10	3	0	0	0					
+0x01a10f04	12	4	1	0	0	0					
+0x01a10f10	12	4	1	0	0	0					
+0x01a10f1c	12	4	1	0	0	0					
+0x01a10f28	12	4	5	0	0	0					
+0x01a10f34	12	4	2	0	0	0					
+0x01a10f40	56	23	4	0	0	0					
+0x01a10f78	12	4	1	0	0	0					
+0x01a10f84	16	6	2	0	0	0	0xffc0				
+0x01a11044	160	59	3	2	0	0		0xffa0	bf/powermgr.cpp	assert	
+0x01a110fc	26	9	2	0	0	0				near	bf/powermgr.cpp
+0x01a11118	712	272	1	2	0	0	0xffc0	0xffa0	bf/powermgr.cpp	assert	
+0x01a113fc	18	6	2	0	0	0	0xffc0			near	bf/powermgr.cpp
+0x01a11410	68	26	6	1	0	0				near	bf/powermgr.cpp
+0x01a11454	68	26	2	1	0	0				near	bf/powermgr.cpp
+0x01a11498	116	40	9	2	0	0			bf/powermgr.cpp	assert	
+0x01a11510	26	10	2	1	0	0				near	bf/powermgr.cpp
+0x01a1152c	244	87	1	3	1	1	0xffc0	0xffa0		near	bf/powermgr.cpp
+0x01a11624	16	5	2	1	0	0				near	bf/powermgr.cpp
+0x01a11634	140	50	1	2	0	0				near	bf/powermgr.cpp
+0x01a116c0	116	45	1	2	0	0	0xffc0			near	bf/powermgr.cpp
+0x01a11734	104	39	1	1	0	1		0xffa0		near	bf/powermgr.cpp
+0x01a1186c	374	136	1	2	0	4		0xffa0		near	bf/powermgr.cpp
+0x01a119ec	230	89	6	2	0	0			bf/powermgr.cpp	assert	
+0x01a11adc	66	23	1	1	0	0			bf/powermgr.cpp	assert	
+0x01a11b48	10208	3300	5	61	0	0		0xff90	pragma.c	assert	
+0x01a143c4	864	315	1	9	0	0			prepare.c	assert	
+0x01a14730	996	339	2	19	0	0			prepare.c	assert	
+0x01a14b28	270	100	2	5	0	0			prepare.c	assert	
+0x01a14c38	90	34	20	3	0	0			prepare.c	assert	
+0x01a14c94	172	63	38	2	0	0	0xfff0		prepare.c	assert	
+0x01a14d44	1004	360	8	22	0	0			prepare.c	assert	
+0x01a1513c	354	115	1	13	0	0			prepare.c	assert	
+0x01a152a8	210	62	17	6	0	0			prepare.c	assert	
+0x01a1537c	214	64	1	6	0	0			prepare.c	assert	
+0x01a15454	344	106	2	11	0	0			prepare.c	assert	
+0x01a15640	26	9	2	0	0	0					
+0x01a15664	248	86	2	1	0	2					
+0x01a1575c	148	57	2	2	0	0					
+0x01a157f0	262	102	2	4	0	0					
+0x01a158f8	202	78	1	4	0	0					
+0x01a15c34	82	28	3	1	0	0			gui/screens/PresetBrowser.cpp	assert	
+0x01a15c88	118	37	10	2	0	0				near	gui/screens/PresetBrowser.cpp
+0x01a15d00	122	35	4	2	0	0				near	gui/screens/PresetBrowser.cpp
+0x01a15d7c	516	195	1	1	0	2			gui/screens/PresetBrowser.cpp	assert	
+0x01a15f8c	586	200	1	7	1	0		0xffa0	gui/screens/PresetBrowser.cpp	assert	
+0x01a161e0	736	257	1	7	0	0			gui/screens/PresetBrowser.cpp	assert	
+0x01a164c0	810	272	1	7	0	0			gui/screens/PresetBrowser.cpp	assert	
+0x01a16830	500	156	2	3	0	1			gui/screens/PresetBrowser.cpp	assert	
+0x01a16a28	220	75	1	2	0	0			gui/screens/PresetBrowser.cpp	assert	
+0x01a16b08	246	81	1	2	0	0			gui/screens/PresetBrowser.cpp	assert	
+0x01a16eec	44	14	4	1	0	0					
+0x01a16f5c	46	15	1	1	0	0					
+0x01a172d4	520	171	1	4	1	1		0xffa0			
+0x01a174dc	130	40	10	3	0	0			main/ctls/PresetBrowserController.cpp	assert	
+0x01a17560	668	232	2	8	5	0		0xffa0	main/ctls/PresetBrowserController.cpp	assert	
+0x01a17918	94	43	32	1	0	0					
+0x01a17978	148	57	2	2	0	0					
+0x01a17a0c	390	142	39	5	0	0					
+0x01a17b94	68	22	28	1	0	0					
+0x01a17bd8	80	33	24	1	0	0					
+0x01a17c28	182	56	1	2	0	0			shared/Presets.cpp	assert	
+0x01a17cde	100	46	60	1	0	0					
+0x01a17d44	72	24	2	1	0	0					
+0x01a17d8c	140	58	19	2	0	0					
+0x01a17e18	566	208	30	5	1	0		0xffa0			
+0x01a18050	472	178	1	6	1	0		0xffa0			
+0x01a18228	194	67	23	3	1	0		0xffa0			
+0x01a182ec	676	229	2	5	1	0		0xffa0			
+0x01a18594	96	34	1	4	0	0					
+0x01a185f4	402	112	4	8	1	0		0xffa0			
+0x01a1878c	340	107	5	5	0	0					
+0x01a188e4	372	129	2	5	0	0					
+0x01a18a58	2372	734	4	8	0	0					
+0x01a193a4	402	134	5	5	0	0					
+0x01a1953c	422	127	3	5	0	0					
+0x01a196e4	2392	776	3	8	0	0					
+0x01a1a050	42	15	2	0	0	0					
+0x01a1a07c	114	43	3	2	0	0					
+0x01a1a0f0	36	15	2	1	0	0					
+0x01a1a114	348	129	18	5	0	0			printf.c	assert	
+0x01a1a274	700	272	5	2	0	5			printf.c	assert	
+0x01a1b240	180	70	8	4	0	0			printf.c	assert	
+0x01a1b2f8	42	12	54	1	0	0					
+0x01a1b324	60	20	8	2	0	0					
+0x01a1b360	204	76	1	4	0	0					
+0x01a1b42c	52	18	7	2	0	0					
+0x01a1b460	194	66	48	3	0	0					
+0x01a1b524	198	70	1	5	0	0					
+0x01a1b5f0	70	20	1	1	0	0		0xffb0	dsp/producer_factory.cpp	assert	
+0x01a1b6d0	106	31	3	1	0	0		0xffb0	dsp/producer_factory.cpp	assert	
+0x01a1b7d4	62	24	3	1	0	0			dsp/producer_factory.cpp	assert	
+0x01a1b9c0	142	53	2	6	0	0			dsp/producer_factory.cpp	assert	
+0x01a1baf0	132	48	1	2	0	0					
+0x01a1bb74	1224	396	2	1	0	6		0xff80	dsp/Ptch.cpp	assert	
+0x01a1c144	280	83	1	2	0	0					
+0x01a1c564	248	86	2	1	0	2					
+0x01a1c790	126	38	1	2	0	0					
+0x01a1c854	470	131	1	1	0	0					
+0x01a1ca2c	470	131	1	1	0	0					
+0x01a1cc04	464	133	1	1	0	0					
+0x01a1cdd4	470	131	1	1	0	0					
+0x01a1dd1c	14	5	1	0	0	0					
+0x01a1dd2c	36	10	1	1	0	0					
+0x01a1dd50	36	10	1	1	0	0					
+0x01a1dd74	244	94	6	5	0	2					
+0x01a1de68	38	11	34	0	0	0					
+0x01a1de8e	34	10	1	0	0	0					
+0x01a1deb0	54	25	14	0	0	0					
+0x01a1dee6	52	24	2	0	0	0					
+0x01a1df1a	52	24	1	0	0	0					
+0x01a1df4e	78	31	1	0	0	0					
+0x01a1df9c	78	31	2	0	0	0					
+0x01a1dfec	1394	454	7	2	0	0			dsp/Ranges.cpp	assert	
+0x01a1e57c	908	296	7	2	0	0			dsp/Ranges.cpp	assert	
+0x01a22ed0	10	5	331	0	0	0					
+0x01a22eda	6	3	315	0	0	0					
+0x01a22ee0	10	4	1	0	0	0					
+0x01a22eea	30	9	177	1	0	0					
+0x01a22f08	14	6	3	0	0	0					
+0x01a22f16	18	8	45	0	0	0					
+0x01a22f28	18	8	8	0	0	0					
+0x01a22f3c	172	65	1	0	0	2					
+0x01a22ff0	448	138	6	1	0	0					
+0x01a231b0	222	57	16	0	0	0					
+0x01a23290	248	86	6	1	0	2					
+0x01a23388	186	61	3	2	0	0					
+0x01a23442	36	15	1	1	0	0					
+0x01a23466	276	112	1	2	0	0			gui/lib/Raster.cpp	assert	
+0x01a2357a	160	61	3	0	0	2				near	gui/lib/Raster.cpp
+0x01a2361c	1654	550	1	5	0	0		0xff90		near	gui/lib/Raster.cpp
+0x01a23c94	734	180	2	0	0	0				near	gui/lib/Raster.cpp
+0x01a23f72	1414	320	2	1	0	0				near	gui/lib/Raster.cpp
+0x01a24560	700	278	1	3	1	10		0xffa0		near	gui/lib/Raster.cpp
+0x01a247ac	114	38	12	1	0	0				near	gui/lib/Raster.cpp
+0x01a24820	280	114	2	3	1	1		0xffa0		near	gui/lib/Raster.cpp
+0x01a2493c	64	26	2	1	0	1				near	gui/lib/Raster.cpp
+0x01a24a4c	624	154	95	4	1	0		0xffa0		near	gui/lib/Raster.cpp
+0x01a24cbc	110	38	1	1	0	0				near	gui/lib/Raster.cpp
+0x01a24d2c	604	198	1	3	0	0				near	gui/lib/Raster.cpp
+0x01a24f88	694	217	1	3	0	0				near	gui/lib/Raster.cpp
+0x01a25240	110	42	1	0	0	0				near	gui/lib/Raster.cpp
+0x01a2540c	286	100	1	9	1	0		0xffa0	gui/lib/Raster.cpp	assert	
+0x01a25530	1722	458	2	5	0	0				near	gui/lib/Raster.cpp
+0x01a25bec	1146	328	1	5	0	0				near	gui/lib/Raster.cpp
+0x01a26068	1258	348	1	5	0	0				near	gui/lib/Raster.cpp
+0x01a26554	272	78	2	0	0	0				near	gui/lib/Raster.cpp
+0x01a26664	246	80	3	0	0	0				near	gui/lib/Raster.cpp
+0x01a2675c	1326	363	1	6	0	0				near	gui/lib/Raster.cpp
+0x01a26c8c	686	205	4	5	0	0				near	gui/lib/Raster.cpp
+0x01a26f3c	274	103	1	1	0	0				near	gui/lib/Raster.cpp
+0x01a27200	360	123	1	10	1	0		0xffa0	gui/lib/Raster.cpp	assert	
+0x01a27368	546	181	2	5	3	0		0xffa0			
+0x01a2758c	1716	648	31	4	0	12					
+0x01a27c48	232	79	1	6	0	0					
+0x01a27de8	12	4	1	0	0	0		0xff80			
+0x01a27df4	12	4	3	0	0	0		0xff80			
+0x01a27e00	12	4	1	0	0	0		0xff80			
+0x01a27e0c	16	6	4	0	0	0		0xff80			
+0x01a27e1c	16	6	4	0	0	0		0xff80			
+0x01a27e2c	28	11	2	0	0	1		0xff80			
+0x01a27e48	28	11	5	0	0	1		0xff80			
+0x01a27e64	12	4	2	0	0	0		0xff90			
+0x01a27e70	28	10	6	0	0	0		0xff80			
+0x01a27e8c	12	4	6	0	0	0					
+0x01a27e98	28	10	6	0	0	0		0xff80			
+0x01a27eb4	28	10	6	0	0	0		0xff80			
+0x01a27ed0	42	15	1	0	0	0		0xff80			
+0x01a27efc	66	19	2	0	0	0		0xff80			
+0x01a27f40	12	4	2	0	0	0		0xff80			
+0x01a27f4c	12	4	4	0	0	0		0xff80			
+0x01a27f58	26	8	5	2	0	0					
+0x01a27fc0	80	24	16	1	0	1					
+0x01a28010	508	187	3	7	0	0		0xff80	dsp/ReadInterface.cpp	assert	
+0x01a28210	482	181	12	7	0	0		0xff80	dsp/ReadInterface.cpp	assert	
+0x01a283f4	70	27	1	1	0	0				near	dsp/ReadInterface.cpp
+0x01a2843c	1426	455	2	6	24	0		0xffa0		near	dsp/ReadInterface.cpp
+0x01a289d4	352	116	1	4	4	0		0xff80,0xffa0		near	dsp/ReadInterface.cpp
+0x01a28b34	612	229	8	4	3	0		0xff80,0xffa0	dsp/ReadInterface.cpp	assert	
+0x01a28da0	1556	558	8	7	6	0		0xff80,0xffa0	dsp/ReadInterface.cpp	assert	
+0x01a293bc	856	296	7	7	4	0		0xff80,0xffa0	dsp/ReadInterface.cpp	assert	
+0x01a2971c	276	85	1	7	4	0		0xffa0		near	dsp/ReadInterface.cpp
+0x01a29834	276	85	1	7	4	0		0xffa0		near	dsp/ReadInterface.cpp
+0x01a29948	154	54	1	4	1	0		0xffa0		near	dsp/ReadInterface.cpp
+0x01a299e4	62	20	3	2	0	0		0xff80		near	dsp/ReadInterface.cpp
+0x01a29a24	62	20	3	2	0	0		0xff80		near	dsp/ReadInterface.cpp
+0x01a29a64	16	5	2	1	0	0				near	dsp/ReadInterface.cpp
+0x01a29a74	98	30	2	1	0	0		0xff80	dsp/ReadInterface.cpp	assert	
+0x01a29ad8	244	91	2	3	1	0		0xff80,0xffa0			
+0x01a29bd0	176	62	3	4	0	0		0xff80			
+0x01a29c80	176	56	2	3	1	0		0xff80,0xffa0			
+0x01a29d30	202	65	3	3	1	0		0xff80,0xffa0			
+0x01a29dfc	328	111	2	6	1	0		0xff80,0xffa0			
+0x01a29f46	16	6	3	0	0	0					
+0x01a29f58	36	11	2	2	0	0		0xff80			
+0x01a29f7c	210	72	1	6	0	0		0xff80			
+0x01a2a050	210	72	1	6	0	0		0xff80			
+0x01a2a124	682	246	3	10	4	0		0xffa0			
+0x01a2a3d0	42	13	1	3	0	0		0xff80			
+0x01a2a3fc	42	13	1	3	0	0		0xff80			
+0x01a2a428	550	190	1	6	3	0		0xff80,0xffa0			
+0x01a2acf0	420	117	1	3	0	0					
+0x01a2ae98	358	124	12	5	0	0			disk/region_utils.cpp	assert	
+0x01a2b004	440	165	3	4	0	0				near	disk/region_utils.cpp
+0x01a2b1c8	80	31	2	3	0	0				near	disk/region_utils.cpp
+0x01a2b218	438	161	2	8	0	0				near	disk/region_utils.cpp
+0x01a2b3d0	644	229	2	16	0	1			disk/region_utils.cpp	assert	
+0x01a2b654	620	217	2	10	0	0			disk/region_utils.cpp	assert	
+0x01a2b8d0	518	167	1	9	0	0			disk/region_utils.cpp	assert	
+0x01a2bae0	406	140	1	7	0	0				near	disk/region_utils.cpp
+0x01a2bc7c	658	213	1	11	0	0			disk/region_utils.cpp	assert	
+0x01a2bf1c	832	285	2	7	0	0					
+0x01a2c25c	922	319	2	7	0	0					
+0x01a2c5f8	182	68	2	5	0	0					
+0x01a2c844	248	86	2	1	0	2					
+0x01a2cb20	138	39	1	2	0	0					
+0x01a2cbf0	470	131	1	1	0	0					
+0x01a2cdc8	470	131	1	1	0	0					
+0x01a2cfa0	464	133	1	1	0	0					
+0x01a2d170	470	131	1	1	0	0					
+0x01a2dde4	396	146	3	7	0	0			resolve.c	assert	
+0x01a2df78	1722	693	2	9	0	0			resolve.c	assert	
+0x01a2e644	184	64	4	2	0	0				near	resolve.c
+0x01a2eade	244	78	2	3	0	0			resolve.c	assert	
+0x01a2ebd4	204	77	10	2	0	0				near	resolve.c
+0x01a2eca4	714	276	2	7	0	0			resolve.c	assert	
+0x01a2ef78	82	28	3	2	0	0			resolve.c	assert	
+0x01a2fac4	20	5	2	0	0	0					
+0x01a2fad8	62	19	1	0	0	0	0xffc0				
+0x01a2fb18	78	27	1	1	0	0		0xff80,0xff90			
+0x01a2fb68	408	140	1	5	1	2	0xffc0	0xff80,0xff90			
+0x01a2fdc4	550	195	1	2	0	1	0xffc0,0xffe0				
+0x01a2ffec	272	96	1	1	0	0	0xffc0	0xff80,0xff90	bf/RGB.cpp	assert	
+0x01a30108	248	86	2	1	0	2					
+0x01a30488	104	32	1	1	0	0					
+0x01a304f0	70	22	1	2	0	0					
+0x01a3057c	470	131	1	1	0	0					
+0x01a30754	464	133	1	1	0	0					
+0x01a30924	470	131	1	1	0	0					
+0x01a31ed0	96	32	1	1	0	0			rowset.c	assert	
+0x01a31f34	62	27	5	1	0	0				near	rowset.c
+0x01a31f74	196	80	2	2	0	0			rowset.c	assert	
+0x01a3203c	340	124	3	1	0	0			rowset.c	assert	
+0x01a32190	116	45	4	2	0	0			rowset.c	assert	
+0x01a32208	132	37	4	1	0	0				near	rowset.c
+0x01a3228c	250	101	2	4	0	0			rowset.c	assert	
+0x01a32388	126	53	1	2	0	0				near	rowset.c
+0x01a32408	270	106	1	3	0	1			rowset.c	assert	
+0x01a32518	74	29	1	2	0	0					
+0x01a32564	80	29	1	3	0	0					
+0x01a325b4	114	49	2	3	0	0					
+0x01a3267c	108	35	1	1	0	0					
+0x01a32f94	104	33	1	1	0	0					
+0x01a33af4	116	34	1	2	0	0					
+0x01a33bac	994	307	1	10	0	0					
+0x01a3420c	158	47	2	3	0	0			dsp/SampleBuffer.cpp	assert	
+0x01a342ae	64	24	1	0	0	1				near	dsp/SampleBuffer.cpp
+0x01a342f0	30	9	2	2	0	0				near	dsp/SampleBuffer.cpp
+0x01a34310	226	81	2	5	0	0			dsp/SampleBuffer.cpp	assert	
+0x01a343f4	592	217	4	6	0	4			dsp/SampleBuffer.cpp	assert	
+0x01a3464a	120	45	1	0	0	1				near	dsp/SampleBuffer.cpp
+0x01a346c4	286	110	2	2	0	3			dsp/SampleBuffer.cpp	assert	
+0x01a347e2	256	92	1	2	0	3				near	dsp/SampleBuffer.cpp
+0x01a348e8	480	181	2	5	0	4			dsp/SampleBuffer.cpp	assert	
+0x01a34ac8	314	112	2	4	0	3					
+0x01a34e58	150	50	1	2	0	0					
+0x01a34f34	122	46	2	2	0	0					
+0x01a361e4	682	226	4	2	1	2		0xffa0			
+0x01a36490	296	115	2	0	0	2					
+0x01a365b8	184	58	2	0	0	1					
+0x01a366ec	16	6	2	0	0	0					
+0x01a366fc	738	256	2	1	0	1	0xffc0	0xff90			
+0x01a369e8	206	72	1	1	0	0	0xffc0,0xffe0	0xffa0			
+0x01a36ab6	590	214	3	0	0	1	0xffc0	0xff90			
+0x01a36d08	324	108	1	3	0	1	0xffc0	0xff90			
+0x01a36e4c	530	190	2	2	0	2	0xffc0				
+0x01a37060	716	267	1	3	0	0	0xffc0	0xff90			
+0x01a3732c	2204	878	1	3	0	0	0xffc0				
+0x01a37bc8	2512	997	1	3	0	0	0xffc0				
+0x01a38598	1818	703	1	3	0	0	0xffc0				
+0x01a38cb4	1818	694	1	3	0	0	0xffc0		disk/region_utils.cpp	assert	
+0x01a393d0	1058	426	1	1	0	11	0xffc0				
+0x01a397f4	1552	608	3	2	0	0	0xffc0				
+0x01a39e04	852	330	1	3	0	0	0xffc0				
+0x01a3a158	700	270	1	3	0	0	0xffc0				
+0x01a3a418	778	267	1	15	0	2	0xffc0,0xffe0	0xff90,0xffa0			
+0x01a3a728	556	208	1	3	0	0	0xffc0				
+0x01a3a954	256	87	4	2	0	3	0xffc0	0xff90			
+0x01a3aa58	14	5	1	0	0	0					
+0x01a3aa68	28	8	1	0	0	0					
+0x01a3aa84	28	8	1	0	0	0					
+0x01a3aaa0	30	9	2	0	0	0					
+0x01a3aac8	248	86	2	1	0	2					
+0x01a3b1b4	126	38	1	2	0	0					
+0x01a3b31c	46	15	1	0	0	0					
+0x01a3b3dc	12	4	23	0	0	0					
+0x01a3b3e8	12	4	31	0	0	0					
+0x01a3b408	68	27	68	2	0	0					
+0x01a3b44c	68	21	1	1	0	0			gui/Screen.cpp	assert	
+0x01a3b490	54	19	125	1	0	0			gui/Screen.cpp	assert	
+0x01a3b4c8	184	65	61	2	1	0			gui/Screen.cpp	assert	
+0x01a3b580	76	26	571	2	0	0			gui/Screen.cpp	assert	
+0x01a3b5d0	498	169	123	5	3	0		0xffa0	gui/Screen.cpp	assert	
+0x01a3b7d0	108	35	50	3	0	0			gui/Screen.cpp	assert	
+0x01a3b840	20	7	1	1	0	0				near	gui/Screen.cpp
+0x01a3b854	270	90	180	2	3	0		0xffa0	gui/Screen.cpp	assert	
+0x01a3b96c	190	66	19	2	3	0		0xffa0	gui/Screen.cpp	assert	
+0x01a3ba34	28	10	2	0	0	0				near	gui/Screen.cpp
+0x01a3ba50	92	35	1	2	1	0			gui/Screen.cpp	assert	
+0x01a3bab0	110	39	69	2	0	0				near	gui/Screen.cpp
+0x01a3bb20	288	99	1	6	3	0		0xff80	gui/Screen.cpp	assert	
+0x01a3bc44	16	5	43	1	0	0					
+0x01a3bce4	288	73	1	69	0	0					
+0x01a3bec8	56	20	3	1	0	0			gui/ScreenId.cpp	assert	
+0x01a3bf44	54	19	1	1	0	0			gui/ScreenId.cpp	assert	
+0x01a3bfda	66	25	1	1	0	0			gui/ScreenId.cpp	assert	
+0x01a3c01c	54	19	2	1	0	0			gui/ScreenId.cpp	assert	
+0x01a3c098	16	6	1	0	0	0	0xffc0				
+0x01a3c0ac	18	8	8	0	0	0					
+0x01a3c0be	376	121	7	10	0	0			select.c	assert	
+0x01a3c23c	140	34	49	5	0	0				near	select.c
+0x01a3c2c8	308	118	3	3	0	0			select.c	assert	
+0x01a3c400	98	33	2	2	0	0			select.c	assert	
+0x01a3c464	320	99	4	12	0	0				near	select.c
+0x01a3c5a4	796	269	5	11	0	0			select.c	assert	
+0x01a3caf4	628	252	4	3	0	2			select.c	assert	
+0x01a3cd70	686	253	4	6	0	0			select.c	assert	
+0x01a3d024	630	234	2	7	0	1			select.c	assert	
+0x01a3d2a4	246	86	2	6	0	0			select.c	assert	
+0x01a3d3a0	74	25	68	2	0	0				near	select.c
+0x01a3d3ec	414	133	4	10	0	0			select.c	assert	
+0x01a3d590	118	42	4	3	0	0			select.c	assert	
+0x01a3d608	468	136	2	12	0	0			select.c	assert	
+0x01a3d92c	2414	885	1	30	0	1			select.c	assert	
+0x01a3e2c0	336	116	14	6	0	0			select.c	assert	
+0x01a3e410	86	31	1	1	0	0				near	select.c
+0x01a3e468	358	119	3	3	0	0			select.c	assert	
+0x01a3e5d0	126	47	2	2	0	0				near	select.c
+0x01a3f2ec	178	67	1	3	0	0			select.c	assert	
+0x01a3f3a0	380	124	2	7	0	1			select.c	assert	
+0x01a3f520	378	142	2	6	0	0			select.c	assert	
+0x01a3f69c	554	198	2	16	0	0			select.c	assert	
+0x01a3f8cc	10368	3588	18	65	0	9			select.c	assert	
+0x01a42278	46	15	6	1	0	0					
+0x01a422ec	88	28	8	1	0	1			shared/SeqIds.cpp	assert	
+0x01a42344	180	72	3	2	0	0			shared/SeqIds.cpp	assert	
+0x01a423f8	30	10	3	0	0	0					
+0x01a4245c	60	22	1	5	0	0					
+0x01a42ba0	586	182	1	15	2	0			main/ctls/SeqManager.cpp	assert	
+0x01a42e38	240	77	6	10	0	0					
+0x01a42fd4	12	5	6	0	0	0					
+0x01a43000	110	32	8	2	0	0					
+0x01a43584	86	35	1	1	0	0					
+0x01a435dc	238	74	7	3	1	0		0xffa0			
+0x01a439ec	46	15	1	1	0	0					
+0x01a43a60	8	3	6	0	0	0					
+0x01a43a84	248	86	4	1	0	2					
+0x01a43b7c	826	267	3	2	0	0					
+0x01a4432c	162	46	1	2	0	0					
+0x01a443d0	70	22	7	2	0	0					
+0x01a4445c	260	76	4	1	0	0					
+0x01a457bc	306	81	1	4	0	0					
+0x01a45c58	20	7	1	1	0	0					
+0x01a45c6c	32	13	1	1	0	0					
+0x01a45c8c	34	14	1	1	0	0					
+0x01a45cae	20	7	1	1	0	0					
+0x01a45cc2	34	14	1	1	0	0					
+0x01a45ce4	20	7	1	1	0	0					
+0x01a45eac	440	143	2	10	0	0					
+0x01a46068	262	90	33	3	0	0					
+0x01a461fe	36	13	2	0	0	0					
+0x01a46224	32	13	1	0	0	0					
+0x01a46248	12	4	1	0	0	0					
+0x01a46254	12	4	1	0	0	0					
+0x01a46260	14	5	1	0	0	0					
+0x01a463de	32	11	1	0	0	0					
+0x01a46400	118	34	3	2	0	0					
+0x01a464c0	472	186	2	3	0	0					
+0x01a46728	404	151	2	2	0	0					
+0x01a468c0	1882	674	1	7	0	0					
+0x01a471cc	34	10	1	1	0	0					
+0x01a471f0	146	41	1	3	0	0					
+0x01a47fb8	248	86	2	1	0	2					
+0x01a480b0	826	267	3	2	0	0					
+0x01a48754	170	47	1	2	0	0					
+0x01a48844	470	131	1	1	0	0					
+0x01a48a1c	470	131	1	1	0	0					
+0x01a48bf4	464	133	1	1	0	0					
+0x01a48dc4	470	131	1	1	0	0					
+0x01a49b44	10	3	2	0	0	0					
+0x01a49ef8	136	47	1	2	0	0		0xffb0	dsp/Slump.cpp	assert	
+0x01a49fcc	248	86	2	1	0	2					
+0x01a4a230	200	61	1	3	0	0					
+0x01a4c0f0	2982	1177	4	5	0	14					
+0x01a4ccd8	36	12	223	1	0	0					
+0x01a4ccfc	534	232	1	0	0	0	0xffc0				
+0x01a4cf14	452	191	1	0	0	0	0xffc0				
+0x01a4d0dc	1014	457	1	2	0	0	0xffc0				
+0x01a4d4d4	102	36	4	1	0	1	0xffc0				
+0x01a4d540	244	105	1	2	0	0	0xffc0				
+0x01a4d634	726	343	167	0	0	3	0xffc0				
+0x01a4d90a	800	377	144	0	0	3	0xffc0				
+0x01a4dc2c	2640	835	1	3	0	0	0xffc0				
+0x01a4e67c	388	133	1	4	0	0	0xffc0				
+0x01a4e800	452	166	1	11	0	1	0xffc0				
+0x01a4e9c4	16	6	2	0	0	0					
+0x01a4eb70	410	139	5	2	0	0	0xffc0		bf/SPI.cpp	assert	
+0x01a4ed10	74	24	4	1	0	0	0xffc0			near	bf/SPI.cpp
+0x01a4ed5c	22	8	4	1	0	0				near	bf/SPI.cpp
+0x01a4ed74	332	113	2	3	0	0	0xffc0		bf/SPI.cpp	assert	
+0x01a4eec0	36	10	1	0	0	0					
+0x01a4ef38	44	17	1	0	0	0					
+0x01a4ef64	72	27	1	1	0	0			dsp/St.cpp	assert	
+0x01a4f398	68	22	1	2	0	0		0xffb0	dsp/St.cpp	assert	
+0x01a4f424	60	28	3	0	0	0					
+0x01a4f460	12	4	6	0	0	0					
+0x01a4f46c	36	13	27	0	0	0					
+0x01a4f490	28	12	6	0	0	0					
+0x01a4f734	232	65	1	2	0	0					
+0x01a4f81c	70	22	1	2	0	0					
+0x01a50168	128	43	5	2	0	0					
+0x01a501e8	26	10	8	0	0	0					
+0x01a50204	114	33	14	2	0	0					
+0x01a50350	68	19	1	1	0	0			gui/svg_loader.cpp	assert	
+0x01a50394	66	25	1	1	1	0				near	gui/svg_loader.cpp
+0x01a503d8	90	31	1	4	0	0			gui/svg_loader.cpp	assert	
+0x01a50498	12	4	1	0	0	0					
+0x01a50850	86	27	1	4	0	0					
+0x01a508c4	14	5	2	0	0	0					
+0x01a508d4	46	15	5	1	0	0					
+0x01a50aa8	152	57	1	4	0	0		0xff80			
+0x01a50b40	1094	377	1	24	2	1		0xff80	main/ctls/synth_controller.cpp	assert	
+0x01a518bc	8	3	7	0	0	0					
+0x01a519a0	56	22	1	1	0	0			dsp/SynthSampler.cpp	assert	
+0x01a51a08	94	35	1	4	0	0			dsp/SynthSampler.cpp	assert	
+0x01a51a66	20	7	1	1	0	0				near	dsp/SynthSampler.cpp
+0x01a51d74	114	42	1	3	0	0			dsp/SynthSampler.cpp	assert	
+0x01a51de8	74	27	10	1	0	0			dsp/SynthSampler.cpp	assert	
+0x01a51e34	88	30	1	1	0	0		0xffb0	dsp/SynthSampler.cpp	assert	
+0x01a51f28	82	28	1	1	0	0					
+0x01a5222c	68	22	1	2	0	0		0xffb0	dsp/T10.cpp	assert	
+0x01a524a0	176	53	1	2	0	0					
+0x01a52550	70	22	1	2	0	0					
+0x01a53d88	22	7	26	0	0	0					
+0x01a53da0	22	7	34	0	0	0					
+0x01a53db8	22	7	3	0	0	0					
+0x01a53dce	30	11	1	0	0	0					
+0x01a53dec	80	29	1	0	0	0					
+0x01a53e40	38	12	1	0	0	0					
+0x01a53e68	36	12	1	0	0	0					
+0x01a53e8c	28	10	1	0	0	0					
+0x01a53ea8	32	12	6	0	0	0		0xff80			
+0x01a53ec8	22	7	7	0	0	0		0xff80			
+0x01a53ee0	40	13	3	0	0	0		0xff80			
+0x01a53f08	116	45	1	0	0	3					
+0x01a53f7c	162	71	1	0	0	0					
+0x01a54020	44	16	4	0	0	0					
+0x01a5404c	22	7	3	0	0	0					
+0x01a54078	70	26	1	1	0	1					
+0x01a540c0	98	39	2	1	0	1					
+0x01a54124	64	23	1	2	0	0			dsp/tape_c.cpp	assert	
+0x01a54168	246	91	1	4	0	1		0xff80	dsp/tape_c.cpp	assert	
+0x01a54260	32	12	5	0	0	0				near	dsp/tape_c.cpp
+0x01a54710	324	113	2	3	0	1				near	dsp/tape_c.cpp
+0x01a5485c	292	79	2	6	0	0			dsp/tape_c.cpp	assert	
+0x01a54984	52	20	1	1	0	0				near	dsp/tape_c.cpp
+0x01a549b8	270	76	2	5	0	0			dsp/tape_c.cpp	assert	
+0x01a54acc	58	20	1	1	0	0				near	dsp/tape_c.cpp
+0x01a54b08	170	47	1	4	0	0			dsp/tape_c.cpp	assert	
+0x01a54c1c	32	12	7	0	0	0		0xff80		near	dsp/tape_c.cpp
+0x01a54cd4	132	51	22	3	0	0				near	dsp/tape_c.cpp
+0x01a54f20	92	36	6	1	0	0			dsp/tape_c.cpp	assert	
+0x01a54f7c	90	32	6	3	0	0			dsp/tape_c.cpp	assert	
+0x01a54fd8	76	29	1	2	0	0		0xff80		near	dsp/tape_c.cpp
+0x01a55024	128	36	28	1	0	0		0xff80	dsp/tape_c.cpp	assert	
+0x01a550a8	84	26	13	2	0	0			dsp/tape_c.cpp	assert	
+0x01a55100	112	38	13	2	0	0			dsp/tape_c.cpp	assert	
+0x01a552ec	46	15	1	1	0	0					
+0x01a554a8	96	34	1	5	0	0					
+0x01a555e4	248	86	2	1	0	2					
+0x01a556dc	826	267	2	2	0	0					
+0x01a55d38	86	33	3	1	0	0			gui/screens/tape_config_screen.cpp	assert	
+0x01a55d90	166	49	4	2	0	0				near	gui/screens/tape_config_screen.cpp
+0x01a55e7c	502	164	1	9	0	0			gui/screens/tape_config_screen.cpp	assert	
+0x01a56078	562	184	1	8	0	0					
+0x01a562ac	666	205	1	3	0	0					
+0x01a56984	14	5	1	0	0	0		0xff80			
+0x01a56994	40	14	1	0	0	0		0xff80			
+0x01a56a70	118	37	1	6	0	0		0xff80			
+0x01a56ae8	118	37	1	6	0	0		0xff80			
+0x01a56b60	36	10	1	0	0	0					
+0x01a56b84	36	12	4	0	0	0		0xff80			
+0x01a56ba8	82	28	1	1	0	0		0xff80			
+0x01a56bfc	162	47	1	1	0	0		0xff80			
+0x01a56cc4	18	6	3	1	0	0					
+0x01a56cd8	92	25	2	4	0	0		0xff80			
+0x01a56d94	354	107	15	10	0	0		0xff80			
+0x01a56ef8	430	128	1	11	0	0		0xff80			
+0x01a570a8	172	59	1	9	0	0		0xff80			
+0x01a5715c	462	163	1	12	0	1		0xff80			
+0x01a57330	492	174	1	13	0	1		0xff80			
+0x01a578a0	194	65	4	3	0	1		0xff80			
+0x01a57964	198	76	8	1	0	1		0xff80			
+0x01a57afc	482	172	2	10	0	0		0xff80			
+0x01a5819c	88	32	4	2	0	0		0xff80			
+0x01a581f4	942	360	21	9	0	0		0xff80	main/ctls/TapeController.cpp	assert	
+0x01a585a8	98	33	1	1	0	0		0xff80			
+0x01a5860c	108	37	1	1	0	0		0xff80			
+0x01a58678	64	22	1	0	0	0					
+0x01a58800	74	23	1	0	0	0		0xff80			
+0x01a59314	292	104	2	8	0	0		0xff80			
+0x01a59444	28	9	1	1	0	0					
+0x01a59460	28	9	7	1	0	0					
+0x01a59abc	32	10	2	1	0	0					
+0x01a59adc	12	4	8	0	0	0					
+0x01a59ae8	12	4	1	0	0	0					
+0x01a59af4	12	4	5	0	0	0					
+0x01a59b00	16	6	4	0	0	0					
+0x01a59b10	14	5	10	0	0	0					
+0x01a59b28	248	86	4	1	0	2					
+0x01a59c20	826	267	2	2	0	0					
+0x01a59f5c	102	26	4	1	0	0					
+0x01a59fc4	218	62	1	1	0	0					
+0x01a5a0a0	70	22	1	2	0	0					
+0x01a5a0e8	218	74	1	3	3	0			gui/screens/TapeScreen.cpp	assert	
+0x01a5a1c8	302	102	1	3	2	0			gui/screens/TapeScreen.cpp	assert	
+0x01a5a300	1072	325	1	6	0	0				near	gui/screens/TapeScreen.cpp
+0x01a5a730	262	89	1	0	2	0		0xff80		near	gui/screens/TapeScreen.cpp
+0x01a5a83c	226	85	1	3	0	0				near	gui/screens/TapeScreen.cpp
+0x01a5abbc	234	82	1	4	1	0				near	gui/screens/TapeScreen.cpp
+0x01a5b0cc	680	259	1	4	0	0				near	gui/screens/TapeScreen.cpp
+0x01a5b374	244	74	1	10	0	0				near	gui/screens/TapeScreen.cpp
+0x01a5b468	910	301	1	9	0	0			gui/screens/TapeScreen.cpp	assert	
+0x01a5b7f8	2070	669	1	12	0	0		0xff80		near	gui/screens/TapeScreen.cpp
+0x01a5c010	494	156	1	8	0	0				near	gui/screens/TapeScreen.cpp
+0x01a5c200	626	201	1	19	0	0		0xff80		near	gui/screens/TapeScreen.cpp
+0x01a5c474	686	227	1	9	0	0			gui/screens/TapeScreen.cpp	assert	
+0x01a5c728	880	305	1	16	0	0		0xff80		near	gui/screens/TapeScreen.cpp
+0x01a5ca9c	598	210	2	9	0	0			gui/screens/TapeScreen.cpp	assert	
+0x01a5ccf8	662	203	1	3	0	0					
+0x01a5d420	1190	368	4	14	0	0					
+0x01a5d8d4	122	38	2	1	0	0					
+0x01a5da5c	860	293	1	10	0	4			bf/tar.cpp	assert	
+0x01a5ddc0	242	93	1	5	0	0			bf/tar.cpp	assert	
+0x01a5dedc	706	234	2	11	0	2			bf/tar.cpp	assert	
+0x01a5e310	82	28	842	3	0	0					
+0x01a5e364	50	15	1	1	1	0		0xffa0			
+0x01a5e398	24	7	1	1	0	0					
+0x01a5e3b0	162	47	154	6	0	0			bf/te_new.cpp	assert	
+0x01a5e454	52	18	3	0	0	1	0xffc0				
+0x01a5e770	12	4	1	0	0	0					
+0x01a5e77c	12	4	2	0	0	0					
+0x01a5e788	12	4	1	0	0	0					
+0x01a5e794	12	4	18	0	0	0					
+0x01a5e7a0	12	4	13	0	0	0					
+0x01a5e7ac	34	14	7	0	0	0					
+0x01a5e7d0	18	7	10	0	0	0					
+0x01a5e7e4	122	38	5	6	0	0					
+0x01a5e860	322	102	3	8	0	0					
+0x01a5e9a4	190	69	4	7	0	0			seq/tempo.cpp	assert	
+0x01a5ea68	126	41	2	7	0	0					
+0x01a5eb30	256	98	2	7	0	0					
+0x01a5ed44	394	123	2	10	0	0					
+0x01a5f244	248	86	4	1	0	2					
+0x01a5f574	146	43	1	2	0	0					
+0x01a6075c	28	10	1	0	0	0					
+0x01a60780	248	86	2	1	0	2					
+0x01a60878	608	165	1	2	0	0		0xff90			
+0x01a60b40	186	68	4	1	1	1		0xffa0			
+0x01a60bfc	68	31	5	1	0	0					
+0x01a60c94	234	78	2	5	0	0					
+0x01a60d80	342	117	1	3	1	0		0xffa0			
+0x01a60edc	266	81	1	3	0	0					
+0x01a61008	58	23	3	1	0	0					
+0x01a61044	70	26	2	1	0	0					
+0x01a610d8	1044	346	1	8	1	0					
+0x01a6157c	1300	473	1	10	3	9		0xff90,0xffa0			
+0x01a61904	416	123	8	5	0	0		0xff90			
+0x01a61aac	1848	685	122	8	2	9		0xff90,0xffa0			
+0x01a621ec	28	9	12	1	0	0					
+0x01a62208	908	282	1	9	1	1		0xffa0	gui/screens/Text.cpp	assert	
+0x01a6259c	486	158	8	6	2	0		0xffa0	gui/screens/Text.cpp	assert	
+0x01a62868	158	62	2	1	0	0			seq/Timing.cpp	assert	
+0x01a62908	186	66	3	1	0	1			seq/Timing.cpp	assert	
+0x01a629f0	6	3	1	0	0	0					
+0x01a629f6	6	3	2	0	0	0					
+0x01a629fc	766	339	2	0	0	0					
+0x01a62d02	744	316	3	0	0	0					
+0x01a62fec	258	94	2	3	0	0					
+0x01a630f4	264	90	1	1	0	0					
+0x01a63200	416	151	5	1	0	1					
+0x01a63a88	870	302	4	13	0	0			tokenize.c	assert	
+0x01a63f44	226	63	1	12	0	0					
+0x01a6425c	12	4	1	0	0	0					
+0x01a642dc	108	34	2	1	0	0					
+0x01a643a0	44	18	3	0	0	0					
+0x01a643cc	36	12	9	0	1	0		0xffa0			
+0x01a643f0	20	7	1	0	0	0					
+0x01a64404	80	28	3	2	0	1					
+0x01a64454	58	17	3	2	0	0					
+0x01a64490	42	12	1	2	0	0					
+0x01a644bc	218	77	1	1	0	0	0xfff6				
+0x01a64598	38	11	2	0	0	0					
+0x01a645c0	290	90	1	2	0	1	0xfff4				
+0x01a646e4	12	4	2	0	0	0					
+0x01a646f0	14	5	1	0	0	0					
+0x01a64740	86	32	1	1	0	0					
+0x01a64798	86	32	1	1	0	0					
+0x01a648f4	112	42	1	1	0	0					
+0x01a64968	266	83	1	4	0	0					
+0x01a64a74	102	36	1	0	0	2					
+0x01a64adc	344	115	1	9	0	0		0xff80	seq/TombolaPhysics.cpp	assert	
+0x01a64c3a	122	47	1	0	0	1	0xfff6			near	seq/TombolaPhysics.cpp
+0x01a64cb4	408	139	1	2	0	1			seq/TombolaPhysics.cpp	assert	
+0x01a64e4c	26	8	2	1	0	0				near	seq/TombolaPhysics.cpp
+0x01a64e68	1516	416	1	12	0	0			seq/TombolaPhysics.cpp	assert	
+0x01a6545c	250	83	3	10	0	0					
+0x01a65558	28	9	1	1	0	0					
+0x01a65574	230	72	1	10	0	0		0xff9c			
+0x01a6565c	118	38	9	1	2	0		0xffa0			
+0x01a656d4	90	35	1	5	0	0					
+0x01a65868	10	3	1	0	0	0					
+0x01a65ae0	174	46	1	6	0	1					
+0x01a65e7c	12	4	2	0	0	0					
+0x01a66264	120	48	2	1	0	0			gui/screens/TombolaScreen.cpp	assert	
+0x01a662e0	116	46	2	3	0	0			gui/screens/TombolaScreen.cpp	assert	
+0x01a66358	114	33	1	2	0	0					
+0x01a668f4	30	13	1	0	0	0					
+0x01a66912	16	6	5	0	0	0					
+0x01a66be8	8	3	1	0	0	0					
+0x01a66bf0	16	7	9	0	0	0					
+0x01a66c00	16	6	8	0	0	0					
+0x01a66c10	16	6	17	0	0	0					
+0x01a66c20	10	5	6	0	0	0					
+0x01a66c2c	148	53	9	1	0	1					
+0x01a66cc8	182	73	7	1	0	2					
+0x01a66d80	94	28	2	5	0	0					
+0x01a66dde	162	65	5	1	0	0					
+0x01a66e80	86	29	1	2	0	0					
+0x01a66ed8	228	66	2	8	0	0			trigger.c	assert	
+0x01a66fc0	140	45	1	6	0	0				near	trigger.c
+0x01a6704c	114	39	1	4	0	0				near	trigger.c
+0x01a670c0	172	49	2	5	0	0				near	trigger.c
+0x01a6716c	1238	406	1	23	0	0			trigger.c	assert	
+0x01a67654	790	241	1	19	0	1			trigger.c	assert	
+0x01a67978	434	143	2	13	0	0			trigger.c	assert	
+0x01a67b32	226	83	1	8	0	0			trigger.c	assert	
+0x01a67c18	344	115	1	9	0	1			trigger.c	assert	
+0x01a67d70	320	127	5	3	0	0			trigger.c	assert	
+0x01a67eb0	2076	706	3	31	0	1			trigger.c	assert	
+0x01a68734	234	81	1	7	0	0			trigger.c	assert	
+0x01a68820	572	206	6	8	0	0			trigger.c	assert	
+0x01a68a7c	180	71	2	3	0	0			trigger.c	assert	
+0x01a68b30	140	41	1	1	0	0	0xffc0,0xfff0	0xffa0			
+0x01a68bbc	434	149	1	1	0	2	0xffc0	0xff80,0xffa0	bf/twi.cpp	assert	
+0x01a68d74	484	175	4	2	0	2	0xffc0	0xff80,0xffa0		near	bf/twi.cpp
+0x01a68f60	192	69	9	2	0	1		0xff80		near	bf/twi.cpp
+0x01a69024	240	91	137	2	0	2		0xff80		near	bf/twi.cpp
+0x01a69118	284	104	1	2	0	2		0xff80,0xffa0	bf/twi.cpp	assert	
+0x01a69238	198	71	30	2	0	1		0xff80			
+0x01a69350	14	5	4	0	0	0					
+0x01a69360	12	4	26	0	0	0					
+0x01a6936c	26	10	1	0	0	0					
+0x01a69388	30	10	1	0	0	0					
+0x01a693a8	26	10	1	0	0	0					
+0x01a6a2f0	386	110	1	1	0	0					
+0x01a6a472	2	1	1	0	0	0					
+0x01a6a474	170	61	3	1	0	1					
+0x01a6a520	218	69	2	2	0	0					
+0x01a6a5fc	154	54	2	2	0	0					
+0x01a6a698	10	3	2	0	0	0					
+0x01a6abac	1944	753	2	13	0	9	0xffc0				
+0x01a6b404	130	52	1	0	0	0			btree.c	assert	
+0x01a6b7d8	18	7	1	0	0	0				near	btree.c
+0x01a6b7ea	4	2	10	0	0	0				near	btree.c
+0x01a6b7ee	4	2	10	0	0	0				near	btree.c
+0x01a6b7f4	18	7	2	0	0	0	0xffc0			near	btree.c
+0x01a6b808	18	7	2	0	0	0	0xffc0			near	btree.c
+0x01a6b8fc	46	16	1	1	0	0	0xffc0			near	btree.c
+0x01a6b92a	56	16	7	0	2	0				near	btree.c
+0x01a6b962	34	14	1	0	2	0				near	btree.c
+0x01a6b988	60	23	1	0	0	0				near	btree.c
+0x01a6bef8	90	32	1	1	1	0				near	btree.c
+0x01a6bf54	176	69	2	3	5	0				near	btree.c
+0x01a6c004	100	39	2	3	1	0				near	btree.c
+0x01a6c068	8	4	1	0	0	0				near	btree.c
+0x01a6c070	8	4	2	0	0	0				near	btree.c
+0x01a6c078	42	15	2	0	0	0				near	btree.c
+0x01a6c0a2	60	27	2	1	0	0				near	btree.c
+0x01a6c0e0	80	32	2	1	0	0				near	btree.c
+0x01a6c134	104	42	5	2	0	0				near	btree.c
+0x01a6c19c	168	77	1	2	1	0				near	btree.c
+0x01a6c246	66	24	1	0	0	0				near	btree.c
+0x01a6c288	102	39	1	0	0	0				near	btree.c
+0x01a6c2ee	52	20	1	0	0	0				near	btree.c
+0x01a6c322	102	39	3	0	0	0				near	btree.c
+0x01a6c388	122	49	2	0	0	0				near	btree.c
+0x01a6c402	122	49	4	0	0	0				near	btree.c
+0x01a6c47c	760	294	2	0	0	2				near	btree.c
+0x01a6c774	20	6	1	1	0	0				near	btree.c
+0x01a6c788	20	6	1	1	0	0				near	btree.c
+0x01a6c79c	44	15	1	1	0	0				near	btree.c
+0x01a6c7c8	212	73	7	3	0	1				near	btree.c
+0x01a6c89c	82	29	6	1	0	0				near	btree.c
+0x01a6c8f0	194	87	1	2	1	0				near	btree.c
+0x01a6c9b4	56	24	16	0	0	0				near	btree.c
+0x01a6ca7c	372	166	4	2	2	0				near	btree.c
+0x01a6cbf0	236	87	1	5	0	1				near	btree.c
+0x01a6ccdc	76	30	1	2	0	0				near	btree.c
+0x01a6cd28	92	31	1	3	0	0				near	btree.c
+0x01a6cd84	32	9	1	2	0	0				near	btree.c
+0x01a6cda8	114	41	1	0	0	0				near	btree.c
+0x01a6d430	112	47	1	0	0	0				near	btree.c
+0x01a6d67a	102	36	2	1	1	0				near	btree.c
+0x01a6d6e0	22	9	1	0	0	0				near	btree.c
+0x01a6d6f8	18	4	2	0	0	0				near	btree.c
+0x01a6d70a	28	12	1	0	0	0				near	btree.c
+0x01a6d726	2	1	2	0	0	0				near	btree.c
+0x01a6d728	2	1	2	0	0	0				near	btree.c
+0x01a6d72a	2	1	1	0	0	0				near	btree.c
+0x01a6d72c	2	1	1	0	0	0				near	btree.c
+0x01a6d72e	2	1	1	0	0	0				near	btree.c
+0x01a6d730	2	1	1	0	0	0				near	btree.c
+0x01a6d732	2	1	2	0	0	0				near	btree.c
+0x01a6d734	2	1	1	0	0	0				near	btree.c
+0x01a6d736	2	1	1	0	0	0				near	btree.c
+0x01a6d738	2	1	1	0	0	0				near	btree.c
+0x01a6d73c	296	112	6	1	0	3				near	btree.c
+0x01a6d864	314	136	6	1	0	0				near	btree.c
+0x01a6da34	252	97	9	1	0	0				near	btree.c
+0x01a6db30	2204	821	1	4	0	10				near	btree.c
+0x01a6e60c	322	122	1	2	0	0				near	btree.c
+0x01a6e750	2	1	2	0	0	0				near	btree.c
+0x01a6e754	20	5	2	0	0	0				near	btree.c
+0x01a6eab0	110	40	1	1	0	1				near	btree.c
+0x01a6eb20	42	9	10	1	0	0				near	btree.c
+0x01a6eb4c	68	18	1	1	1	0		0xffa0		near	btree.c
+0x01a6eb94	118	34	19	5	0	0				near	btree.c
+0x01a6ec10	88	31	37	3	0	0				near	btree.c
+0x01a6ec6a	94	18	1	0	0	0			btree.c	assert	
+0x01a6ecc8	138	49	1	4	0	0					
+0x01a6ed54	124	45	2	4	0	0					
+0x01a6edd0	56	20	1	3	0	0					
+0x01a6ee0c	56	20	1	3	0	0					
+0x01a6ee48	20	6	1	0	0	0					
+0x01a6eebc	430	177	5	3	6	0					
+0x01a6f06c	1284	456	5	4	4	0					
+0x01a6fb4c	542	180	6	4	0	0					
+0x01a7027c	30	7	1	1	0	0					
+0x01a7029c	24	7	1	1	0	0					
+0x01a702b4	90	33	1	2	3	0					
+0x01a70310	14	5	1	0	0	0					
+0x01a70320	36	12	1	0	1	0		0xffa0			
+0x01a70344	12	6	8	0	0	0					
+0x01a70350	224	76	4	6	0	0			update.c	assert	
+0x01a70434	3814	1351	2	61	0	6			update.c	assert	
+0x01a71344	12	4	1	0	0	0					
+0x01a71350	118	40	2	9	0	0			bf/usb.cpp	assert	
+0x01a713c8	44	14	1	3	0	0				near	bf/usb.cpp
+0x01a713f4	86	28	1	5	0	0			bf/usb.cpp	assert	
+0x01a71450	90	31	1	5	0	0			bf/usb.cpp	assert	
+0x01a7181c	124	49	1	0	0	2					
+0x01a71898	126	47	16	0	0	1					
+0x01a7191c	1502	552	6	5	0	7		0xff80	utf.c	assert	
+0x01a71f18	174	74	1	3	0	0			utf.c	assert	
+0x01a71fc8	136	55	4	1	0	2			utf.c	assert	
+0x01a72054	208	73	3	6	0	0			utf.c	assert	
+0x01a72128	54	21	7	0	0	0					
+0x01a7215e	44	18	10	0	0	0					
+0x01a7218a	24	9	43	0	0	0					
+0x01a721a2	36	9	73	0	0	0					
+0x01a721c6	378	131	3	0	0	0					
+0x01a7234a	212	81	6	1	0	2					
+0x01a72420	1372	501	8	5	0	12					
+0x01a7298e	260	117	4	0	0	3					
+0x01a72a92	98	43	30	0	0	1					
+0x01a72af4	88	35	104	0	0	1					
+0x01a72b4c	48	23	121	0	0	1					
+0x01a72b7c	42	18	9	1	0	0					
+0x01a72ba8	138	50	53	3	0	0					
+0x01a72c38	76	25	148	2	0	0					
+0x01a72c84	36	15	2	1	0	0					
+0x01a72ca8	214	93	20	1	0	0			util.c	assert	
+0x01a72d84	322	137	6	2	0	3				near	util.c
+0x01a72ec8	208	85	1	2	0	1			util.c	assert	
+0x01a72f9c	184	67	3	1	0	3			util.c	assert	
+0x01a73058	132	54	2	1	0	2			util.c	assert	
+0x01a730de	172	66	13	2	0	0			util.c	assert	
+0x01a7318c	100	36	3	1	0	0			util.c	assert	
+0x01a731f4	292	107	2	2	0	0			util.c	assert	
+0x01a73318	122	36	32	2	0	0			util.c	assert	
+0x01a73392	112	34	36	2	0	0			util.c	assert	
+0x01a73408	42	13	1	2	0	0					
+0x01a73434	26	8	13	2	0	0					
+0x01a73450	38	11	1	2	0	0					
+0x01a73478	1828	660	1	22	0	0			vacuum.c	assert	
+0x01a73ba8	54	23	7	0	0	0					
+0x01a73be0	100	30	2	1	0	0			vdbe.c	assert	
+0x01a73c44	236	81	4	5	0	0			vdbe.c	assert	
+0x01a73d38	262	109	8	8	0	0			vdbe.c	assert	
+0x01a73e44	218	89	1	5	0	0				near	vdbe.c
+0x01a73f20	20	7	3	1	0	0				near	vdbe.c
+0x01a73f34	788	272	1	3	0	2			vdbe.c	assert	
+0x01a74254	1666	580	1	15	1	0			vdbe.c	assert	
+0x01a7afa4	140	59	3	5	0	0				near	vdbe.c
+0x01a7b034	220	75	28	2	0	0				near	vdbe.c
+0x01a7b11c	56	19	3	1	0	0				near	vdbe.c
+0x01a7b154	88	30	1	1	0	1			vdbe.c	assert	
+0x01a7b1d8	12	5	1	0	0	0					
+0x01a7b1e4	8	3	21	0	0	0					
+0x01a7b202	66	26	46	4	0	0					
+0x01a7b35c	18	6	14	1	0	0					
+0x01a7b394	16	5	4	1	0	0					
+0x01a7b3a4	16	5	4	1	0	0					
+0x01a7b3b4	16	5	3	1	0	0					
+0x01a7b3c4	18	6	44	1	0	0					
+0x01a7b3d8	58	24	5	2	0	0					
+0x01a7b414	34	12	4	1	0	0					
+0x01a7b460	68	26	6	3	0	0			vdbeapi.c	assert	
+0x01a7b4a8	84	31	7	3	0	0			vdbeapi.c	assert	
+0x01a7b570	70	26	5	3	0	0			vdbeapi.c	assert	
+0x01a7b5b8	68	26	5	3	0	0			vdbeapi.c	assert	
+0x01a7b600	60	19	2	3	0	0			vdbeapi.c	assert	
+0x01a7b640	64	24	6	3	0	0			vdbeapi.c	assert	
+0x01a7b684	64	24	1	3	0	0			vdbeapi.c	assert	
+0x01a7b6c8	74	25	1	2	0	0				near	vdbeapi.c
+0x01a7b714	82	31	12	3	0	0			vdbeapi.c	assert	
+0x01a7b768	178	60	2	3	0	0			vdbeapi.c	assert	
+0x01a7b820	160	54	21	3	0	0			vdbeapi.c	assert	
+0x01a7bad4	72	27	12	3	0	0			vdbeapi.c	assert	
+0x01a7bb20	1028	344	29	20	1	0			vdbeapi.c	assert	
+0x01a7bf2c	58	23	4	1	0	0			vdbeapi.c	assert	
+0x01a7bf68	54	21	26	1	0	0			vdbeapi.c	assert	
+0x01a7c010	168	60	10	5	0	0			vdbeapi.c	assert	
+0x01a7c1f0	72	30	1	1	0	0			vdbeapi.c	assert	
+0x01a7c488	184	63	1	6	0	0			vdbeapi.c	assert	
+0x01a7c544	180	61	7	6	0	0			vdbeapi.c	assert	
+0x01a7c6b8	182	62	18	6	0	0			vdbeapi.c	assert	
+0x01a7c8e8	170	60	1	5	0	0			vdbeapi.c	assert	
+0x01a7c994	164	57	1	4	0	0			vdbeapi.c	assert	
+0x01a7cc48	384	124	5	7	0	0				near	vdbeapi.c
+0x01a7cde8	298	102	1	5	0	0				near	vdbeapi.c
+0x01a7cf14	298	102	3	5	0	0				near	vdbeapi.c
+0x01a7d058	256	90	1	4	0	0				near	vdbeapi.c
+0x01a7d1a4	294	102	1	5	0	0				near	vdbeapi.c
+0x01a7d540	178	60	1	4	0	0			vdbeapi.c	assert	
+0x01a7d730	6	3	19	0	0	0					
+0x01a7d736	38	15	9	0	0	1					
+0x01a7d75c	10	4	3	0	0	0					
+0x01a7d766	28	12	4	0	0	0					
+0x01a7d784	86	38	1	0	1	0					
+0x01a7d7da	10	4	1	0	0	0					
+0x01a7d7e4	54	23	1	0	0	0					
+0x01a7d81a	8	3	1	0	0	0					
+0x01a7d822	132	40	1	0	0	3					
+0x01a7d8a6	20	8	1	0	0	0					
+0x01a7d8bc	96	30	6	1	0	0					
+0x01a7d91c	112	37	1	2	0	0			vdbeaux.c	assert	
+0x01a7d990	140	45	31	3	0	0			vdbeaux.c	assert	
+0x01a7da20	98	38	31	1	0	0			vdbeaux.c	assert	
+0x01a7da88	410	176	1	4	0	1			vdbeaux.c	assert	
+0x01a7dc24	264	106	2	3	0	0			vdbeaux.c	assert	
+0x01a7dd34	66	21	31	1	0	0			vdbeaux.c	assert	
+0x01a7dd78	106	36	1	2	0	0			vdbeaux.c	assert	
+0x01a7dde8	80	32	18	1	0	0			vdbeaux.c	assert	
+0x01a7de3c	80	32	11	1	0	0			vdbeaux.c	assert	
+0x01a7de90	80	32	4	1	0	0			vdbeaux.c	assert	
+0x01a7dee4	96	38	26	1	0	0			vdbeaux.c	assert	
+0x01a7df48	80	32	68	1	0	0			vdbeaux.c	assert	
+0x01a7df9c	58	25	5	0	0	0				near	vdbeaux.c
+0x01a7e0e4	246	84	2	3	0	0			vdbeaux.c	assert	
+0x01a7e1da	86	31	4	2	0	0				near	vdbeaux.c
+0x01a7e230	534	192	46	7	0	0			vdbeaux.c	assert	
+0x01a7e450	162	66	49	3	0	0			vdbeaux.c	assert	
+0x01a7e4f4	150	55	5	1	0	0			vdbeaux.c	assert	
+0x01a7e58a	122	42	2	1	0	0			vdbeaux.c	assert	
+0x01a7e8ec	96	38	8	1	0	0			vdbeaux.c	assert	
+0x01a7e950	136	46	2	4	0	0				near	vdbeaux.c
+0x01a7e9d8	262	90	137	3	0	0			vdbeaux.c	assert	
+0x01a7eae4	28	8	18	1	0	0				near	vdbeaux.c
+0x01a7eb00	182	71	12	4	0	0			vdbeaux.c	assert	
+0x01a7ebb8	22	8	86	1	0	0				near	vdbeaux.c
+0x01a7ebd0	24	9	355	1	0	0				near	vdbeaux.c
+0x01a7ebe8	68	18	100	2	0	0				near	vdbeaux.c
+0x01a7ec2c	298	104	9	4	0	0			vdbeaux.c	assert	
+0x01a7ed58	1372	530	1	11	0	4			vdbeaux.c	assert	
+0x01a7f2c2	108	44	3	1	0	1				near	vdbeaux.c
+0x01a7f330	926	361	4	4	0	2			vdbeaux.c	assert	
+0x01a7f6d8	96	34	2	4	1	0				near	vdbeaux.c
+0x01a7f738	310	125	4	7	1	0			vdbeaux.c	assert	
+0x01a7f870	248	103	28	4	0	1			vdbeaux.c	assert	
+0x01a7f968	226	81	53	2	0	0			vdbeaux.c	assert	
+0x01a7fa50	250	87	2	2	0	0			vdbeaux.c	assert	
+0x01a7fb52	120	42	3	1	0	0				near	vdbeaux.c
+0x01a7fbca	628	235	3	4	0	0			vdbeaux.c	assert	
+0x01a7fe40	326	109	5	4	0	0			vdbeaux.c	assert	
+0x01a7ff8c	380	160	3	1	0	0			vdbeaux.c	assert	
+0x01a80110	354	119	1	4	0	1			vdbeaux.c	assert	
+0x01a80278	84	30	5	0	0	0				near	vdbeaux.c
+0x01a804b8	362	139	3	4	0	0			vdbeaux.c	assert	
+0x01a80624	182	64	3	3	0	0			vdbeaux.c	assert	
+0x01a806e0	496	204	4	5	0	0			vdbeaux.c	assert	
+0x01a808dc	308	120	1	9	0	0			vdbeaux.c	assert	
+0x01a80a1c	220	79	1	7	0	0			vdbeaux.c	assert	
+0x01a80afc	92	28	2	2	0	0			vdbeaux.c	assert	
+0x01a80b58	2454	922	5	35	2	3			vdbeaux.c	assert	
+0x01a81520	388	136	3	9	0	0			vdbeaux.c	assert	
+0x01a816a8	104	34	10	3	0	0			vdbeaux.c	assert	
+0x01a81714	122	46	1	5	0	0			vdbeaux.c	assert	
+0x01a81790	82	32	2	1	0	0			vdbeaux.c	assert	
+0x01a81f64	230	85	10	3	0	0			vdbemem.c	assert	
+0x01a82054	278	107	19	6	1	0			vdbemem.c	assert	
+0x01a8216c	206	69	11	4	0	0			vdbemem.c	assert	
+0x01a82240	306	111	6	4	0	0			vdbemem.c	assert	
+0x01a82380	144	56	4	3	0	0			vdbemem.c	assert	
+0x01a82418	492	175	4	6	0	0			vdbemem.c	assert	
+0x01a8261c	216	84	1	5	1	0			vdbemem.c	assert	
+0x01a826f8	42	17	25	2	0	0				near	vdbemem.c
+0x01a82724	534	191	15	7	0	0			vdbemem.c	assert	
+0x01a82950	454	179	7	6	0	0			vdbemem.c	assert	
+0x01a82b2c	298	107	2	6	0	0			vdbemem.c	assert	
+0x01a82c5c	128	45	8	3	0	0			vdbemem.c	assert	
+0x01a82ce4	108	38	5	3	0	0			vdbemem.c	assert	
+0x01a82d54	336	119	1	8	0	0			vdbemem.c	assert	
+0x01a82eb0	64	26	10	2	0	0				near	vdbemem.c
+0x01a82ef0	440	168	24	8	2	0			vdbemem.c	assert	
+0x01a830b0	72	26	2	2	0	0				near	vdbemem.c
+0x01a830f8	64	24	6	2	0	0				near	vdbemem.c
+0x01a83138	134	56	2	5	0	0				near	vdbemem.c
+0x01a831c0	212	74	2	6	0	0			vdbemem.c	assert	
+0x01a83298	78	32	4	1	0	0			vdbemem.c	assert	
+0x01a832e8	156	63	5	3	0	0			vdbemem.c	assert	
+0x01a83386	116	43	4	4	0	0			vdbemem.c	assert	
+0x01a833fc	176	61	8	5	0	0			vdbemem.c	assert	
+0x01a834b0	526	203	25	9	0	2			vdbemem.c	assert	
+0x01a836c4	358	119	4	9	0	0			vdbemem.c	assert	
+0x01a83830	738	275	15	7	0	0			vdbemem.c	assert	
+0x01a83b34	830	317	6	9	2	0			vdbemem.c	assert	
+0x01a83e8c	46	16	5	1	0	0				near	vdbemem.c
+0x01a83ebc	50	13	8	1	0	0				near	vdbemem.c
+0x01a83ef0	60	22	7	2	0	0				near	vdbemem.c
+0x01a83f2c	864	309	5	14	0	0			vdbemem.c	assert	
+0x01a842a4	46	20	4	1	0	0					
+0x01a842f0	30	10	3	0	0	0					
+0x01a84310	26	11	1	0	0	0					
+0x01a8432c	12	4	1	0	0	0					
+0x01a84338	16	6	6	0	0	0					
+0x01a84348	46	16	6	0	0	0		0xff80			
+0x01a84376	18	7	1	0	0	0					
+0x01a84414	192	67	2	2	0	0		0xff80	dsp/VoiceCtl.cpp	assert	
+0x01a844d8	298	100	1	4	0	1				near	dsp/VoiceCtl.cpp
+0x01a84604	1422	471	1	12	0	1		0xff80	dsp/VoiceCtl.cpp	assert	
+0x01a84ba0	518	185	1	8	0	1		0xff80	dsp/VoiceCtl.cpp	assert	
+0x01a84dac	332	132	1	2	0	2		0xff80	dsp/VoiceCtl.cpp	assert	
+0x01a84efa	276	101	1	1	4	0		0xff80,0xffa0	dsp/VoiceCtl.cpp	assert	
+0x01a84f8c	132	49	1	1	2	0		0xffa0	dsp/VoiceCtl.cpp	assert	
+0x01a85000	20	8	2	0	0	0				near	dsp/VoiceCtl.cpp
+0x01a85014	68	24	50	0	0	0		0xff80		near	dsp/VoiceCtl.cpp
+0x01a85058	954	348	1	4	0	5		0xff80	dsp/VoiceCtl.cpp	assert	
+0x01a8541c	174	54	1	6	0	1					
+0x01a854cc	496	171	3	9	0	0		0xff80	btree.c	assert	
+0x01a856bc	146	54	1	3	0	0		0xff80	dsp/VoiceCtl.cpp	assert	
+0x01a85750	234	87	22	4	0	0		0xff80	dsp/VoiceCtl.cpp	assert	
+0x01a85840	148	57	40	4	0	0			dsp/VoiceCtl.cpp	assert	
+0x01a858d6	988	376	2	14	7	3		0xffa0		near	dsp/VoiceCtl.cpp
+0x01a859e4	720	269	1	13	4	2		0xffa0		near	dsp/VoiceCtl.cpp
+0x01a85cbe	148	56	2	0	0	1		0xff80		near	dsp/VoiceCtl.cpp
+0x01a85d54	96	30	1	1	0	0		0xff80	dsp/VoiceCtl.cpp	assert	
+0x01a85db4	64	23	1	2	0	0			dsp/VoiceCtl.cpp	assert	
+0x01a85df8	68	22	1	1	0	0		0xff80	dsp/VoiceCtl.cpp	assert	
+0x01a85e40	64	23	1	2	0	0			dsp/VoiceCtl.cpp	assert	
+0x01a85e82	72	25	3	3	0	0			dsp/VoiceCtl.cpp	assert	
+0x01a85ecc	74	26	4	3	0	0			dsp/VoiceCtl.cpp	assert	
+0x01a85f18	16	5	1	1	0	0				near	dsp/VoiceCtl.cpp
+0x01a85f28	16	5	1	1	0	0				near	dsp/VoiceCtl.cpp
+0x01a85f38	16	5	1	1	0	0				near	dsp/VoiceCtl.cpp
+0x01a85f48	16	5	1	1	0	0				near	dsp/VoiceCtl.cpp
+0x01a85f58	64	19	2	0	0	0		0xff80		near	dsp/VoiceCtl.cpp
+0x01a85f98	108	30	3	0	0	0		0xff80		near	dsp/VoiceCtl.cpp
+0x01a86004	108	30	4	0	0	0		0xff80		near	dsp/VoiceCtl.cpp
+0x01a86074	36	12	3	0	0	0		0xff80		near	dsp/VoiceCtl.cpp
+0x01a86098	38	12	3	0	0	0		0xff80		near	dsp/VoiceCtl.cpp
+0x01a860c0	150	62	2	3	0	0				near	dsp/VoiceCtl.cpp
+0x01a86158	242	96	6	6	0	0		0xff80		near	dsp/VoiceCtl.cpp
+0x01a8624c	96	37	3	1	0	0		0xff80		near	dsp/VoiceCtl.cpp
+0x01a862ac	40	16	1	2	0	0				near	dsp/VoiceCtl.cpp
+0x01a862d4	102	40	3	3	0	0				near	dsp/VoiceCtl.cpp
+0x01a8633c	106	40	1	1	0	0			dsp/VoiceCtl.cpp	assert	
+0x01a863a8	120	47	1	1	0	1			dsp/VoiceCtl.cpp	assert	
+0x01a86420	568	214	2	17	0	0		0xff80	dsp/VoiceCtl.cpp	assert	
+0x01a8675c	10	5	1	0	0	0					
+0x01a8690c	86	35	12	1	0	1			vtab.c	assert	
+0x01a86968	182	67	1	5	2	0			vtab.c	assert	
+0x01a86a26	232	84	2	7	2	0			vtab.c	assert	
+0x01a86b18	156	62	1	2	0	0			vtab.c	assert	
+0x01a86bb8	620	196	1	8	0	0			vtab.c	assert	
+0x01a86e28	218	76	2	4	0	0			vtab.c	assert	
+0x01a86f04	446	146	2	12	0	0			vtab.c	assert	
+0x01a870c8	32	11	1	1	0	0				near	vtab.c
+0x01a870e8	110	42	1	1	0	0			vtab.c	assert	
+0x01a87158	904	320	2	9	3	1			vtab.c	assert	
+0x01a874f4	254	86	1	6	0	1			vtab.c	assert	
+0x01a875f4	460	172	1	8	0	2			vtab.c	assert	
+0x01a878f4	448	162	1	6	3	0			vtab.c	assert	
+0x01a87ac0	280	105	2	5	3	0			vtab.c	assert	
+0x01a87be0	144	51	1	3	1	0				near	vtab.c
+0x01a87c74	26	6	2	1	0	0				near	vtab.c
+0x01a87c90	26	6	2	1	0	0				near	vtab.c
+0x01a87cac	294	109	1	2	1	1				near	vtab.c
+0x01a87dd8	434	153	2	6	1	2			vtab.c	assert	
+0x01a87f90	150	57	3	2	0	1			vtab.c	assert	
+0x01a88028	100	39	3	3	0	0			bf/vu.cpp	assert	
+0x01a88090	70	28	4	2	0	0					
+0x01a880d8	180	70	35	3	1	0					
+0x01a8818e	196	69	10	3	1	0					
+0x01a88258	1086	449	1	3	7	0					
+0x01a886b4	222	85	22	3	1	0			walker.c	assert	
+0x01a88794	34	11	3	0	0	0	0xffc0				
+0x01a887b8	136	52	4	3	0	0					
+0x01a88844	240	91	4	5	0	0					
+0x01a88934	232	86	20	5	0	1			where.c	assert	
+0x01a88a1c	260	104	14	5	0	1			where.c	assert	
+0x01a88b20	486	165	11	5	0	2			where.c	assert	
+0x01a88d10	342	127	2	1	0	0			where.c	assert	
+0x01a88e78	418	172	10	4	0	0			where.c	assert	
+0x01a89020	6456	2282	7	34	0	12			where.c	assert	
+0x01a8a9c4	334	131	2	5	0	2			where.c	assert	
+0x01a8ab14	754	272	2	7	0	2			where.c	assert	
+0x01a8ae08	1136	486	2	12	1	4			where.c	assert	
+0x01a8b280	2426	884	2	15	0	3	0xfff0		where.c	assert	
+0x01a8bc1a	122	47	2	4	0	0				near	where.c
+0x01a8bc94	170	71	7	1	0	0			where.c	assert	
+0x01a8bd40	466	154	2	9	0	0			where.c	assert	
+0x01a8bf1c	238	87	2	4	0	0				near	where.c
+0x01a8c00c	3280	1130	7	27	0	5			where.c	assert	
+0x01a8cd06	994	352	8	11	0	1			where.c	assert	
+0x01a8d104	4466	1633	1	32	0	3			where.c	assert	
+0x01a8e3b0	134	41	1	1	0	0					
+0x01a8e8ec	32	8	1	1	0	0					
+0x01a8e90c	246	87	5	2	0	1					
+0x01a8ea02	70	26	10	1	0	0					
+0x01a8ea48	212	83	1	3	0	1					
+0x01a8eb1e	76	30	1	1	0	0					
+0x01a8eb6c	172	65	2	2	0	0					
+0x01a8ec1c	124	47	2	2	0	0					
+0x01a8ec98	54	15	1	0	0	0					
+0x01a8ecce	54	15	5	0	0	0					
+0x01a8ed04	30	11	4	0	0	0					
+0x01a8ed22	34	11	1	0	0	0					
+0x01a8ed44	78	28	3	2	0	0					
+0x01a8ed94	140	55	2	1	0	0					
+0x01a8ee24	140	55	7	1	0	0					
+0x01a8eeb4	142	56	5	1	0	0					
+0x01a8ef48	112	40	1	1	0	1					
+0x01a8efbc	22	9	2	0	0	0					
+0x01a8efd4	248	84	2	1	2	0					
+0x01a8f0cc	308	110	2	3	0	1					
+0x01a8f200	414	142	2	2	1	0					
+0x01a8f3a0	176	67	13	1	0	0					
+0x01a8f450	478	170	10	0	2	0					
+0x01a8f630	212	79	2	2	0	1					
+0x01a8f708	16	5	2	1	0	0					
+0x01a8f718	168	63	2	0	0	1					
+0x01a8f7c0	308	129	4	0	0	1					
+0x01a8f8f4	316	127	2	1	0	0					
+0x01a8fa30	210	90	1	2	0	0					
+0x01a8fb02	50	20	1	0	0	1					
+0x01a8fb36	120	38	5	1	0	1					
+0x01a8fbb0	120	42	5	1	0	1					
+0x01a8fc28	64	25	1	0	0	0					
+0x01a8fc68	310	104	2	3	0	3					
+0x01a8fda0	48	17	1	1	0	0					
+0x01a8fdd0	116	41	2	1	0	0					
+0x01a8fe48	172	72	2	2	0	1					
+0x01a8fef4	64	21	1	2	0	0					
+0x01a8ff34	528	206	2	4	0	1					
+0x01a90144	410	158	12	3	0	2					
+0x01a902e0	438	165	3	5	0	0					
+0x01a90498	258	91	10	3	1	0					
+0x01a905a0	226	84	1	2	0	0					
+0x01a90684	208	83	2	2	0	1					
+0x01a90754	106	40	3	0	0	1					
+0x01a907c4	590	194	7	6	0	3					
+0x01a90a80	124	46	10	1	0	1					
+0x01a90afc	84	33	2	2	0	0					
+0x01a90b50	304	102	2	3	0	0					
+0x01a90c88	724	239	4	11	1	2					
+0x01a90f64	1112	426	7	6	1	0					
+0x01a913c8	58	23	1	1	0	0					
+0x01a91404	338	117	17	8	0	0					
+0x01a91556	1260	444	6	12	0	2					
+0x01a91a54	464	181	11	5	0	0					
+0x01a91c28	214	78	13	5	1	1					
+0x01a91d00	1418	469	1	19	0	4					
+0x01a9228e	370	140	4	8	0	1					
+0x01a92404	86	38	2	1	0	1					
+0x01a9245c	246	101	2	1	0	3					
+0x01a92554	512	176	6	7	0	3					
+0x01a92758	1110	345	8	17	0	3					
+0x01a92bf8	842	274	1	8	0	4					
+0x01a92f50	1698	595	2	15	0	5					
+0x01a93610	54	17	1	2	0	0					
+0x01a93648	1356	480	2	17	0	5					
+0x01a93ba4	220	85	4	5	0	1					
+0x01a93c80	122	49	2	3	0	0					
+0x01a93cfc	486	186	2	5	0	0					
+0x01a93ee8	64	20	7	0	0	0					
+0x01a93ff2	242	96	1	2	0	2					
+0x01a940e6	172	70	3	0	0	2					
+0x01a94198	58	20	13	1	0	0					
+0x01a941d8	470	164	3	9	0	3					
+0x01a943b8	434	154	2	6	0	0					
+0x01a94610	102	39	2	3	0	0					
+0x01a94678	318	114	11	5	0	1					
+0x01a947c0	342	121	5	6	0	1					
+0x01a94918	354	134	2	9	0	1					
+0x01a94b4c	32	10	1	1	0	0					
+0x01a94b6c	32	10	1	1	0	0					
+0x01a94b8c	20	6	1	2	0	0					
+0x01a94ba6	132	50	5	1	0	0					
+0x01a94c2c	274	103	2	2	0	0					
+0x01a94d40	252	87	2	3	1	0					
+0x01a94e40	1784	681	1	20	0	5					
+0x01a95550	112	35	1	1	0	1					
+0x01a955c0	16	6	6	0	0	0					
+0x01a955d0	68	24	2	0	0	0					
+0x01a95614	248	92	2	3	0	0					
+0x01a9570c	560	202	1	4	0	2					
+0x01a9593c	134	56	1	0	0	1					
+0x01a959c4	38	14	1	0	1	0					
+0x01a959ea	36	12	2	0	1	0					
+0x01a95a14	184	59	20	4	1	0					
+0x01a95ad2	138	43	3	3	1	0					
+0x01a95b5e	48	17	1	1	1	0					
+0x01a95b8e	68	24	2	1	1	0					
+0x01a95bd4	116	49	2	0	0	0					
+0x01a95c6c	158	68	2	1	0	0					
+0x01a95d0c	94	39	1	3	0	0					
+0x01a95d70	1306	527	2	1	24	10					
+0x01a9629c	142	51	1	4	0	0					
+0x01a9632c	52	17	1	1	0	0					
+0x01a96360	360	117	1	6	0	0					
+0x01a964cc	444	152	1	10	0	0					
+0x01a9668a	82	29	1	1	0	0					
+0x01a966dc	162	61	1	3	0	0					
+0x01a96780	580	198	3	5	2	0					
+0x01a969c8	398	142	1	2	1	2					
+0x01a96b58	538	191	1	4	0	4					
+0x01a96d74	134	49	1	1	2	0					
+0x01a96e04	232	80	1	4	0	0					
+0x01a96ef0	4	2	4	0	0	0					
+0x01a96ef4	4	2	2	0	0	0					
+0x01a96ef8	2	1	2	0	0	0					
+0x01a96efc	16	5	1	1	0	0					
+0x01a96f0c	2	1	3	0	0	0					
+0x01a96f0e	2	1	3	0	0	0					
+0x01a96f10	2	1	2	0	0	0					
+0x01a96f14	36	12	3	1	0	0					
+0x01a96f38	36	12	6	1	0	0					
+0x01a96f5c	2	1	3	0	0	0					
+0x01a96f60	1324	479	1	20	0	0					
+0x01a97502	34	14	2	0	0	0					
+0x01a97524	36	15	2	0	0	0					
+0x01a97548	124	47	1	0	0	1					
+0x01a975c4	160	65	2	0	0	1					
+0x01a97664	150	57	1	0	0	1					
+0x01a976fa	176	63	6	1	0	0					
+0x01a977aa	200	73	2	2	0	0					
+0x01a97874	68	26	4	1	1	0					
+0x01a978b8	1128	406	2	10	1	0					
+0x01a97d30	1104	404	1	12	0	0					
+0x01a98188	298	109	2	7	0	0					
+0x01a982b4	2048	759	1	22	0	0					
+0x01a98b24	12	4	18	0	0	0					
+0x01a98b30	12	4	96	0	0	0					
+0x01a98b3c	58	20	22	1	1	0		0xffa0			
+0x01a98b78	56	19	22	1	1	0		0xffa0			
+0x01a98bb0	62	22	37	1	0	0					
+0x01a98bee	26	9	42	1	0	0					
+0x01a98c08	260	75	1	3	1	0		0xffa0			
+0x01a98d10	44	13	1	1	1	0		0xffa0			
+0x01a98d3c	278	100	4	1	0	0	0xffff				
+0x01a98e52	372	162	8	0	0	11					
+0x01a98fcc	466	194	9	5	0	5					
+0x01a991a4	54	22	8	3	0	0					
+0x01a991dc	1554	586	1	11	0	8					
+0x01a997f4	16	5	30	1	0	0					
+0x01a99804	220	82	2	4	0	0					
+0x01a998e0	18	6	1	1	0	0					
+0x01a998f4	18	6	1	1	0	0					
+0x01a99908	224	86	26	5	0	0					
+0x01a999e8	678	265	2	6	0	0					
+0x01a99c90	22	8	20	1	0	0					
+0x01a99ca8	24	9	1	1	0	0					
+0x01a99cc0	706	279	2	6	0	0					
+0x01a99f84	22	8	20	1	0	0					
+0x01a99f9c	24	9	2	1	0	0					
+0x01a99fb4	302	117	2	4	0	0					
+0x01a9a0e4	298	123	31	4	0	0					
+0x01a9a210	492	186	2	7	0	2					
+0x01a9a3fc	18	6	12	1	0	0					
+0x01a9a410	212	76	1	4	0	0	0xffff				
+0x01a9a4e4	420	165	2	8	0	3					
+0x01a9a688	18	6	1	1	0	0					
+0x01a9a69c	18	6	2	1	0	0					
+0x01a9a6b0	470	182	9	7	0	3					
+0x01a9a886	582	219	11	9	0	5					
+0x01a9aad0	374	148	1	5	0	5					
+0x01a9ac48	44	13	1	4	0	0					
+0x01a9ac74	386	134	1	6	0	4	0xffff				
+0x01a9adf8	16	5	1	1	0	0					
+0x01a9ae08	224	89	2	6	0	2					
+0x01a9aeec	720	283	1	8	0	3	0xffff				
+0x01a9b1c0	196	78	3	5	0	2					
+0x01a9b284	216	83	2	4	0	2					
+0x01a9b35c	60	18	1	0	0	0					
+0x01a9b398	34	12	1	0	0	0					
+0x01a9b450	502	175	4	9	0	2					
+0x01a9b648	256	91	4	5	0	0					
+0x01a9b74c	88	29	4	4	0	0					
+0x01a9b7a8	812	256	1	2	0	0					
+0x01a9bad4	514	185	13	0	11	0	0xffe0,0xffff	0xff80,0xffa0			
+0x01a9bcdc	420	157	13	0	9	0	0xffe0,0xffff	0xff80,0xffa0			
+0x01a9bf5c	62	25	1	0	0	0		0xff80			
+0x01a9bf9c	50	22	1	0	0	0		0xff80			
+0x01a9bfd0	106	34	1	0	2	0	0xffe0,0xffff	0xffa0			
+0x01a9c03c	120	37	1	1	1	0	0xffe0,0xffff	0xff80,0xffa0			
+0x01a9c0b8	116	32	1	1	1	0	0xffe0,0xffff	0xff80,0xffa0			
+0x01a9c138	60	23	7	1	0	0					
+0x01a9c174	258	77	7	2	3	0		0xffa0			
+0x01a9c2c0	302	120	7	1	4	0		0xff80,0xffa0			
+0x01a9c3f0	40	11	1	2	0	0					
+0x01a9c440	14	7	3	0	0	0					
+0x01a9c44e	12	6	2	0	0	0					
+0x01a9c45a	112	47	2	2	0	0	0xffe0				
+0x01a9c4ca	16	5	10	1	0	0					
+0x01a9c4dc	100	41	1	1	1	0					
+0x01a9c540	144	68	1	0	1	0					
+0x01a9c5d0	88	34	4	1	0	1					
+0x01a9c62c	104	43	1	1	1	0					
+0x01a9c694	104	43	2	1	1	0					
+0x01a9c6fc	104	43	1	1	1	0					
+0x01a9c764	154	65	1	3	0	1					
+0x01a9c7fe	52	19	1	3	0	0					
+0x01a9c834	76	29	1	3	0	0					
+0x01a9c880	86	39	6	1	0	0					
+0x01a9c8d6	62	23	7	4	0	0					
+0x01a9c914	130	53	1	3	0	0					
+0x01a9c998	32	15	2	0	0	1					
+0x01a9c9b8	158	67	2	4	0	0					
+0x01a9ca58	82	32	26	3	0	0					
+0x01a9caac	106	48	2	2	0	0					
+0x01a9cb16	56	21	2	3	0	0					
+0x01a9cb50	132	56	3	4	0	0					
+0x01a9cbd4	66	26	2	3	0	0					
+0x01a9cc18	68	27	1	3	0	0					
+0x01a9ccac	86	32	101	3	0	0					
+0x01a9cd04	50	19	10	2	0	0					
+0x01a9cd38	204	88	1	4	0	0					
+0x01a9ce04	100	45	234	1	0	0					
+0x01a9ce68	58	24	11	1	0	0					
+0x01a9ced2	52	21	8	1	0	0					
+0x01a9cf08	134	56	1	2	0	0					
+0x01a9cf90	98	44	2	1	0	0					
+0x01a9cff4	422	193	5	2	2	0					
+0x01a9d19c	154	66	2	2	0	0					
+0x01a9d238	98	41	2	1	0	0					
+0x01a9d29c	120	49	1	1	0	0					
+0x01a9d314	42	19	6	0	1	0					
+0x01a9d340	74	37	2	0	0	0					
+0x01a9d38c	126	51	1	0	0	1					
+0x01a9d4e4	42	15	5	0	0	0		0xff80			
+0x01a9d548	84	36	1	1	0	0		0xff80			
+0x01a9d6dc	66	28	2	0	0	1					
+0x01a9d71e	722	303	1	5	0	0					
+0x01a9d9f0	628	277	4	3	0	0					
+0x01a9dc64	680	295	1	7	0	3					
+0x01a9e200	166	72	5	1	1	2					
+0x01a9e39c	60	28	4	0	1	0					
+0x01a9e3d8	168	77	1	2	0	0					
+0x01a9e480	580	261	1	4	1	0					
+0x01a9e79e	234	102	1	2	1	0					
+0x01a9ea72	152	64	1	1	2	1					
+0x01a9ed32	390	177	1	2	4	0					
+0x01a9eeb8	190	85	2	2	0	1					
+0x01a9efb4	78	30	2	3	0	0					
+0x01a9f004	118	45	1	1	0	0					
+0x01a9f07c	8	4	1	0	0	0					
+0x01a9f084	48	16	3	0	0	0					
+0x01a9f0e4	20	7	6	1	0	0					
+0x01a9f0f8	266	118	6	3	0	1					
+0x01a9f208	144	68	1	0	0	0					
+0x01a9f2e2	76	30	4	1	0	1					
+0x01a9f330	22	8	1	1	0	0					
+0x01a9f348	18	6	42	1	0	0					
+0x01a9f35c	30	14	19	0	0	1					
+0x01a9f37c	90	40	44	0	0	2					
+0x01a9f3d8	94	42	269	0	0	2					
+0x01a9f438	38	14	1	2	0	0					
+0x01a9f45e	144	56	1	1	0	2					
+0x01a9f4f0	20	7	1	1	0	0					
+0x01a9f534	42	21	5	0	0	0					
+0x01a9f560	22	11	5	0	0	0					
+0x01a9f578	114	42	89	0	0	2					
+0x01a9f5ec	14	7	8	0	0	0					
+0x01a9f5fc	52	25	6	0	0	1					
+0x01a9f630	54	25	19	0	0	1					
+0x01a9f668	120	50	12	0	0	4					
+0x01a9f6e4	38	19	1	0	0	0					
+0x01a9f70c	18	6	1	1	0	0					
+0x01a9f720	74	29	3	4	0	0					
+0x01a9f758	18	6	2	1	0	0					
+0x01a9f76c	34	11	6	0	1	0		0xff80,0xffa0			
+0x01a9f78e	34	11	9	0	1	0		0xff80,0xffa0			
+0x01a9f7b0	52	21	1	1	1	0		0xffa0			
+0x01a9f7e4	48	19	3	1	1	0		0xffa0			
+0x01a9f814	32	11	1	1	0	0		0xff80			
+0x01a9f834	32	11	24	1	0	0		0xff80			
+0x01a9f86e	226	83	8	10	1	0		0xff80,0xffa0			
+0x01a9f8ec	100	35	25	5	1	0		0xffa0			
+0x01a9f924	44	18	1	2	0	0					
+0x01a9f950	236	111	2	0	0	0					
+0x01a9fa3c	448	207	2	1	0	1					
+0x01a9fbfc	132	57	1	1	0	0					
+0x01a9fc80	146	66	2	0	0	0					
+0x01a9fd14	308	141	3	1	0	0					
+0x01a9fe48	54	22	2	3	0	0					
+0x01a9fe7e	54	22	2	3	0	0					
+0x01a9feb4	274	122	2	4	0	2					
+0x01a9ffc8	120	51	2	1	0	0		0xff82			
+0x01aa0040	6	3	58	1	0	0					
+0x01aa0048	258	106	1	6	0	0					
+0x01aa014c	32	13	1	1	0	0					
+0x01aa016c	64	27	4	3	0	0					
+0x01aa01ac	358	152	2	4	0	2					
+0x01aa0318	374	159	8	5	0	3					
+0x01aa0498	78	32	17	5	0	0					
+0x01aa04e8	366	145	1	3	0	1					
+0x01aa0658	310	115	4	6	0	0					
+0x01aa0790	306	128	1	8	0	2					
+0x01aa08c2	18	6	2	1	0	0					
+0x01aa08d4	666	314	2	1	0	2					
+0x01aa0b70	190	88	1	2	0	0					
+0x01aa0c30	356	154	1	8	0	2					
+0x01aa0d94	18	6	1	1	0	0					
+0x01aa0da8	226	104	1	2	0	0					
+0x01aa0e8a	18	6	1	1	0	0					
+0x01aa0e9c	452	194	2	0	0	0					
+0x01aa1060	424	192	2	3	0	0					
+0x01aa1208	18	6	14	1	0	0					
+0x01aa121c	522	239	2	4	0	0					
+0x01aa1426	18	6	1	1	0	0					
+0x01aa1438	654	300	2	2	0	2					
+0x01aa16c8	82	36	1	1	1	0					
+0x01aa171c	76	27	1	3	0	0					
+0x01aa1768	26	11	1	0	0	0	0xffe0				
+0x01aa1782	28	12	1	0	0	0	0xffe0				
+0x01aa179e	142	50	2	0	0	2	0xffe0				
+0x01aa185c	42	19	10	0	0	2					
+0x01aa1958	276	99	1	2	1	1		0xffa0			
+0x01aa1a6c	50	19	1	0	0	0	0xffc0				
+0x01aa1a9e	68	24	1	0	0	0	0xffc0				
+0x01aa1ae4	56	16	1	0	0	0	0xffc0				
+0x01aa1b1c	42	14	1	0	0	0	0xffc0				
+0x01aa1b46	34	13	7	0	0	0		0xff80			
+0x01aa1b68	38	15	7	0	0	0		0xff80			
+0x01aa1b90	78	25	1	2	0	0		0xff80			
+0x01aa1be0	232	88	1	3	0	1	0xffe0				
+0x01aa23e8	72	21	4	0	0	0					
+0x01aa2430	56	17	2	0	0	0					
+0x01aa2468	82	28	2	0	0	0					
+0x01aa24bc	26	11	3	0	0	0					
+0x01aa25e4	106	39	3	2	0	0					
+0x01aa2650	62	18	1	3	0	0					
+0x01aa2690	64	19	1	3	0	0					
+0x01aa26d0	262	74	3	6	0	0	0xffc0				
+0x01aa27d8	68	26	5	3	0	0					
+0x01aa281c	148	42	1	1	0	0					
+0x01aa28b0	30	8	1	2	0	0					
+0x01aa28d0	224	77	1	3	0	1					
+0x01aa29b4	64	18	1	1	0	0					
+0x01aa29f4	162	56	1	3	0	0					
+0x01aa2a98	50	11	1	1	0	0	0xffc0				
+0x01aa2b04	14	4	27	1	0	0					
+0x01aa2b14	36	12	228	0	0	0					
+0x01aa2b76	116	53	3	0	0	0					
+0x01aa2bf8	16	5	1	0	0	0					
+0x01aa2c08	12	4	1	0	0	0					
+0x01aa2c14	54	25	1	0	1	0					
+0x01aa2c4a	68	26	7	0	3	0		0xffa0			
+0x01aa2c8e	108	44	1	2	0	0					
+0x01aa2cfa	56	24	2	2	0	0					
+0x01aa2d32	84	37	1	2	0	0					
+0x01aa2d86	94	38	5	2	0	0					
+0x01aa2df2	22	8	2	1	0	0					
+0x01aa2e08	42	18	2	0	0	1					
+0x01aa2e32	48	19	4	0	0	1					
+0x01aa2e62	14	7	2	0	0	0					
+0x01aa2e70	66	26	1	2	0	0					
+0x01aa3036	54	21	2	2	0	0					
+0x01aa306c	34	14	2	1	0	0					
+0x01aa308e	78	32	2	4	0	0					
+0x01aa30dc	14	5	2	0	0	0					
+0x01aa31da	112	48	2	2	0	0					
+0x01aa324a	232	85	43	6	0	0			build.c	assert	
+0x01aa36cc	20	9	9	0	0	1					
+0x01aa36e0	42	15	1	2	0	0					
+0x01aa370c	14	4	26	1	0	0					
+0x01aa372c	80	32	33	0	3	0		0xffa0			
+0x01aa373a	66	28	37	0	2	0		0xffa0			
+0x01aa3748	52	24	6	0	1	0					
+0x01aa377c	16	6	1	0	0	0					
+0x01aa378c	56	22	1	1	3	0		0xffa0			
+0x01aa379a	42	18	1	1	2	0					
+0x01aa37c4	158	74	1	3	3	0					
+0x01aa3862	32	13	633	1	0	0					
+0x01aa3882	122	55	1	2	1	0					
+0x01aa38fc	28	11	12	1	0	0					
+0x01aa3918	662	302	79	0	0	0					
+0x01aa3bb0	402	160	69	0	0	1					
+0x01aa3d44	48	23	15	0	0	0					
+0x01aa3d74	82	33	38	0	0	0					
+0x01aa3dc8	112	47	48	0	0	0					
+0x01aa3e38	116	51	44	0	0	0					
+0x01aa3eac	162	75	45	0	0	0					
+0x01aa3f50	96	41	5	0	0	0					
+0x01aa3fb0	120	54	2	0	0	0					
+0x01aa4028	94	44	16	0	0	0					
+0x01aa4088	58	24	88	0	0	0					
+0x01aa40c4	110	48	16	1	0	0					
+0x01aa4134	98	46	49	0	0	0					
+0x01aa4198	526	208	164	0	0	0					
+0x01aa43a8	666	304	67	0	0	0					
+0x01aa43b0	52	22	10	0	0	0					
+0x01aa43e4	48	19	3	0	0	0					
+0x01aa4414	420	115	1	6	0	0					
+0x01aa45bc	494	136	12	7	0	1					
+0x01aa47ac	130	48	231	0	0	2					
+0x01aa4830	104	38	63	0	0	2					
+0x01aa4898	174	69	20	0	0	2					
+0x01aa494a	128	52	302	1	0	0					
+0x01aa49cc	126	50	18	0	0	2					
+0x01aa4a52	302	91	25	1	0	2					
+0x01aa4b80	570	228	6	7	0	0					
+0x01aa4dbc	66	25	425	0	0	0					
+0x01aa4e00	66	25	7	0	0	0					
+0x01aa4e44	50	24	2	0	0	0					
+0x01aa4ff8	80	34	3	0	0	0					
+0x01aa5048	100	39	4	2	0	0					
+0x01aa50ac	94	37	6	5	0	0					
+0x01aa510c	198	88	3	3	0	0					
+0x01aa51d4	24	10	1	0	0	0					
+0x01aa51ec	42	15	4	0	0	0					
+0x01aa5218	42	15	4	0	0	0					
+0x01aa5244	76	31	547	0	0	0					
+0x01aa5290	64	27	2	0	0	0					
+0x01aa52d0	246	103	2	5	0	0					
+0x01aa53c8	256	93	147	0	0	0					
+0x01aa53ca	254	92	213	0	0	0					
+0x01aa54c8	214	91	902	0	0	1					
+0x01aa55a0	312	117	701	0	0	0					
+0x01aa56d8	58	24	2	0	0	0					
+0x01aa5714	32	14	1	0	0	0					
+0x01aa5734	32	14	1	0	0	0					
+0x01aa5754	86	39	6	0	0	0					
+0x01aa57ac	122	27	8	0	0	0					
+0x01aa5828	280	100	3	6	0	0					
+0x01aa5940	268	97	2	6	0	0					
+0x01aa5a4c	492	203	2	6	0	0					
+0x01aa5c38	48	19	32	0	0	0					
+0x01aa5c68	104	48	5	0	0	0					
+0x01aa5cd0	168	78	2	1	0	0					
+0x01aa5d78	60	14	327	0	0	0					
+0x01aa5db4	892	338	7	9	0	0		0xff81			
+0x01aa6130	1332	553	2	9	0	0					
+0x01aa6664	122	48	22	0	0	2					
+0x01aa66e0	102	41	30	0	0	2					
+0x01aa6748	646	277	1	6	0	0					
+0x01aa69d0	536	161	14	7	0	1					
+0x01aa6be8	130	46	1	1	0	0					
+0x01aa6c66	156	47	2	1	0	1					
+0x01aa6d08	264	87	3	1	0	3					
+0x01aa6e10	82	35	225	0	0	3					
+0x01aa6e64	118	52	100	0	0	4					
+0x01aa6edc	52	19	10	0	0	0					
+0x01aa6f10	94	40	1	2	0	0		0xff90			
+0x01aa6f70	94	41	1	2	0	0		0xff90			
+0x01aa6fd0	66	25	22	0	0	0					
+0x01aa7014	58	24	834	0	0	0					
+0x01aa7050	38	14	141	0	0	0					

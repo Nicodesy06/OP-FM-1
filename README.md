@@ -1,35 +1,43 @@
-# OP-1 #248 → M-VAVE FM1: research repository
+# OP-1 #248 → M-VAVE FM1: repository di ricerca
 
-Work in progress. This repository contains only tools and notes. No OP-1 firmware,
-extracted files or memory images are committed: they stay in `private/`, which is
-ignored by git.
+Ricerca sperimentale: quanta parte del firmware originale OP-1 (custom OS #248 di Maiko Pruett, derivato da #246 di teenage engineering) può essere eseguita, tradotta o recuperata sull'hardware M-VAVE FM1.
 
-## Tools
+Nel repository ci sono **solo strumenti, documenti e dati derivati** (hash, indirizzi, metriche). Firmware, file estratti e immagini di memoria restano in `private/`, che non è versionato. Provenienza e licenze sono in [`research/SOURCES.md`](research/SOURCES.md).
 
-| Path | What it does |
-| --- | --- |
-| `tools/fetch_firmware.sh` | Downloads op1_245–248.op1 into `private/fw` and checks their SHA-256 |
-| `tools/ldr/op1unpack.py` | Checks the CRC32 of an `.op1` file, unpacks the LZMA → TAR payload and writes an inventory |
-| `tools/ldr/ldrimg.py` | Parses Blackfin LDR blocks and builds a flat guest memory image |
-| `tools/ldr/xtea_probe.py` | Decrypts CALLBACK blocks with a key you supply and prints entropy statistics (it does not derive keys) |
-| `tools/bfin/` | `bftool`, built on op1emu's bcore: disassembles original code and calls a single original function |
-| `tools/analysis/funcmap.py` | Recovers functions from the disassembly: call graph, CFG walk, MMR/L1 use |
-| `tools/analysis/xref.py` | Adds string cross-references and attributes functions to source files through assert strings |
+## Documenti
 
-## Verified so far
+| Documento | Contenuto |
+|---|---|
+| [FIRMWARE_EXTRACTION](research/FIRMWARE_EXTRACTION.md) | struttura reale dei pacchetti 245–248 |
+| [OP1_BINARY_ANALYSIS](research/OP1_BINARY_ANALYSIS.md) | LDR, memoria, cifratura L1, simboli recuperati |
+| [OP1_246_VS_248](research/OP1_246_VS_248.md) | come Maiko ha patchato #246: 17 zone, 11 hook |
+| [OP1_FUNCTION_MAP](research/OP1_FUNCTION_MAP.md) | 3 679 funzioni, attribuzione ai sorgenti, funzioni chiave del Tape |
+| [FM1_HARDWARE_LIMITS](research/FM1_HARDWARE_LIMITS.md) | risorse FM1, confronto quantitativo, incompatibilità ISA |
+| [PORTING_STRATEGIES](research/PORTING_STRATEGIES.md) | stato delle tre strategie |
+| [PORTING_TRACEABILITY](research/PORTING_TRACEABILITY.md) | schede di porting e report di copertura |
+| [TEST_RESULTS](research/TEST_RESULTS.md) | test T1–T10 con comandi ed esiti |
 
-- The `.op1` format is CRC32 + LZMA + TAR. Between #246 and #248 only `OP1_vdk.ldr` changes.
-- SDRAM code is plaintext. Only the L1 `CALLBACK|INDIRECT` blocks are XTEA-encrypted, and the key
-  is provisioned per device into OTP. With an all-zero key the decrypted bytes stay random
-  (entropy ≈ 7.99 bits/byte).
-- #248 adds a new block at 0x01E00000 and redirects 12 original CALL/JUMP instructions plus
-  2 table pointers into it. The added code names its hooks (`hook_H1_rec_on` … `hook_H11_name_format`).
-- Function recovery finds 3,679 functions reached by direct calls (about 1.03 MB of code).
-  917 of them are attributed to a source file through assert strings.
+## Risultati principali (verificati)
 
-## Not yet done
+1. Il codice SDRAM di `OP1_vdk.ldr` è **in chiaro**: ~1 MB di codice disassemblabile. Sono cifrati con XTEA solo i blocchi L1 (80 564 B), con una chiave per dispositivo programmata in OTP.
+2. #248 è una **patch binaria a trampolini** su #246: un nuovo blocco a 0x01E00000 e 17 zone modificate. Tutti gli hook sono identificati tramite i contatori che incrementano.
+3. **pi32v2 non è binario-compatibile con Blackfin.** L'immagine OP-1 riserva ~23 MB di SDRAM contro ~432 KiB di RAM dati dell'FM1, e il codice inizializzato è 3,6 volte lo slot applicazione. Il firmware completo non può girare sull'FM1 non modificato.
 
-- Translating and comparing a function, and compiling it for Pi32v2.
-- Booting firmware in op1emu, which needs a NAND and OTP dump from a real device.
-- The documents in `research/`.
-- Nothing has been done on FM1 hardware.
+## Non ancora fatto
+
+- Esecuzione isolata, traduzione e compilazione pi32v2 di una funzione OP-1. Candidati: 0x01A36490, 0x01A53F08.
+- Avvio dell'OS OP-1 in op1emu. te-boot raggiunge il menu; l'OS richiede NAND e OTP di un dispositivo reale.
+- Qualsiasi attività sull'hardware FM1. Nessuna flash è stata eseguita e nessuna sarà eseguita senza autorizzazione esplicita.
+
+## Strumenti
+
+| Percorso | Funzione |
+|---|---|
+| `tools/fetch_firmware.sh` | scarica op1_245–248.op1 in `private/fw` e verifica gli SHA-256 |
+| `tools/ldr/op1unpack.py` | CRC32, LZMA → TAR, inventario |
+| `tools/ldr/ldrimg.py` | parser LDR Blackfin, immagine di memoria flat |
+| `tools/ldr/xtea_probe.py` | decifra i blocchi CALLBACK con una chiave *fornita* e ne misura l'entropia (non deriva chiavi) |
+| `tools/bfin/` | `bftool` (basato su bcore): disassembla codice originale, chiama una funzione originale |
+| `tools/analysis/funcmap.py` | recupero funzioni: call graph, CFG, dipendenze MMR/L1 |
+| `tools/analysis/xref.py` | riferimenti alle stringhe, attribuzione ai file sorgente tramite assert |
+| `tools/analysis/export_tsv.py` | esporta la mappa in `research/data/` |
