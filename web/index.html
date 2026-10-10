@@ -1,0 +1,73 @@
+<!doctype html>
+<!-- SPDX-License-Identifier: GPL-3.0-only -->
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FM1 Tape OS simulator</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+  <div id="device" aria-label="M-VAVE FM1 (simulated)">
+    <div id="top">
+      <div id="left">
+        <div class="knobs2">
+          <div class="enc" data-enc="master" data-label="MASTER"></div>
+          <div class="enc" data-enc="0" data-label="SELECT"></div>
+          <div class="enc" data-enc="6" data-label="PRESETS"></div>
+          <div class="enc" data-enc="1" data-label="ALGORITHM"></div>
+        </div>
+        <div class="octs">
+          <button class="btn" data-btn="0">OCT-</button>
+          <button class="btn" data-btn="1">OCT+</button>
+        </div>
+      </div>
+      <div id="screenwrap"><canvas id="screen" width="240" height="240"></canvas>
+        <div id="power"><button id="powerbtn">POWER ON</button><p>Avvia l'audio e il firmware simulato</p></div>
+      </div>
+      <div id="right">
+        <div class="knobs4">
+          <div class="enc big c1" data-enc="2" data-label="KNOB1"></div>
+          <div class="enc big c2" data-enc="3" data-label="KNOB2"></div>
+          <div class="enc big c3" data-enc="4" data-label="KNOB3"></div>
+          <div class="enc big c4" data-enc="5" data-label="KNOB4"></div>
+        </div>
+        <div class="btnrow">
+          <button class="btn" data-btn="2">FX</button>
+          <button class="btn" data-btn="3">SEL<small>DRUM</small></button>
+          <button class="btn" data-btn="4">ENV</button>
+          <button class="btn" data-btn="5">LFO</button>
+          <button class="btn" data-btn="6">EDIT</button>
+          <button class="btn" data-btn="7">GLO<small>MIXER</small></button>
+        </div>
+        <div class="btnrow">
+          <button class="btn" data-btn="8">HOME<small>SYNTH</small></button>
+          <button class="btn" data-btn="9">SAVE</button>
+          <button class="btn" data-btn="10">ARP</button>
+          <button class="btn" data-btn="11">SEQ<small>TAPE</small></button>
+          <button class="btn play" data-btn="12">PLAY</button>
+          <button class="btn rec" data-btn="13">REC</button>
+        </div>
+      </div>
+    </div>
+    <div id="keyboard"></div>
+  </div>
+  <section id="info">
+    <p id="status">spento</p>
+    <details open>
+      <summary>Comandi</summary>
+      <ul>
+        <li><b>Tastiera del computer</b>: A W S E D F T G Y H U J K O L P ; = note (F3 = A). Z / X = OCT- / OCT+.</li>
+        <li><b>Spazio</b> PLAY/STOP · <b>Invio</b> REC · <b>1</b> SYNTH (HOME) · <b>2</b> DRUM (SEL) · <b>3</b> TAPE (SEQ) · <b>4</b> MIXER (GLO) · <b>5</b> ENV · <b>6</b> LFO · <b>7</b> FX · <b>Shift</b> = EDIT.</li>
+        <li><b>Ctrl+Z</b> UNDO, <b>Ctrl+Y</b> REDO: il simulatore preme SEQ + OCT- / OCT+ come sull'FM1.</li>
+        <li><b>Encoder</b>: rotella del mouse o trascinamento verticale (touch compreso).</li>
+        <li>Combinazioni FM1: SEQ + OCT-/OCT+ undo/redo · SEQ + PLAY torna all'inizio · SAVE + REC cancella la traccia · GLO + F3..B3 mute 1..4.</li>
+      </ul>
+    </details>
+    <p class="note">Simulatore di FM1 Tape OS: il codice C condiviso con il firmware, compilato in WebAssembly. Non è un prodotto teenage engineering né M-VAVE. Il funzionamento nel browser non dimostra il funzionamento sull'hardware.</p>
+  </section>
+</main>
+<script type="module" src="app.js"></script>
+</body>
+</html>

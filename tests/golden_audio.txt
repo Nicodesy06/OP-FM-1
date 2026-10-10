@@ -1,0 +1,9 @@
+note_saw_lead b1ec7688
+wave_SAW 1b3f5cdc
+wave_SQUARE 2eb1ee4f
+wave_TRI 1cd7e3fd
+wave_SINE d1dbffc3
+wave_PWM cb43b688
+wave_SYNC e97ea0af
+wave_SUB bc43bdc2
+drums_8 099aa3d1

@@ -10,3 +10,5 @@ private/
 build/
 __pycache__/
 *.pyc
+references
+third_party/felucca/felucca_tables.h
